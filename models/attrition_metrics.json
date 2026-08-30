@@ -1,0 +1,11 @@
+{
+  "Model": "Random Forest",
+  "Precision": 0.1935483870967742,
+  "Recall": 0.5454545454545454,
+  "F1": 0.2857142857142857,
+  "ROC-AUC": 0.7875383043922369,
+  "cv_roc_auc": 0.7934627170582227,
+  "cv_roc_auc_std": 0.024873105217935697,
+  "trained_on": "train_set_only (400 samples)",
+  "performance_rating_removed": true
+}

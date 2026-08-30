@@ -21,8 +21,8 @@ EMPLOYEE (employee_attrition_processed.csv)
 |----------|------------|-------------|--------------|---------|----------------|
 | EmployeeID | employee_attrition | engagement | Disjoint | 0% | Different ID spaces (1-500 vs 3427+), likely different populations. Tables cannot be joined. |
 | JobRole/Title | employee_attrition | occupation | No match | 0% | HR internal labels vs O*NET standard titles. Manual mapping needed to connect. |
-| O*NET-SOC Code | occupation | essential_skills | 1:many | 100% | Clean foreign key. ~20 skills per occupation. Safe to join. |
-| O*NET-SOC Code | occupation | software_skills | 1:many | 100% | Clean foreign key. Variable skills per occupation. Safe to join. |
+| O*NET-SOC Code | occupation | essential_skills | 1:many | ~89% | Strong foreign key. 910 of 1016 codes match. ~20 skills per occupation. Safe to join for matched codes. |
+| O*NET-SOC Code | occupation | software_skills | 1:many | ~91% | Strong foreign key. 923 of 1016 codes match. Variable skills per occupation. Safe to join for matched codes. |
 
 ## Key Findings
 
