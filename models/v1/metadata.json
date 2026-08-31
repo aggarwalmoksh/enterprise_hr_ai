@@ -1,0 +1,8 @@
+{
+  "model_name": "Attrition Prediction Model",
+  "version": "v1",
+  "algorithm": "Random Forest",
+  "training_date": "2026-08-31",
+  "roc_auc": 0.7875,
+  "f1_score": 0.2857
+}
