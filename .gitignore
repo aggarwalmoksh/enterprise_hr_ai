@@ -28,10 +28,8 @@ Thumbs.db
 # Pytest
 .pytest_cache/
 
-# Data (generated - regenerate from notebooks)
+# Data (generated logs only)
 data/predictions/
-data/processed/
-data/features/
 
 # Streamlit
 .streamlit/secrets.toml

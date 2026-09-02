@@ -1,0 +1,501 @@
+Employee_ID,Department,Role,Risk_Level,Attrition_Probability,Engagement_Score,Satisfaction_Score,Skill_Gap_Count,Top_Skill_Gaps,Recommended_Training
+1,Finance,Auditor,MEDIUM,0.5334,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+2,Sales,Sales Executive,HIGH,0.7897,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+3,Support,Helpdesk,LOW,0.1067,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+4,HR,HR Executive,LOW,0.2436,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+5,Sales,Account Manager,LOW,0.1411,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+6,Support,Helpdesk,MEDIUM,0.4192,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+7,IT,Engineer,LOW,0.0832,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+8,HR,HR Executive,HIGH,0.6115,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+9,HR,HR Executive,MEDIUM,0.4902,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+10,Finance,Accountant,HIGH,0.783,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+11,HR,HR Executive,LOW,0.0887,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+12,Support,Helpdesk,LOW,0.0707,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+13,Finance,Accountant,LOW,0.1216,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+14,HR,HR Manager,LOW,0.0178,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+15,IT,Developer,LOW,0.0699,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+16,Marketing,SEO Analyst,LOW,0.0564,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+17,Support,Support Engineer,LOW,0.0435,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+18,IT,Tester,MEDIUM,0.418,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+19,Support,Helpdesk,LOW,0.0904,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+20,Support,Support Engineer,LOW,0.128,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+21,Support,Support Engineer,LOW,0.0551,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+22,Sales,Sales Executive,LOW,0.2498,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+23,IT,Tester,LOW,0.2831,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+24,IT,Tester,MEDIUM,0.5025,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+25,Marketing,Content Lead,MEDIUM,0.5113,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+26,Marketing,SEO Analyst,MEDIUM,0.5751,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+27,Sales,Sales Executive,HIGH,0.6864,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+28,Marketing,Content Lead,LOW,0.1405,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+29,Finance,Accountant,HIGH,0.6182,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+30,Support,Support Engineer,MEDIUM,0.4899,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+31,IT,Developer,HIGH,0.6965,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+32,Marketing,Content Lead,LOW,0.0706,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+33,IT,Tester,LOW,0.1229,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+34,IT,Engineer,LOW,0.272,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+35,Marketing,SEO Analyst,LOW,0.2114,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+36,Finance,Auditor,MEDIUM,0.5607,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+37,Marketing,Content Lead,MEDIUM,0.5064,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+38,Finance,Accountant,HIGH,0.6451,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+39,Finance,Auditor,MEDIUM,0.5577,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+40,Finance,Auditor,LOW,0.0655,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+41,Sales,Account Manager,LOW,0.0727,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+42,Marketing,Content Lead,LOW,0.0295,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+43,Marketing,Content Lead,LOW,0.0837,2.94,3.02,177,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+44,IT,Engineer,MEDIUM,0.5927,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+45,Finance,Accountant,HIGH,0.647,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+46,IT,Developer,HIGH,0.7291,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+47,Sales,Account Manager,MEDIUM,0.4027,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+48,Sales,Sales Executive,MEDIUM,0.5454,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+49,Support,Helpdesk,LOW,0.0882,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+50,IT,Tester,MEDIUM,0.5139,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+51,Sales,Sales Executive,MEDIUM,0.5515,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+52,Support,Support Engineer,MEDIUM,0.5069,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+53,Marketing,SEO Analyst,LOW,0.048,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+54,Finance,Auditor,LOW,0.0806,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+55,Finance,Accountant,MEDIUM,0.5574,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+56,IT,Developer,LOW,0.0699,2.94,3.02,2495,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+57,IT,Developer,LOW,0.1459,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+58,Support,Helpdesk,LOW,0.0961,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+59,Marketing,SEO Analyst,MEDIUM,0.5671,2.94,3.02,177,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+60,HR,HR Executive,LOW,0.0428,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+61,HR,HR Manager,HIGH,0.6566,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+62,IT,Tester,LOW,0.2453,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+63,HR,HR Manager,LOW,0.0708,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+64,Support,Helpdesk,LOW,0.1482,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+65,Sales,Account Manager,MEDIUM,0.4042,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+66,Marketing,Content Lead,MEDIUM,0.3494,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+67,Sales,Sales Executive,LOW,0.1642,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+68,Sales,Sales Executive,HIGH,0.7238,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+69,Sales,Account Manager,LOW,0.0244,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+70,Finance,Accountant,HIGH,0.7885,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+71,HR,HR Executive,LOW,0.0631,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+72,Marketing,Content Lead,LOW,0.0608,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+73,IT,Developer,HIGH,0.6659,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+74,Sales,Sales Executive,MEDIUM,0.3338,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+75,IT,Developer,MEDIUM,0.5089,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+76,HR,HR Manager,LOW,0.0356,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+77,Sales,Sales Executive,LOW,0.128,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+78,Sales,Sales Executive,MEDIUM,0.3665,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+79,Marketing,Content Lead,LOW,0.037,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+80,HR,HR Manager,HIGH,0.7313,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+81,Support,Helpdesk,LOW,0.1635,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+82,IT,Engineer,LOW,0.0451,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+83,IT,Developer,HIGH,0.6547,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+84,Finance,Auditor,LOW,0.2865,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+85,Sales,Sales Executive,HIGH,0.7383,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+86,Sales,Sales Executive,LOW,0.1159,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+87,Support,Support Engineer,LOW,0.0511,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+88,Marketing,Content Lead,MEDIUM,0.4147,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+89,Marketing,SEO Analyst,MEDIUM,0.5862,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+90,Finance,Auditor,MEDIUM,0.58,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+91,IT,Tester,HIGH,0.6663,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+92,Finance,Accountant,LOW,0.0569,2.94,3.02,1435,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+93,Sales,Account Manager,LOW,0.0692,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+94,Support,Helpdesk,LOW,0.1663,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+95,Support,Support Engineer,LOW,0.0679,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+96,Marketing,Content Lead,LOW,0.0646,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+97,HR,HR Manager,MEDIUM,0.4987,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+98,Marketing,Content Lead,MEDIUM,0.5009,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+99,HR,HR Executive,LOW,0.0705,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+100,Sales,Account Manager,LOW,0.0493,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+101,HR,HR Manager,HIGH,0.6498,2.94,3.02,398,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+102,HR,HR Executive,MEDIUM,0.5115,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+103,Sales,Account Manager,MEDIUM,0.4852,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+104,Support,Support Engineer,LOW,0.0935,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+105,Marketing,SEO Analyst,MEDIUM,0.5688,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+106,Finance,Accountant,HIGH,0.7691,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+107,IT,Developer,LOW,0.0778,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+108,HR,HR Executive,LOW,0.1056,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+109,Support,Support Engineer,LOW,0.0695,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+110,IT,Developer,LOW,0.1092,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+111,Support,Helpdesk,MEDIUM,0.5281,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+112,IT,Engineer,HIGH,0.7388,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+113,IT,Developer,MEDIUM,0.3248,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+114,Support,Helpdesk,MEDIUM,0.4858,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+115,Sales,Account Manager,LOW,0.0359,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+116,Support,Helpdesk,LOW,0.0847,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+117,Marketing,SEO Analyst,MEDIUM,0.5527,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+118,HR,HR Executive,HIGH,0.7355,2.94,3.02,398,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+119,Finance,Auditor,LOW,0.0747,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+120,Sales,Sales Executive,HIGH,0.6298,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+121,IT,Developer,HIGH,0.717,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+122,Support,Support Engineer,LOW,0.0408,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+123,Finance,Auditor,LOW,0.2715,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+124,IT,Engineer,LOW,0.0479,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+125,Finance,Accountant,LOW,0.0726,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+126,IT,Developer,LOW,0.0712,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+127,Sales,Sales Executive,LOW,0.119,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+128,HR,HR Executive,HIGH,0.655,2.94,3.02,398,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+129,Support,Support Engineer,MEDIUM,0.473,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+130,IT,Tester,LOW,0.0551,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+131,Support,Helpdesk,LOW,0.0292,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+132,HR,HR Executive,LOW,0.0704,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+133,Finance,Auditor,MEDIUM,0.3174,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+134,HR,HR Manager,LOW,0.0966,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+135,Marketing,Content Lead,LOW,0.0534,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+136,Marketing,SEO Analyst,MEDIUM,0.4933,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+137,Finance,Auditor,MEDIUM,0.3803,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+138,IT,Engineer,LOW,0.2173,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+139,IT,Developer,LOW,0.0782,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+140,Sales,Account Manager,MEDIUM,0.4909,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+141,IT,Tester,HIGH,0.7561,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+142,Sales,Account Manager,LOW,0.0538,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+143,Support,Helpdesk,LOW,0.1846,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+144,Sales,Account Manager,LOW,0.0548,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+145,Support,Support Engineer,LOW,0.0409,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+146,HR,HR Manager,LOW,0.0415,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+147,Sales,Account Manager,LOW,0.2603,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+148,Sales,Account Manager,LOW,0.1595,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+149,Support,Support Engineer,LOW,0.2756,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+150,Marketing,Content Lead,MEDIUM,0.4716,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+151,HR,HR Executive,MEDIUM,0.527,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+152,Sales,Account Manager,LOW,0.122,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+153,IT,Tester,LOW,0.1039,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+154,Marketing,SEO Analyst,MEDIUM,0.3808,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+155,HR,HR Executive,HIGH,0.6344,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+156,IT,Developer,HIGH,0.6064,2.94,3.02,2495,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+157,HR,HR Executive,HIGH,0.62,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+158,Marketing,Content Lead,LOW,0.0181,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+159,Support,Support Engineer,LOW,0.1332,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+160,Sales,Sales Executive,LOW,0.0818,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+161,Support,Helpdesk,MEDIUM,0.5675,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+162,Finance,Accountant,HIGH,0.6874,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+163,HR,HR Executive,LOW,0.0337,2.94,3.02,398,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+164,HR,HR Manager,MEDIUM,0.4014,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+165,IT,Tester,MEDIUM,0.3874,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+166,IT,Tester,LOW,0.0487,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+167,HR,HR Manager,LOW,0.0307,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+168,HR,HR Executive,HIGH,0.6285,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+169,Support,Support Engineer,LOW,0.0663,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+170,Sales,Account Manager,HIGH,0.838,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+171,Marketing,SEO Analyst,MEDIUM,0.5464,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+172,HR,HR Manager,LOW,0.0516,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+173,Support,Support Engineer,LOW,0.0455,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+174,Marketing,Content Lead,MEDIUM,0.5196,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+175,Marketing,SEO Analyst,MEDIUM,0.5453,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+176,Support,Helpdesk,MEDIUM,0.5703,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+177,Support,Helpdesk,LOW,0.1061,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+178,Sales,Account Manager,LOW,0.0485,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+179,Marketing,SEO Analyst,HIGH,0.7558,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+180,Support,Helpdesk,HIGH,0.7135,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+181,Support,Helpdesk,LOW,0.0677,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+182,Support,Support Engineer,LOW,0.0379,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+183,Sales,Account Manager,LOW,0.12,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+184,Finance,Auditor,LOW,0.1478,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+185,Sales,Sales Executive,MEDIUM,0.5855,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+186,IT,Developer,MEDIUM,0.597,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+187,Support,Support Engineer,LOW,0.0911,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+188,Support,Support Engineer,LOW,0.2922,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+189,Finance,Accountant,HIGH,0.8201,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+190,Finance,Auditor,MEDIUM,0.3074,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+191,HR,HR Executive,LOW,0.0898,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+192,IT,Engineer,HIGH,0.6442,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+193,Support,Support Engineer,MEDIUM,0.4632,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+194,Finance,Auditor,MEDIUM,0.4509,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+195,Support,Helpdesk,MEDIUM,0.4558,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+196,HR,HR Manager,MEDIUM,0.5668,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+197,HR,HR Executive,LOW,0.0414,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+198,Finance,Accountant,LOW,0.0847,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+199,IT,Tester,LOW,0.069,2.94,3.02,2495,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+200,IT,Engineer,HIGH,0.7584,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+201,Finance,Accountant,MEDIUM,0.3272,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+202,Finance,Accountant,MEDIUM,0.3248,2.94,3.02,1435,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+203,Marketing,SEO Analyst,MEDIUM,0.4517,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+204,HR,HR Executive,LOW,0.0762,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+205,Marketing,Content Lead,MEDIUM,0.3842,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+206,Sales,Sales Executive,LOW,0.1074,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+207,Support,Helpdesk,MEDIUM,0.4418,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+208,Support,Support Engineer,MEDIUM,0.4682,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+209,Sales,Account Manager,LOW,0.072,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+210,Sales,Sales Executive,LOW,0.2108,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+211,Finance,Auditor,LOW,0.0962,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+212,Sales,Account Manager,MEDIUM,0.5709,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+213,Sales,Sales Executive,LOW,0.1738,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+214,Sales,Account Manager,LOW,0.0627,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+215,HR,HR Manager,HIGH,0.6208,2.94,3.02,398,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+216,Marketing,SEO Analyst,LOW,0.1273,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+217,IT,Engineer,MEDIUM,0.5556,2.94,3.02,2495,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+218,IT,Developer,LOW,0.1162,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+219,Finance,Auditor,LOW,0.2669,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+220,Support,Support Engineer,LOW,0.0496,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+221,Sales,Sales Executive,HIGH,0.7615,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+222,Marketing,Content Lead,MEDIUM,0.3934,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+223,HR,HR Executive,LOW,0.047,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+224,Sales,Account Manager,MEDIUM,0.4054,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+225,Sales,Sales Executive,HIGH,0.8049,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+226,Finance,Auditor,LOW,0.205,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+227,Support,Helpdesk,HIGH,0.6048,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+228,Support,Support Engineer,MEDIUM,0.4621,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+229,HR,HR Manager,LOW,0.0433,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+230,Finance,Auditor,LOW,0.1307,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+231,Finance,Accountant,MEDIUM,0.4814,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+232,HR,HR Manager,MEDIUM,0.3403,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+233,IT,Developer,MEDIUM,0.418,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+234,Finance,Accountant,LOW,0.1065,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+235,HR,HR Executive,MEDIUM,0.5046,2.94,3.02,398,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+236,Finance,Accountant,LOW,0.0974,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+237,Sales,Account Manager,LOW,0.1122,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+238,Support,Support Engineer,LOW,0.0622,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+239,Finance,Auditor,MEDIUM,0.3493,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+240,IT,Developer,LOW,0.1346,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+241,Support,Helpdesk,LOW,0.0767,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+242,Marketing,Content Lead,LOW,0.036,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+243,Support,Support Engineer,LOW,0.0756,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+244,Support,Helpdesk,LOW,0.0809,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+245,Sales,Sales Executive,HIGH,0.7788,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+246,Finance,Accountant,MEDIUM,0.4315,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+247,IT,Engineer,MEDIUM,0.5517,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+248,IT,Engineer,MEDIUM,0.4713,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+249,HR,HR Executive,LOW,0.1421,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+250,IT,Developer,LOW,0.0461,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+251,Finance,Accountant,MEDIUM,0.5325,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+252,Support,Helpdesk,MEDIUM,0.5881,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+253,Marketing,SEO Analyst,LOW,0.0434,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+254,IT,Engineer,LOW,0.1041,2.94,3.02,2495,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+255,Sales,Sales Executive,MEDIUM,0.4472,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+256,HR,HR Manager,MEDIUM,0.5823,2.94,3.02,398,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+257,Finance,Accountant,HIGH,0.8286,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+258,HR,HR Executive,MEDIUM,0.5502,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+259,Finance,Auditor,LOW,0.0956,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+260,HR,HR Manager,MEDIUM,0.493,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+261,Marketing,SEO Analyst,LOW,0.109,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+262,IT,Tester,HIGH,0.7983,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+263,IT,Engineer,MEDIUM,0.4201,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+264,Finance,Auditor,HIGH,0.6604,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+265,HR,HR Executive,HIGH,0.6632,2.94,3.02,398,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+266,Marketing,Content Lead,LOW,0.0348,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+267,Support,Support Engineer,LOW,0.2103,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+268,Marketing,Content Lead,LOW,0.0405,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+269,HR,HR Executive,LOW,0.0884,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+270,HR,HR Executive,MEDIUM,0.3349,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+271,Finance,Accountant,LOW,0.1026,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+272,Marketing,Content Lead,LOW,0.1731,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+273,Sales,Account Manager,MEDIUM,0.3071,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+274,IT,Tester,LOW,0.0853,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+275,HR,HR Manager,MEDIUM,0.4564,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+276,IT,Engineer,LOW,0.0622,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+277,Sales,Account Manager,LOW,0.0711,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+278,Sales,Sales Executive,HIGH,0.7917,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+279,Sales,Account Manager,LOW,0.0994,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+280,Finance,Auditor,LOW,0.2616,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+281,Sales,Account Manager,LOW,0.2592,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+282,Finance,Accountant,MEDIUM,0.4439,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+283,HR,HR Manager,HIGH,0.7888,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+284,Support,Helpdesk,HIGH,0.727,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+285,Support,Helpdesk,MEDIUM,0.5232,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+286,Sales,Sales Executive,LOW,0.1612,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+287,IT,Developer,MEDIUM,0.3657,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+288,Marketing,SEO Analyst,MEDIUM,0.5104,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+289,Marketing,Content Lead,LOW,0.0718,2.94,3.02,177,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+290,Sales,Sales Executive,LOW,0.2436,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+291,IT,Developer,MEDIUM,0.3795,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+292,Sales,Sales Executive,MEDIUM,0.5301,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+293,HR,HR Manager,MEDIUM,0.5163,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+294,HR,HR Manager,MEDIUM,0.5246,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+295,Support,Helpdesk,LOW,0.2602,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+296,Support,Support Engineer,MEDIUM,0.4309,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+297,Support,Helpdesk,LOW,0.1323,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+298,Sales,Account Manager,LOW,0.0706,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+299,HR,HR Manager,LOW,0.0533,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+300,Finance,Accountant,MEDIUM,0.5847,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+301,Marketing,Content Lead,LOW,0.0421,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+302,Finance,Auditor,MEDIUM,0.3243,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+303,Sales,Account Manager,MEDIUM,0.5532,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+304,Sales,Sales Executive,LOW,0.1042,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+305,IT,Developer,LOW,0.0647,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+306,IT,Engineer,LOW,0.078,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+307,Finance,Auditor,MEDIUM,0.5531,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+308,HR,HR Manager,LOW,0.0768,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+309,IT,Developer,LOW,0.2911,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+310,HR,HR Manager,MEDIUM,0.5315,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+311,HR,HR Executive,LOW,0.0323,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+312,Support,Helpdesk,LOW,0.0625,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+313,Support,Support Engineer,HIGH,0.7482,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+314,HR,HR Manager,HIGH,0.7189,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+315,Sales,Sales Executive,MEDIUM,0.3933,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+316,Finance,Accountant,LOW,0.0568,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+317,Sales,Account Manager,LOW,0.0788,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+318,Sales,Account Manager,MEDIUM,0.3842,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+319,HR,HR Executive,HIGH,0.7455,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+320,Marketing,SEO Analyst,MEDIUM,0.4718,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+321,Marketing,SEO Analyst,LOW,0.0366,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+322,IT,Tester,HIGH,0.6471,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+323,Marketing,Content Lead,MEDIUM,0.4336,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+324,IT,Tester,HIGH,0.6372,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+325,IT,Engineer,LOW,0.0963,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+326,Marketing,Content Lead,MEDIUM,0.5267,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+327,Sales,Sales Executive,MEDIUM,0.3448,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+328,Finance,Accountant,HIGH,0.7879,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+329,HR,HR Manager,LOW,0.2517,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+330,IT,Developer,HIGH,0.6715,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+331,Sales,Account Manager,LOW,0.0611,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+332,Sales,Sales Executive,LOW,0.0928,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+333,HR,HR Manager,LOW,0.0927,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+334,Sales,Account Manager,MEDIUM,0.3642,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+335,Support,Support Engineer,MEDIUM,0.4705,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+336,HR,HR Executive,HIGH,0.619,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+337,Marketing,SEO Analyst,LOW,0.2133,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+338,Marketing,SEO Analyst,MEDIUM,0.4617,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+339,Marketing,Content Lead,LOW,0.0505,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+340,Marketing,Content Lead,LOW,0.2175,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+341,Finance,Auditor,MEDIUM,0.5991,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+342,IT,Tester,HIGH,0.6108,2.94,3.02,2495,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+343,HR,HR Executive,LOW,0.0889,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+344,Finance,Auditor,MEDIUM,0.4568,2.94,3.02,1435,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+345,Finance,Accountant,LOW,0.2494,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+346,HR,HR Manager,HIGH,0.7091,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+347,HR,HR Executive,LOW,0.0867,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+348,IT,Developer,HIGH,0.7707,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+349,Sales,Sales Executive,LOW,0.0914,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+350,Marketing,Content Lead,LOW,0.0367,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+351,HR,HR Manager,LOW,0.0635,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+352,Support,Helpdesk,HIGH,0.7221,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+353,IT,Tester,LOW,0.088,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+354,Support,Helpdesk,LOW,0.1208,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+355,Sales,Account Manager,LOW,0.0456,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+356,IT,Tester,MEDIUM,0.435,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+357,HR,HR Executive,LOW,0.0775,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+358,IT,Engineer,LOW,0.257,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+359,HR,HR Executive,LOW,0.0898,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+360,HR,HR Manager,HIGH,0.6384,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+361,Marketing,SEO Analyst,LOW,0.1922,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+362,Support,Helpdesk,LOW,0.0696,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+363,Support,Helpdesk,LOW,0.29,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+364,IT,Tester,LOW,0.0488,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+365,Sales,Sales Executive,MEDIUM,0.5127,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+366,Support,Helpdesk,MEDIUM,0.5985,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+367,Finance,Accountant,LOW,0.0659,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+368,IT,Developer,HIGH,0.7593,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+369,Sales,Account Manager,MEDIUM,0.5128,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+370,HR,HR Executive,LOW,0.0281,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+371,Finance,Accountant,LOW,0.0787,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+372,IT,Developer,HIGH,0.7682,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+373,Finance,Auditor,MEDIUM,0.3216,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+374,Finance,Accountant,MEDIUM,0.3714,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+375,Marketing,SEO Analyst,LOW,0.2622,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+376,IT,Engineer,MEDIUM,0.5594,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+377,Sales,Sales Executive,MEDIUM,0.5271,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+378,Sales,Sales Executive,HIGH,0.7252,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+379,Support,Support Engineer,LOW,0.0651,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+380,Marketing,SEO Analyst,MEDIUM,0.3056,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+381,IT,Tester,LOW,0.0185,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+382,Support,Support Engineer,LOW,0.1524,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+383,IT,Engineer,MEDIUM,0.444,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+384,Sales,Sales Executive,MEDIUM,0.5253,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+385,HR,HR Manager,LOW,0.0269,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+386,Sales,Sales Executive,HIGH,0.6798,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+387,Sales,Account Manager,LOW,0.0784,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+388,Marketing,Content Lead,LOW,0.07,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+389,Support,Support Engineer,LOW,0.0924,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+390,Sales,Account Manager,LOW,0.1415,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+391,Marketing,Content Lead,HIGH,0.6202,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+392,IT,Tester,MEDIUM,0.3276,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+393,Support,Helpdesk,LOW,0.1768,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+394,Finance,Accountant,LOW,0.1531,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+395,Sales,Account Manager,MEDIUM,0.3809,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+396,Marketing,SEO Analyst,LOW,0.117,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+397,IT,Engineer,LOW,0.2395,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+398,Sales,Sales Executive,MEDIUM,0.4886,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+399,Sales,Sales Executive,LOW,0.097,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+400,Finance,Accountant,LOW,0.2809,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+401,IT,Developer,HIGH,0.821,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+402,Marketing,SEO Analyst,HIGH,0.7627,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+403,Sales,Account Manager,MEDIUM,0.4938,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+404,IT,Developer,MEDIUM,0.3226,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+405,IT,Tester,MEDIUM,0.3923,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+406,Sales,Sales Executive,HIGH,0.7747,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+407,IT,Tester,LOW,0.0767,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+408,Support,Support Engineer,MEDIUM,0.3448,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+409,HR,HR Manager,MEDIUM,0.5287,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+410,Marketing,Content Lead,LOW,0.0301,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+411,Marketing,SEO Analyst,MEDIUM,0.5379,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+412,Support,Support Engineer,LOW,0.061,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+413,Finance,Auditor,HIGH,0.814,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+414,Finance,Auditor,LOW,0.2552,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+415,IT,Engineer,LOW,0.198,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+416,Finance,Auditor,MEDIUM,0.5728,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+417,Finance,Auditor,LOW,0.051,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+418,Sales,Account Manager,MEDIUM,0.4326,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+419,Marketing,Content Lead,LOW,0.0293,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+420,Sales,Account Manager,MEDIUM,0.4104,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+421,Finance,Auditor,HIGH,0.6169,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+422,Marketing,Content Lead,LOW,0.0689,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+423,Sales,Account Manager,MEDIUM,0.3098,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+424,Marketing,Content Lead,LOW,0.0638,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+425,Marketing,SEO Analyst,LOW,0.2239,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+426,Sales,Account Manager,LOW,0.2914,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+427,Finance,Accountant,LOW,0.0804,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+428,Sales,Account Manager,MEDIUM,0.481,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+429,Finance,Auditor,LOW,0.0923,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+430,Sales,Sales Executive,MEDIUM,0.4164,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+431,IT,Developer,LOW,0.049,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+432,Support,Support Engineer,LOW,0.0448,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+433,Sales,Sales Executive,HIGH,0.7121,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+434,Support,Support Engineer,LOW,0.1731,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+435,Support,Support Engineer,LOW,0.1827,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+436,Marketing,SEO Analyst,LOW,0.1838,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+437,HR,HR Executive,LOW,0.0956,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+438,Marketing,SEO Analyst,LOW,0.0626,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+439,Marketing,SEO Analyst,MEDIUM,0.4715,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+440,Sales,Sales Executive,MEDIUM,0.4764,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+441,Sales,Sales Executive,LOW,0.1793,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+442,Support,Helpdesk,MEDIUM,0.3309,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+443,HR,HR Manager,LOW,0.0565,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+444,IT,Tester,LOW,0.0916,2.94,3.02,2495,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+445,Sales,Account Manager,LOW,0.1535,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+446,Support,Helpdesk,MEDIUM,0.4974,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+447,Sales,Sales Executive,MEDIUM,0.4304,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+448,IT,Tester,HIGH,0.6722,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+449,Finance,Accountant,LOW,0.0458,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+450,IT,Developer,HIGH,0.7587,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+451,Support,Helpdesk,MEDIUM,0.4143,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+452,Support,Support Engineer,LOW,0.27,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+453,IT,Engineer,LOW,0.1066,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+454,IT,Engineer,LOW,0.1035,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+455,IT,Developer,LOW,0.0695,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+456,Marketing,Content Lead,MEDIUM,0.5107,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+457,Support,Helpdesk,MEDIUM,0.4821,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+458,HR,HR Executive,LOW,0.0698,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+459,Sales,Account Manager,LOW,0.0766,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+460,Marketing,SEO Analyst,LOW,0.2372,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+461,Finance,Accountant,HIGH,0.8393,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+462,Support,Support Engineer,LOW,0.0665,2.94,3.02,401,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+463,Finance,Accountant,LOW,0.1175,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+464,Sales,Account Manager,LOW,0.0898,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+465,Support,Helpdesk,MEDIUM,0.3868,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+466,IT,Developer,LOW,0.0511,2.94,3.02,2490,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+467,Finance,Auditor,LOW,0.0541,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+468,HR,HR Executive,HIGH,0.7543,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+469,Finance,Auditor,MEDIUM,0.5077,2.94,3.02,1432,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+470,HR,HR Executive,HIGH,0.8409,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+471,HR,HR Manager,LOW,0.0404,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+472,Finance,Accountant,HIGH,0.7863,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+473,IT,Engineer,HIGH,0.7061,2.94,3.02,2491,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+474,Finance,Auditor,HIGH,0.661,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+475,Sales,Account Manager,LOW,0.0812,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+476,HR,HR Manager,LOW,0.2267,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+477,Sales,Sales Executive,LOW,0.0922,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+478,Marketing,Content Lead,LOW,0.0721,2.94,3.02,174,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+479,IT,Tester,LOW,0.2777,2.94,3.02,2493,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+480,Support,Helpdesk,LOW,0.0737,2.94,3.02,400,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+481,IT,Developer,LOW,0.0892,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+482,Support,Support Engineer,MEDIUM,0.3783,2.94,3.02,399,"['3DGrid HIPAA Checkup', 'A-Systems JobView', 'ADP Enterprise HR']",ERP Implementation & Management
+483,IT,Tester,HIGH,0.6539,2.94,3.02,2495,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+484,Sales,Sales Executive,LOW,0.0549,2.94,3.02,669,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+485,Sales,Sales Executive,HIGH,0.6382,2.94,3.02,671,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+486,Sales,Sales Executive,LOW,0.1814,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+487,IT,Developer,LOW,0.0757,2.94,3.02,2492,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+488,Finance,Auditor,MEDIUM,0.5359,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+489,Finance,Accountant,LOW,0.2849,2.94,3.02,1434,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+490,HR,HR Manager,MEDIUM,0.5268,2.94,3.02,396,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+491,Sales,Account Manager,LOW,0.0798,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+492,Marketing,SEO Analyst,LOW,0.039,2.94,3.02,176,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals
+493,IT,Tester,LOW,0.084,2.94,3.02,2490,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+494,HR,HR Manager,MEDIUM,0.5521,2.94,3.02,397,"['ACS Technologies HeadMaster', 'ADP Enterprise HR', 'ADP Workforce Now']",ERP Implementation & Management
+495,IT,Developer,LOW,0.2023,2.94,3.02,2494,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+496,IT,Developer,LOW,0.1546,2.94,3.02,2496,"['!Trak-it Solutions !Trak-it HR', '100 Plus Hatch Pattern Library', '1099 ProsSoftware']",3D Graphics Fundamentals
+497,Finance,Auditor,LOW,0.0881,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+498,Finance,Accountant,HIGH,0.7934,2.94,3.02,1433,"['24SevenOffice Project', '3M Post-it App', '3PL Central']",Business Analytics Tools
+499,Sales,Account Manager,LOW,0.2926,2.94,3.02,670,"['3M Post-it App', 'ACT! Premium', 'ADP Drive DMS for Accounting']",Accounting Software Proficiency
+500,Marketing,Content Lead,LOW,0.1949,2.94,3.02,175,"['2AB iLock Security Services', '3M Post-it App', '911 system information databases']",Cybersecurity Fundamentals

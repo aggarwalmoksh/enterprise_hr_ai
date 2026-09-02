@@ -1,0 +1,4182 @@
+Skill,Employees_Missing,Severity
+Structured query language SQL,500,HIGH
+Microsoft SharePoint,500,HIGH
+YouTube,500,HIGH
+Microsoft Project,500,HIGH
+Google Ads,500,HIGH
+Microsoft Publisher,500,HIGH
+Critical Thinking,500,HIGH
+Blackboard software,500,HIGH
+Oracle Java,500,HIGH
+Speaking,500,HIGH
+Adobe Photoshop,500,HIGH
+Adobe ActionScript,500,HIGH
+Web browser software,500,HIGH
+Adobe Dreamweaver,500,HIGH
+Google Docs,500,HIGH
+JavaScript,500,HIGH
+Salesforce software,500,HIGH
+Microsoft Outlook,500,HIGH
+Adobe Acrobat,500,HIGH
+SAP software,500,HIGH
+Monitoring,500,HIGH
+Nearpod,500,HIGH
+Writing,500,HIGH
+Adobe Creative Cloud software,500,HIGH
+Oracle PeopleSoft,500,HIGH
+Hypertext markup language HTML,500,HIGH
+Slack,500,HIGH
+Apple macOS,500,HIGH
+Active Listening,500,HIGH
+LexisNexis,500,HIGH
+IBM Domino,500,HIGH
+Cascading style sheets CSS,500,HIGH
+Autodesk AutoCAD,500,HIGH
+Reading Comprehension,500,HIGH
+FileMaker Pro,500,HIGH
+Microsoft Windows,500,HIGH
+Social media sites,500,HIGH
+Corel WordPerfect Office Suite,500,HIGH
+Adobe After Effects,500,HIGH
+IBM Notes,500,HIGH
+SmugMug Flickr,500,HIGH
+Adobe InDesign,500,HIGH
+Microsoft PowerPoint,500,HIGH
+Google Drive,500,HIGH
+Blackbaud The Raiser's Edge,500,HIGH
+Cisco Webex,500,HIGH
+Marketo Marketing Automation,500,HIGH
+Oracle Eloqua,500,HIGH
+Microsoft Access,500,HIGH
+Facebook,500,HIGH
+LinkedIn,500,HIGH
+Adobe Illustrator,500,HIGH
+Microsoft Dynamics,500,HIGH
+Microsoft Office software,500,HIGH
+Microsoft SQL Server,500,HIGH
+Email software,500,HIGH
+Microsoft Visio,500,HIGH
+Python,464,HIGH
+Linux,460,HIGH
+SAS,428,HIGH
+Teradata Database,428,HIGH
+Microsoft Dynamics GP,428,HIGH
+Oracle Database,428,HIGH
+Human resource management software HRMS,428,HIGH
+Oracle PeopleSoft Financials,428,HIGH
+Oracle E-Business Suite Financials,428,HIGH
+IBM Cognos Impromptu,428,HIGH
+MySQL,428,HIGH
+SAP Business Objects,428,HIGH
+Loom,428,HIGH
+Epic Systems,428,HIGH
+IBM Power Systems software,428,HIGH
+Oracle Taleo,428,HIGH
+Oracle JD Edwards EnterpriseOne,428,HIGH
+R,428,HIGH
+Mozilla Firefox,428,HIGH
+Atlassian JIRA,428,HIGH
+Citrix cloud computing software,428,HIGH
+Oracle Primavera Enterprise Project Portfolio Management,428,HIGH
+Oracle Fusion Applications,428,HIGH
+LogMeIn GoToMeeting,428,HIGH
+MEDITECH software,428,HIGH
+ADP Workforce Now,428,HIGH
+Adobe PageMaker,428,HIGH
+Tableau,428,HIGH
+StataCorp Stata,428,HIGH
+Qlik Tech QlikView,428,HIGH
+IBM SPSS Statistics,428,HIGH
+Tax software,428,HIGH
+SAP Crystal Reports,428,HIGH
+Graphics software,428,HIGH
+PHP,428,HIGH
+Document management system software,428,HIGH
+Evernote,428,HIGH
+Scheduling software,428,HIGH
+Microsoft Internet Explorer,428,HIGH
+Sage 50 Accounting,428,HIGH
+Apple Safari,428,HIGH
+Oracle Hyperion,428,HIGH
+Data entry software,428,HIGH
+Geographic information system GIS software,428,HIGH
+Database software,428,HIGH
+Google Meet,428,HIGH
+Microsoft Visual Basic,428,HIGH
+MicroStrategy,428,HIGH
+Intuit QuickBooks,428,HIGH
+NetSuite ERP,428,HIGH
+Minitab,428,HIGH
+Extensible markup language XML,428,HIGH
+Oracle Business Intelligence Enterprise Edition,428,HIGH
+Autodesk Revit,423,HIGH
+UNIX,423,HIGH
+Active Learning,423,HIGH
+Virtual private networking VPN software,423,HIGH
+JamBoard,423,HIGH
+NortonLifeLock cybersecurity software,423,HIGH
+Microsoft Teams,423,HIGH
+Perl,423,HIGH
+Microsoft Exchange,423,HIGH
+Apple Final Cut Pro,418,HIGH
+Mentimeter,418,HIGH
+Airtable,418,HIGH
+Drupal,418,HIGH
+Data visualization software,418,HIGH
+LogMeIn GoToWebinar,418,HIGH
+Dynamic hypertext markup language DHTML,418,HIGH
+Google Slides,418,HIGH
+Apache Struts,418,HIGH
+Learning Strategies,401,HIGH
+Google Analytics,374,HIGH
+Fund accounting software,351,HIGH
+Financial accounting software,351,HIGH
+GroupMe,351,HIGH
+SAP BusinessObjects Crystal Reports,351,HIGH
+Medical condition coding software,351,HIGH
+Sage MAS 200 ERP,351,HIGH
+Yardi software,351,HIGH
+Apache Hadoop,351,HIGH
+Payroll software,351,HIGH
+Dropbox,351,HIGH
+Healthcare common procedure coding system HCPCS,351,HIGH
+Inventory tracking software,351,HIGH
+Blink,351,HIGH
+Medical procedure coding software,351,HIGH
+Delphi Technology,351,HIGH
+Screencastify,351,HIGH
+QuarkXPress,351,HIGH
+Work scheduling software,351,HIGH
+Trimble SketchUp Pro,351,HIGH
+Apache Groovy,351,HIGH
+Apache Pig,351,HIGH
+Inventory management systems,351,HIGH
+Social media software,351,HIGH
+Screencast-O-Matic,346,HIGH
+Kronos Workforce Timekeeper,346,HIGH
+WeVideo,346,HIGH
+Apache Cassandra,346,HIGH
+C++,346,HIGH
+Apple iMovie,346,HIGH
+Oracle WebLogic Server,346,HIGH
+Insightful S-PLUS,346,HIGH
+Oracle PL/SQL,346,HIGH
+Oracle Solaris,346,HIGH
+GitHub,346,HIGH
+Microsoft FrontPage,346,HIGH
+Skype,346,HIGH
+Microsoft Visual Basic for Applications VBA,346,HIGH
+Zoom,346,HIGH
+AJAX,346,HIGH
+ESRI ArcGIS software,346,HIGH
+The MathWorks MATLAB,346,HIGH
+Microsoft OneNote,346,HIGH
+Google Sites,346,HIGH
+IBM InfoSphere DataStage,346,HIGH
+Enterprise JavaBeans,346,HIGH
+Apple Keynote,341,HIGH
+WordPress,341,HIGH
+Canva,341,HIGH
+IBM Lotus 1-2-3,341,HIGH
+Microsoft Windows Server,341,HIGH
+Wireshark,341,HIGH
+McAfee,341,HIGH
+Twitter,341,HIGH
+Microsoft Visual Basic Scripting Edition VBScript,341,HIGH
+Shell script,341,HIGH
+Voice over internet protocol VoIP system software,341,HIGH
+Firewall software,341,HIGH
+HubSpot software,341,HIGH
+Extensible hypertext markup language XHTML,341,HIGH
+3M Post-it App,341,HIGH
+Microsoft SQL Server Reporting Services SSRS,329,HIGH
+ADP Enterprise HR,329,HIGH
+jQuery,329,HIGH
+Google,325,HIGH
+Supervisory control and data acquisition SCADA software,324,HIGH
+Geographic information system GIS systems,319,HIGH
+Oracle HRIS,319,HIGH
+Moodle,319,HIGH
+Learning management system LMS,319,HIGH
+Workday software,319,HIGH
+Budgeting software,274,HIGH
+Route mapping software,274,HIGH
+Electronic medical record EMR software,274,HIGH
+eClinicalWorks EHR software,274,HIGH
+Elasticsearch,269,HIGH
+Amazon Web Services AWS software,269,HIGH
+C,269,HIGH
+Hewlett Packard HP-UX,269,HIGH
+Structure query language SQL,269,HIGH
+Basecamp,269,HIGH
+Act!,269,HIGH
+Apache Hive,269,HIGH
+Red Hat Enterprise Linux,269,HIGH
+IBM DB2,269,HIGH
+Eclipse IDE,269,HIGH
+Database management software,269,HIGH
+Eko,269,HIGH
+Data analysis software,269,HIGH
+Apache Solr,269,HIGH
+Adobe Premiere Pro,269,HIGH
+NoSQL,269,HIGH
+Google Workspace software,269,HIGH
+Swift,269,HIGH
+React,269,HIGH
+Splunk Enterprise,269,HIGH
+Oracle Siebel Server Sync,269,HIGH
+Amazon Redshift,269,HIGH
+Graphics creation software,269,HIGH
+Google Cloud software,269,HIGH
+Oracle JavaServer Pages JSP,269,HIGH
+TikTok,269,HIGH
+Microsoft Azure software,269,HIGH
+IBM Cognos Business Intelligence,269,HIGH
+Atlassian Confluence,269,HIGH
+Ansible software,269,HIGH
+Ruby,269,HIGH
+Flow chart software,269,HIGH
+Bentley MicroStation,269,HIGH
+Ab Initio,269,HIGH
+Management information systems MIS,269,HIGH
+Flipgrid,269,HIGH
+Ruby on Rails,269,HIGH
+Jupyter Notebook,269,HIGH
+Microsoft ASP.NET,269,HIGH
+Relational database management software,269,HIGH
+Enterprise application integration EAI software,269,HIGH
+IBM Lotus Notes,269,HIGH
+LAMP Stack,269,HIGH
+Google Looker Analytics,269,HIGH
+FaceTime,269,HIGH
+Poll Everywhere,269,HIGH
+Dassault Systemes SolidWorks,269,HIGH
+Google Classroom,269,HIGH
+Adobe Acrobat Reader,264,HIGH
+Instagram,264,HIGH
+Online databases,253,HIGH
+HCSS HeavyJob,252,HIGH
+Computerized maintenance management system CMMS,252,HIGH
+Apache Maven,252,HIGH
+Mapping software,252,HIGH
+Sage 300 Construction and Real Estate,252,HIGH
+Bookkeeping software,252,HIGH
+Veritas NetBackup,252,HIGH
+Employee scheduling software,252,HIGH
+Microsoft SQL Server Integration Services SSIS,252,HIGH
+Time and attendance software,252,HIGH
+Cost estimating software,252,HIGH
+Sage ERP Accpac,252,HIGH
+Quicken,252,HIGH
+Microsoft SharePoint Server,252,HIGH
+Data logging software,252,HIGH
+GNU Image Manipulation Program GIMP,252,HIGH
+MicroFocus GroupWise,252,HIGH
+Sun Microsystems Java,252,HIGH
+HCSS HeavyBid,252,HIGH
+Integrated development environment IDE software,252,HIGH
+MathWorks Simulink,247,HIGH
+Backbone.js,247,HIGH
+Applicant tracking software,247,HIGH
+Perforce Helix software,247,HIGH
+Lawson Human Resource Management,247,HIGH
+Ultimate Software UltiPro Workplace,247,HIGH
+JavaScript Object Notation JSON,247,HIGH
+Human resource information system (HRIS),247,HIGH
+National Instruments LabVIEW,247,HIGH
+ESRI ArcView,247,HIGH
+Leica Geosystems ERDAS IMAGINE,247,HIGH
+Django,247,HIGH
+Software development tools,247,HIGH
+Dassault Systemes CATIA,247,HIGH
+Advanced business application programming ABAP,247,HIGH
+Wolfram Research Mathematica,247,HIGH
+Common Curriculum,247,HIGH
+Google Gmail,247,HIGH
+Statistical software,247,HIGH
+Global positioning system GPS software,247,HIGH
+Adobe Captivate,247,HIGH
+KornShell,242,HIGH
+Nagios,242,HIGH
+Video editing software,242,HIGH
+ServiceNow,242,HIGH
+Apache Kafka,242,HIGH
+Cisco IOS,242,HIGH
+Avid Technology Media Composer,242,HIGH
+Slido interaction software,242,HIGH
+Microsoft PowerShell,242,HIGH
+National Crime Information Center (NCIC) database,242,HIGH
+iParadigms Turnitin,242,HIGH
+Sakai CLE,242,HIGH
+Course management system software,242,HIGH
+DOC Cop,242,HIGH
+Collaborative editing software,242,HIGH
+ParentSquare,242,HIGH
+Desire2Learn LMS software,242,HIGH
+Image scanning software,242,HIGH
+Blackboard Learn,242,HIGH
+Docker,234,HIGH
+Kubernetes,227,HIGH
+SAP,205,HIGH
+Microsoft Excel,201,HIGH
+Border Gateway Protocol BGP,192,HIGH
+Apple iOS,192,HIGH
+AMS Services AMS Sagitta,192,HIGH
+Microsoft Office Live Meeting,192,HIGH
+Asana,192,HIGH
+Informatica Corporation PowerCenter,192,HIGH
+AdRelevance,192,HIGH
+Quark enterprise publishing software,192,HIGH
+The General Store,192,HIGH
+Inventory control system software,192,HIGH
+Software as a service SaaS,192,HIGH
+HMS,192,HIGH
+Brainworks,192,HIGH
+Microsoft Active Directory,192,HIGH
+Yardi Systems Yardi Enterprise,192,HIGH
+Single sign-on SSO,192,HIGH
+Sales analysis software,192,HIGH
+Relex Weibull,192,HIGH
+TimeValue software,192,HIGH
+Experience in Software Webplanner,192,HIGH
+Figma,192,HIGH
+Security assertion markup language SAML,192,HIGH
+Intuit QuickBooks Point of Sale,192,HIGH
+Business analysis software,192,HIGH
+MicroStrategy Desktop,192,HIGH
+RESTful API,192,HIGH
+Platform as a service PaaS,192,HIGH
+ACT! Premium,192,HIGH
+Network directory services software,192,HIGH
+Content management systems CMS,192,HIGH
+PaloAlto Advertising Plan Pro,192,HIGH
+Cisco Systems CiscoWorks,192,HIGH
+Contact management systems,192,HIGH
+Kapwing,192,HIGH
+Microsoft Dynamics CRM,192,HIGH
+Actuate BIRT,192,HIGH
+Financial needs analysis software,192,HIGH
+Microsoft Dynamics Marketing,192,HIGH
+Apache HBase,192,HIGH
+SAP Adaptive Server Enterprise,192,HIGH
+Contact management software,192,HIGH
+Cisco Systems VPN Client,192,HIGH
+Microsoft Word,186,HIGH
+PracticeWorks Systems Kodak WINOMS CS,181,HIGH
+Padlet,181,HIGH
+Plexis Software Plexis POS,181,HIGH
+Microsoft Edge,181,HIGH
+Henry Schein Dentrix,181,HIGH
+Handheld computer device software,181,HIGH
+ActionWare,176,HIGH
+Relational database software,176,HIGH
+Palisade StatTools,176,HIGH
+Mozilla Thunderbird,176,HIGH
+Factiva,176,HIGH
+vtiger CRM,176,HIGH
+Maximizer Software Maximizer Enterprise,176,HIGH
+AMG Teleran SalesInSync,176,HIGH
+MailChimp,176,HIGH
+Vanguard Software Vanguard Sales Manager,176,HIGH
+HEAT Software GoldMine,176,HIGH
+Software on Sailboats Desktop Sales Manager,176,HIGH
+SAP Business One,176,HIGH
+SeaMonkey,176,HIGH
+Pinterest,176,HIGH
+Avidian Technologies Prophet,176,HIGH
+Financial planning software,176,HIGH
+Kronos Enterprise Workforce Management,176,HIGH
+Infor ERP SyteLine,176,HIGH
+NetSuite NetCRM,176,HIGH
+Salesforce.com Salesforce CRM,176,HIGH
+QuickBase business management software,176,HIGH
+AEC Software FastTrack Schedule,176,HIGH
+Adobe Experience Manager (AEM),176,HIGH
+Atlas Construction Business Forms,175,HIGH
+e-MDs Bill,175,HIGH
+Microsoft Windows XP,175,HIGH
+IBM Maximo Asset Management,175,HIGH
+Drawing and drafting software,175,HIGH
+Craftsman CD Estimator,175,HIGH
+OpenOffice.org,175,HIGH
+PCC Pediatric Partner,175,HIGH
+ValuSoft MasterCook,175,HIGH
+HVAC tools software,175,HIGH
+Corel CorelDraw Graphics Suite,175,HIGH
+Adobe LiveMotion,175,HIGH
+Adobe PostScript,175,HIGH
+Job costing software,175,HIGH
+Adobe FrameMaker,175,HIGH
+Insight Direct ServiceCEO,175,HIGH
+Computer aided design and drafting CADD software,175,HIGH
+Building automation software,175,HIGH
+Software libraries,175,HIGH
+Corel Paint Shop Pro,175,HIGH
+Corel Ventura,175,HIGH
+Multi-line optical character reader OCR software,175,HIGH
+Estimating software,175,HIGH
+Facility energy management software,175,HIGH
+PointClickCare healthcare software,175,HIGH
+Wintac Pro,175,HIGH
+Adobe FreeHand MX,175,HIGH
+Google Sheets,175,HIGH
+GE Healthcare Centricity EMR,175,HIGH
+Turtle Creek Software Goldenseal,175,HIGH
+Aurora FoodPro,175,HIGH
+Formula translation/translator FORTRAN,170,HIGH
+M-Tech Hotel Service Optimization System HotSOS,170,HIGH
+Microsoft FRx,170,HIGH
+Microsoft Business Contact Manager,170,HIGH
+ADP Pay eXpert,170,HIGH
+Siemens NX,170,HIGH
+BizBench,170,HIGH
+Mathematics,170,HIGH
+CNC Mastercam,170,HIGH
+Corel QuattroPro,170,HIGH
+Apache Subversion SVN,170,HIGH
+Practice management software PMS,170,HIGH
+Amazon Kinesis,170,HIGH
+VMware,170,HIGH
+Sage MAS 90 ERP,170,HIGH
+Computer aided design and drafting software CADD,170,HIGH
+Microsoft Visual Basic.NET,170,HIGH
+Informatica software,170,HIGH
+Aspen Graphics Technical Analysis Software,170,HIGH
+Red Hat OpenShift,170,HIGH
+IBM WebSphere MQ,170,HIGH
+MasterControl software,170,HIGH
+C#,170,HIGH
+Oracle Fusion Middleware,170,HIGH
+Google Earth Pro,170,HIGH
+Amazon Elastic Compute Cloud EC2,170,HIGH
+Leading Market Technologies EXPO,170,HIGH
+Sage HRMS,170,HIGH
+Time reporting software,170,HIGH
+Sage MAS 500,170,HIGH
+Financial reporting software,170,HIGH
+Scala,170,HIGH
+Google Angular,170,HIGH
+Microsoft Power Platform software,170,HIGH
+Apache HTTP Server,170,HIGH
+AVEVA InTouch HMI,170,HIGH
+IBM Rational RequisitePro,170,HIGH
+TensorFlow,170,HIGH
+Amazon DynamoDB,170,HIGH
+Puppet,170,HIGH
+Transact-SQL,170,HIGH
+Oracle Primavera Systems,170,HIGH
+Microsoft Team Foundation Server,170,HIGH
+Microsoft ActiveX,170,HIGH
+Salesforce Visualforce,170,HIGH
+Experian Credinomics,170,HIGH
+Red Hat WildFly,170,HIGH
+Alteryx software,170,HIGH
+Microsoft .NET Framework,170,HIGH
+CruiseControl,170,HIGH
+Estate planning software,170,HIGH
+Go,170,HIGH
+IBM WebSphere,170,HIGH
+Ceridian Dayforce enterprise HCM,170,HIGH
+Chatbot software,170,HIGH
+Accounts receivable software,170,HIGH
+Atlassian Bamboo,170,HIGH
+Selenium,170,HIGH
+Node.js,170,HIGH
+Spring Framework,170,HIGH
+CDA International Manifold System,170,HIGH
+Oracle SQL Loader,170,HIGH
+Monte Carlo simulation software,170,HIGH
+Spring Boot,170,HIGH
+ESRI ArcPad,170,HIGH
+QAD Adaptive ERP,170,HIGH
+PyTorch,170,HIGH
+MongoDB,170,HIGH
+PostgreSQL,170,HIGH
+IBM Rational Build Forge,170,HIGH
+Autodesk AutoCAD Civil 3D,170,HIGH
+Adobe Distiller,170,HIGH
+Mathsoft Mathcad,170,HIGH
+Amazon Simple Storage Service S3,170,HIGH
+Laboratory information management system LIMS,170,HIGH
+Moody's KMV CreditEdge,170,HIGH
+Epicor Vantage ERP,170,HIGH
+Financial compliance software,170,HIGH
+Business performance management BPM software,170,HIGH
+Atlas Business Solutions Staff Files,170,HIGH
+Wide area network WAN software,170,HIGH
+Oracle Cloud software,170,HIGH
+IBM Rational ClearQuest,170,HIGH
+Auditing software,170,HIGH
+Science,170,HIGH
+Hewlett Packard LoadRunner,170,HIGH
+SAS JMP,170,HIGH
+Avid Technology audio visual editing software,170,HIGH
+ArcSight Enterprise Threat and Risk Management,170,HIGH
+Mathematical software,170,HIGH
+SAP PowerBuilder,170,HIGH
+Esri ArcGIS,170,HIGH
+Version control software,170,HIGH
+Derivicom FinOptions XL,170,HIGH
+Microsoft Power BI,170,HIGH
+Apache Tomcat,170,HIGH
+Sage 100 Contractor,170,HIGH
+Ext JS,170,HIGH
+Microsoft Active Server Pages ASP,170,HIGH
+Snort,170,HIGH
+SAP BusinessObjects Data Integrator,170,HIGH
+Tax compliance property tax management software,170,HIGH
+Hibernate ORM,170,HIGH
+Snowflake,170,HIGH
+Reporting software,170,HIGH
+Microsoft Visual Studio,170,HIGH
+Oracle NetSuite,170,HIGH
+Electronic health record EHR software,170,HIGH
+Web server software,170,HIGH
+LSA Visual Easy Lean,170,HIGH
+Microsoft ASP.NET Core MVC,170,HIGH
+SAP business and customer relations management software,170,HIGH
+UNIX Shell,170,HIGH
+Deltek Costpoint,170,HIGH
+Microsoft Visual FoxPro,170,HIGH
+PTC Creo Parametric,170,HIGH
+Hewlett-Packard HP OpenVMS,170,HIGH
+ADP HR/Benefits Solution,170,HIGH
+Quest Erwin Data Modeler,170,HIGH
+Prolog,170,HIGH
+JUnit,170,HIGH
+Apache Spark,170,HIGH
+Oracle JDBC,170,HIGH
+Data modeling software,170,HIGH
+Bash,170,HIGH
+Realization Streamliner,170,HIGH
+Siemens Teamcenter,170,HIGH
+Encryption software,170,HIGH
+Local area network LAN software,170,HIGH
+SAP NetWeaver BW,170,HIGH
+Customer information control system CICS,170,HIGH
+Optimization software,170,HIGH
+Job control language JCL,170,HIGH
+Human resources management system HRMS,170,HIGH
+Oracle Java 2 Platform Enterprise Edition J2EE,170,HIGH
+Autodesk Maya,170,HIGH
+PricewaterhouseCoopers TeamMate,170,HIGH
+Chef,170,HIGH
+AnalyzerXL,170,HIGH
+Microsoft Power Automate,170,HIGH
+Interface definition language IDL,170,HIGH
+Statistical process control SPC software,170,HIGH
+Ubuntu,170,HIGH
+Videoconferencing software,170,HIGH
+Infor ERP Baan,170,HIGH
+Microsoft MapPoint,170,HIGH
+Objective C,170,HIGH
+Unified modeling language UML,170,HIGH
+IBM Cognos,170,HIGH
+Oracle SQL Developer,170,HIGH
+Microsoft Dynamics AX,170,HIGH
+Clarity Systems IBM Clarity,170,HIGH
+Bentley STAAD,170,HIGH
+Web content management system CMS software,170,HIGH
+Apache Ant,170,HIGH
+PVsyst,170,HIGH
+WorkForce Software EmpCenter Time and Attendance,170,HIGH
+Common business oriented language COBOL,170,HIGH
+Real time operating system RTOS software,170,HIGH
+UCN inContact Workforce Management Software WFM,170,HIGH
+Bloomberg Professional,170,HIGH
+Usability testing software,170,HIGH
+Altia Design,170,HIGH
+ESRI ArcGIS Spatial Analyst,170,HIGH
+SAP ERP Human Capital Management,170,HIGH
+Student information systems SIS software,170,HIGH
+TechSmith Camtasia,170,HIGH
+Dartfish ProSuite,170,HIGH
+Schoology,170,HIGH
+Scanning software,170,HIGH
+Simulation software,170,HIGH
+Regression testing software,170,HIGH
+Seesaw,170,HIGH
+ESRI ArcMap,170,HIGH
+ESRI ArcGIS Geostatistical Analyst,170,HIGH
+Graphical user interface GUI design software,170,HIGH
+Trimble Pathfinder Office,170,HIGH
+ESRI ArcGIS Survey 123,170,HIGH
+Debugging software,170,HIGH
+RockWare ArcMap,170,HIGH
+Employee self-service software,170,HIGH
+GibbsCAM,170,HIGH
+ESRI ArcInfo,170,HIGH
+Network management software,165,HIGH
+Audacity,165,HIGH
+Antivirus software,165,HIGH
+NovaStor NovaBACKUP,165,HIGH
+NavisWorks Jetstream,165,HIGH
+Oracle Business Intelligence Discoverer,165,HIGH
+Access management software,165,HIGH
+Law enforcement information databases,165,HIGH
+Cisco Systems Cisco Traffic Analyzer,165,HIGH
+Apple QuickTime,165,HIGH
+Autodesk Navisworks,165,HIGH
+Allscripts healthcare automation software,159,HIGH
+Report generation software,159,HIGH
+Warehouse management system WMS,159,HIGH
+Inventory control software,159,HIGH
+Programmable logic controller PLC software,159,HIGH
+Computerized diagnostic software,159,HIGH
+Property management system PMS software,159,HIGH
+ElearningForce JoomlaLMS,154,HIGH
+Edulastic,154,HIGH
+dominKnow Learning Center,154,HIGH
+Eedo Knowledgeware Eedo Force Ten,154,HIGH
+Intellum Rollbook,154,HIGH
+HP Trim,154,HIGH
+ICS Learning Group Inquisiq EX,154,HIGH
+OnPoint Digital OnPoint Learning & Performance Suite,154,HIGH
+Telania eLeaP Learning Management System LMS/LCMS,154,HIGH
+Blatant Media Absorb LMS,154,HIGH
+Medworxx Learning Management System,154,HIGH
+Computer Generated Solutions Learning Management System,154,HIGH
+Plateau Learning Management System LMS,154,HIGH
+Intelligent Information Conversion Technologies MeritScholar,154,HIGH
+The Human Equation InSite LMS,154,HIGH
+Mzinga On-Demand Learning Suite,154,HIGH
+Pathlore LMS,154,HIGH
+Xyleme Learning Content Management System LCMS,154,HIGH
+NetDimensions Enterprise Knowledge Platform EKP,154,HIGH
+SkillSoft SkillPort,154,HIGH
+Adobe Presenter,154,HIGH
+TrainCaster LMS,154,HIGH
+PRO-ductivity Systems Compliance Training Manager Web,154,HIGH
+techniques.org knowledgeWorks LMS,154,HIGH
+Beeline Learning Management System LMS,154,HIGH
+STATISTICA,154,HIGH
+Kronos Workforce Payroll,154,HIGH
+Learn HQ Activate LMS,154,HIGH
+Inspired eLearning iLMS,154,HIGH
+Intelladon Enterprise Knowledge Platform EKP,154,HIGH
+Ikonami AT-Learning Tool,154,HIGH
+Employee performance management system,154,HIGH
+FlexTraining Total e-Learning Solution,154,HIGH
+Cobent Learning and Compliance Suite LCS,154,HIGH
+EZ LCMS,154,HIGH
+Articulate Rapid E-Learning Studio,154,HIGH
+RISC Virtual Training Assistant,154,HIGH
+Brainshark Rapid Learning,154,HIGH
+Right Reason Technologies RightTrack,154,HIGH
+TrainOnTrack Learning Management System LMS,154,HIGH
+Upside Learning UpsideLMS,154,HIGH
+Xerceo Learn,154,HIGH
+Ziiva Prosperity LMS,154,HIGH
+GeoMetrix Data Systems Training Partner,154,HIGH
+G-Cube Solutions Wizdom Web LMS,154,HIGH
+SumTotal Systems TotalLMS,154,HIGH
+SumTotal Systems ToolBook,154,HIGH
+Operitel LearnFlex,154,HIGH
+Alchemy Systems SISTEM,154,HIGH
+Apple iPhoto,154,HIGH
+Myspace,149,HIGH
+Avid Technology Pro Tools,149,HIGH
+Adobe Audition,149,HIGH
+Intrado SchoolMessenger,149,HIGH
+Apple Final Cut Express,149,HIGH
+Git,132,HIGH
+Oracle Darwin,99,MEDIUM
+Main Street Softworks Monetra,99,MEDIUM
+Provalis Research Simstat,99,MEDIUM
+Electronic data interchange EDI software,99,MEDIUM
+seoClarity,99,MEDIUM
+Stamps.com software,99,MEDIUM
+Searchmetrics Suite,99,MEDIUM
+MicroBiz,99,MEDIUM
+Solar analysis software,99,MEDIUM
+Tigerpaw,99,MEDIUM
+Showing Suite HomeFollowup,99,MEDIUM
+Agency management software,99,MEDIUM
+Financial calculators software,99,MEDIUM
+Avid Media Composer,99,MEDIUM
+Novo Customer Tracking Software,99,MEDIUM
+Ahrefs Site Explorer,99,MEDIUM
+LOB RetailPoint,99,MEDIUM
+Millennium Software Atrex,99,MEDIUM
+American Precision Instruments Regit,99,MEDIUM
+"Open Text Fax Server, RightFax Edition",99,MEDIUM
+PrimaSoft PC Realtor Organizer Deluxe,99,MEDIUM
+LogiXML Ad-HOC,99,MEDIUM
+Aptean Onyx CRM,99,MEDIUM
+Benefits Technology Group SalesLogix,99,MEDIUM
+Parature eTicket,99,MEDIUM
+Contract Central,99,MEDIUM
+Google Tag Manager,99,MEDIUM
+General Magic Portico,99,MEDIUM
+Comcash ERP,99,MEDIUM
+TCI XML Credit Interface,99,MEDIUM
+MI-Assistant MI Management System,99,MEDIUM
+Sawtooth Choice-Base Conjoint CBS,99,MEDIUM
+Real Pro,99,MEDIUM
+Agency Master,99,MEDIUM
+Fiserv FSC Manager,99,MEDIUM
+Soffront CRM Portal,99,MEDIUM
+Digivey software (expert system feature),99,MEDIUM
+Attitude POS itive AccuPOS Retail,99,MEDIUM
+RealtyStar AgentOffice,99,MEDIUM
+Screaming Frog SEO Spider,99,MEDIUM
+WinMan SureSell,99,MEDIUM
+Agent Business Builder,99,MEDIUM
+Cygnus Software IncomeMax,99,MEDIUM
+Tangle S Creations Your Insurance Office,99,MEDIUM
+Collection Data Systems CollectOne-Tiger,99,MEDIUM
+QAD Marketing Automation,99,MEDIUM
+Root Systems SPS Process Management,99,MEDIUM
+The Retail Solution,99,MEDIUM
+Moz search engine optimization SEO software,99,MEDIUM
+Online meeting software,99,MEDIUM
+Manhattan Cross Cultural Group Quality Interactions,99,MEDIUM
+RealData Comparative Lease Analysis,99,MEDIUM
+SugarCRM Sugar UX,99,MEDIUM
+VeriFone PC Charge Pro,99,MEDIUM
+Vantage MCIF,99,MEDIUM
+Gift registry software,99,MEDIUM
+Computerized call calendars,99,MEDIUM
+eStara Softphone,99,MEDIUM
+Mintel Reports,99,MEDIUM
+Majestic SEO,99,MEDIUM
+CompuTant CounterPoint,99,MEDIUM
+Customer complaint ticketing management software,99,MEDIUM
+DCI iCore,99,MEDIUM
+iShip,99,MEDIUM
+IBM Information Management System (IMS),99,MEDIUM
+Lucero System Office Management,99,MEDIUM
+Atlas Search,99,MEDIUM
+Database reporting software,99,MEDIUM
+Telluride Software Classic Trak-It,99,MEDIUM
+Web-administered databases,99,MEDIUM
+Columbia Ultimate RPCS,99,MEDIUM
+Thomson Dialog,99,MEDIUM
+AcaStat Software,99,MEDIUM
+TokenWorks Magnetic Card Reader,99,MEDIUM
+Infocorp Computer Solutions $mart System,99,MEDIUM
+Easypano Tourweaver,99,MEDIUM
+InsideSales.com,99,MEDIUM
+Inventory software,99,MEDIUM
+Aprimo Marketing,99,MEDIUM
+Austin Logistics CallSelect,99,MEDIUM
+Insurance Systems WebWriter BackOffice,99,MEDIUM
+Ardexus Mode,99,MEDIUM
+HydraNet,99,MEDIUM
+Showing Suite HomeFeedback,99,MEDIUM
+InStar Orion,99,MEDIUM
+Home rating software,99,MEDIUM
+The IPIX Real Estate Wizard hometour360 Wizard,99,MEDIUM
+Contract tracking software,99,MEDIUM
+HUD-1 software,99,MEDIUM
+System3 POS software,99,MEDIUM
+GMI NET-MR,99,MEDIUM
+Patient satisfaction assessment software,99,MEDIUM
+Armand Morin MultiTrack Generator,99,MEDIUM
+bMobile Technology Route Manager,99,MEDIUM
+Online Database Solutions Agent Intelligence,99,MEDIUM
+Master Merchant Systems Music Store,99,MEDIUM
+Neoforma Healthcare Products Information Services HPIS Market Intelligence,99,MEDIUM
+SugarSync,99,MEDIUM
+DORIS FILESERVERonline,99,MEDIUM
+Point of sale POS bookstore software,99,MEDIUM
+Ontario Systems FACS,99,MEDIUM
+Soft Essentials Vending Essentials,99,MEDIUM
+Pemimic Patient Relations Suite,99,MEDIUM
+Insurance Technology Consultants WOW,99,MEDIUM
+Customer account management software,99,MEDIUM
+GEOCOMtms A.Maze Planning,99,MEDIUM
+Adobe Analytics,99,MEDIUM
+ProForce Highlight Flyer Master,99,MEDIUM
+Computerized time management systems,99,MEDIUM
+Harland Financial Solutions DepositPro,99,MEDIUM
+Open Source Matters Joomla!,99,MEDIUM
+Document creation software,99,MEDIUM
+Corporate Information Factory CIF,99,MEDIUM
+NaviSys Front Office,99,MEDIUM
+Google DoubleClick,99,MEDIUM
+Applied Systems Vision,99,MEDIUM
+In-Hand Pocket APOD,99,MEDIUM
+IBM Intelligent Miner,99,MEDIUM
+Softpedia ShopInvo,99,MEDIUM
+Databox,99,MEDIUM
+Adtec Agency Manager,99,MEDIUM
+Bing Ads,99,MEDIUM
+Map Maker,99,MEDIUM
+TNS MarketWhys,99,MEDIUM
+ClearEDGE,99,MEDIUM
+Verispan Patient Parameters,99,MEDIUM
+Active Data Online WebChat,99,MEDIUM
+Data warehousing software,99,MEDIUM
+Hosted Support ezSupport Pro,99,MEDIUM
+Power Real Estate Letters,99,MEDIUM
+Customer Expressions i-Sight,99,MEDIUM
+ClassApps SelectSurveyASP,99,MEDIUM
+Allstar Software Systems Kofax,99,MEDIUM
+CyberMatrix,99,MEDIUM
+Google Search Ads 360,99,MEDIUM
+WinCross,99,MEDIUM
+Ardexus TASC,99,MEDIUM
+Intellimed,99,MEDIUM
+Showing Suite real estate software,99,MEDIUM
+Timpani Email,99,MEDIUM
+Exact business software,99,MEDIUM
+Front Desk,99,MEDIUM
+Logisoft Positive Pos System,99,MEDIUM
+Austin Logistics CallTech,99,MEDIUM
+Workforce management software,99,MEDIUM
+Customer service and support software,99,MEDIUM
+TopProducer,99,MEDIUM
+FloodMaps,99,MEDIUM
+CAP Automation SellWise,99,MEDIUM
+Insurance Technologies ForeSight Enterprise,99,MEDIUM
+Advantage Signature Marketing Group Web Master,99,MEDIUM
+CareOne CareEnsure,99,MEDIUM
+SalesInSync,99,MEDIUM
+ProForce Ultimate Brochures,99,MEDIUM
+Datasym SYMFINITE,99,MEDIUM
+Lathem Time PayClock EZ,99,MEDIUM
+GBS Agency Expert,99,MEDIUM
+iQmetrix RQ4 Retail Management System,99,MEDIUM
+Insurance analysis software,99,MEDIUM
+Peminic Patient Safety & Quality Suite,99,MEDIUM
+SRC Cash Flow Analyzer Pro,99,MEDIUM
+Cegedim Target Software Target SFA Pharmaceutical Suite,99,MEDIUM
+System Innovators,99,MEDIUM
+Navigation software,99,MEDIUM
+Semrush,99,MEDIUM
+Conductor Searchlight,99,MEDIUM
+Bibase 4POS Retail,99,MEDIUM
+Reality Star ProAGENT Power Series Presentations,99,MEDIUM
+AndersonBell Abstat,99,MEDIUM
+FINEOS Insure,99,MEDIUM
+WhatsApp,99,MEDIUM
+DocuSign eSignature,99,MEDIUM
+"Admissions, discharge, and transfer ADT software",99,MEDIUM
+Unified messaging software,99,MEDIUM
+Lyris HQ Web-Analytics Solution,99,MEDIUM
+CPU Tracker Software CPU Tracker,99,MEDIUM
+StatPac,99,MEDIUM
+Greenbrier Graphics Deed Plotter,99,MEDIUM
+Applied Systems The Agency Manager,99,MEDIUM
+Sales force automation software,99,MEDIUM
+Columbia Ultimate Archive,99,MEDIUM
+eGrabber ListGrabber,99,MEDIUM
+Moxi Works MoxiPresent,99,MEDIUM
+Medstat/INFORUM,99,MEDIUM
+Visual Retail Plus,99,MEDIUM
+Khameleon,99,MEDIUM
+Vimeo,99,MEDIUM
+Fuze cloud communications and collaboration software,99,MEDIUM
+Panorama Technologies ModelWeaver,99,MEDIUM
+MobiTech Systems Route Sales Trakker,99,MEDIUM
+Yahoo! Email,99,MEDIUM
+RPIS Silent Flyer,99,MEDIUM
+W3 Data BatchAppend411,99,MEDIUM
+Digital contract software,99,MEDIUM
+IBM Digital Analytics,99,MEDIUM
+CoVirt VirtGate,99,MEDIUM
+AdTrack Customer Acquisition Management CAM,99,MEDIUM
+MapReduce big data software,99,MEDIUM
+WebEx Sales Center,99,MEDIUM
+Geographic information system GIS marketing software,99,MEDIUM
+Allied Financial Software Act4Advisors,99,MEDIUM
+Infospectrum Quick Insure,99,MEDIUM
+Regulussoft Route Accounting,99,MEDIUM
+MASterMind,99,MEDIUM
+TimeTrak Systems SchedTrak,99,MEDIUM
+Epic Systems software,99,MEDIUM
+NCR Teradata Warehouse Miner,99,MEDIUM
+ManageMore Cellular Manager,99,MEDIUM
+Hyperion Solutions Hyperion System 9 Bi+,99,MEDIUM
+Skywire Software Policyware,99,MEDIUM
+Diagnostic and procedural coding software,99,MEDIUM
+United Systems and Software Individual Life and Health Administration System,99,MEDIUM
+bMobile Technology Sales,99,MEDIUM
+MediaVue,99,MEDIUM
+AdSense Tracker,99,MEDIUM
+Internet based MLS database software,99,MEDIUM
+Reveal Systems Truewire,99,MEDIUM
+Digivey software (point of sale feature),99,MEDIUM
+Sawtooth Composite Product Mapping CPM,99,MEDIUM
+ASI Point of Sale,99,MEDIUM
+Qualitech Solutions Dynamic Scheduling,99,MEDIUM
+Results International Systems Artius Suite,99,MEDIUM
+MarketSharp,99,MEDIUM
+Webtrends software,99,MEDIUM
+Prognosis Solutions ResolvPRM,99,MEDIUM
+Real estate investment analysis software,99,MEDIUM
+Data-Tel Ceasar,99,MEDIUM
+Sage 50 Accounting Software,99,MEDIUM
+Infocorp Softwear/POS,99,MEDIUM
+Sage SalesLogix,99,MEDIUM
+Realtors Property Resource RPR,99,MEDIUM
+Route planning software,99,MEDIUM
+Google Webmaster Tools,99,MEDIUM
+Cytel Software XLMiner,99,MEDIUM
+Real estate application contract transmission REACT software,99,MEDIUM
+Garmin City Select,99,MEDIUM
+Relavis CRM Portal,99,MEDIUM
+TNS Miriad,99,MEDIUM
+interlinkONE,99,MEDIUM
+Time card software,99,MEDIUM
+Underwriting software,99,MEDIUM
+BrightEdge,99,MEDIUM
+Timpani Contact Center,99,MEDIUM
+Oracle Beehive,99,MEDIUM
+OWL Bookkeeping for Realtors,99,MEDIUM
+WorldAPP KeySurvey Suite,99,MEDIUM
+"Adxstudio, for Microsoft",99,MEDIUM
+Survey software,99,MEDIUM
+Fiserv financial services software,99,MEDIUM
+TechExcel ServiceWise,99,MEDIUM
+Panoweaver Panorama,99,MEDIUM
+ShoreTel,99,MEDIUM
+Point of sale POS parts and services software,99,MEDIUM
+TranspoLink BidLeads,99,MEDIUM
+Walmart Retail Link,99,MEDIUM
+Tritech Financial Systems General Insurance Management System GIMS,99,MEDIUM
+Landlord Software Pro Flipper,99,MEDIUM
+Insightful Corporation Confirmit,99,MEDIUM
+Topaz Software Symplifi (business analysis feature),99,MEDIUM
+Loan application processing software,99,MEDIUM
+Insurance rating software,99,MEDIUM
+AS/400 Database,99,MEDIUM
+Eden Sales Manager,99,MEDIUM
+Showing Suite Showing Calendar,99,MEDIUM
+AMS Services AMS 360,99,MEDIUM
+GLOBE Claritas,99,MEDIUM
+Advanced Retail Management Systems Retail Pro,99,MEDIUM
+ADP Drive DMS for Accounting,99,MEDIUM
+Moxi Works MoxiImpress,99,MEDIUM
+Lynk Everest,99,MEDIUM
+Argosy Legal Systems Power Closer,99,MEDIUM
+Hagel Unitime Systems,99,MEDIUM
+Agency Software AgencyPro,99,MEDIUM
+Customer information databases,99,MEDIUM
+SBS Keystroke,99,MEDIUM
+Commence Application Suite,99,MEDIUM
+Hootsuite,99,MEDIUM
+RiscStation POSSum,99,MEDIUM
+Topaz Software Symplifi (CRM feature),99,MEDIUM
+Nedstat Sitestat,99,MEDIUM
+LIDP Consulting Services The Administrator,99,MEDIUM
+Delphi Discovery,99,MEDIUM
+Terrace Consulting AgencyInsight,99,MEDIUM
+Multi-channel contact center software,99,MEDIUM
+irs-aims MARS,99,MEDIUM
+IPS-Sendero Relationship Profitability Manager Catalyst,99,MEDIUM
+Epic EpicCare Inpatient Clinical System,99,MEDIUM
+Complaint management software,99,MEDIUM
+Austin Logistics Valeo,99,MEDIUM
+SSA Global BPCS,99,MEDIUM
+Adaptive conjoint analysis ACA software,99,MEDIUM
+Wheatworks Real Estate Calculator Suite,99,MEDIUM
+DeLorme Topo USA,99,MEDIUM
+Computer Directions Route Sales Tracker,99,MEDIUM
+SamePage StudioCRM,99,MEDIUM
+j2 Global Communications onebox,99,MEDIUM
+Sawtooth SSI Web,99,MEDIUM
+SAP Sybase SQL Anywhere,99,MEDIUM
+QuickQuote QuickFile Agency Management System,99,MEDIUM
+Special Agent,99,MEDIUM
+Optical character recognition OCR software,99,MEDIUM
+iKorb Real Estate,99,MEDIUM
+Quantrax Intelec,99,MEDIUM
+Semicron Systems,99,MEDIUM
+UNISTAT Statistical Package,99,MEDIUM
+Thomson Financial Investext,99,MEDIUM
+Galilee Enterprise TargetPro,99,MEDIUM
+Microsoft Bing,99,MEDIUM
+E-Z Data SmartOffice,99,MEDIUM
+North American Software Associates Eclipse,99,MEDIUM
+Perseus SurveySolutions,99,MEDIUM
+Cytel LogXact,99,MEDIUM
+G2X Agility:Insurance,99,MEDIUM
+LexisNexis Banko,99,MEDIUM
+CMA Stuffers,99,MEDIUM
+FedBizOps,99,MEDIUM
+Xactware Xactimate,99,MEDIUM
+Vulcan Solutions Vulcan Insurance,99,MEDIUM
+RealtyStar Real Estate Assistant,99,MEDIUM
+Vigilant,99,MEDIUM
+Hoffman Computer Systems Amsoft,99,MEDIUM
+Advantage Information Systems The Agency Advantage,99,MEDIUM
+DataBasix Technologies Lead Commander,99,MEDIUM
+Iseemedia Photovista Panorama,99,MEDIUM
+ADS Advantage,99,MEDIUM
+DSC Pacer Interactive Voice Response System,99,MEDIUM
+Insurance Technologies Corporation InsurancePro,99,MEDIUM
+CyberMatrix POS,99,MEDIUM
+Commercial and industrial development project cost analysis software,99,MEDIUM
+Online advertising reporting software,99,MEDIUM
+Constant Contact,99,MEDIUM
+EZ Software Solutions,99,MEDIUM
+rL Solutions Feedback MonitorPro,99,MEDIUM
+Debt account management and collection software,99,MEDIUM
+Timpani Chat,99,MEDIUM
+Astute Solutions PowerCenter,99,MEDIUM
+Columbia Ultimate Remit,99,MEDIUM
+TimeTrak Systems ClocTrack,99,MEDIUM
+National Association of Realtors Online Database,99,MEDIUM
+Systems Union Group MIS DecisionWare,99,MEDIUM
+Newsletter production software,99,MEDIUM
+Parature eRealtime,99,MEDIUM
+True North Computer Retail Plus,99,MEDIUM
+Moxi Works MoxiEngage,99,MEDIUM
+Telemation e-CRM,99,MEDIUM
+WebTrends Analytics,99,MEDIUM
+CU Connect processing software,99,MEDIUM
+Customer service knowledge generation software,99,MEDIUM
+Kanoodle,99,MEDIUM
+Tekla software,93,MEDIUM
+Tumbleweed SecureTransport,93,MEDIUM
+MuleSoft software,93,MEDIUM
+Distributed component object model DCOM software,93,MEDIUM
+CA eTrust,93,MEDIUM
+RequireJS,93,MEDIUM
+Tanner EDA T-SPICE,93,MEDIUM
+Vitech Systems Group V3 Benefits Administration System,93,MEDIUM
+Turtle Creek Software Goldenseal (accounting feature),93,MEDIUM
+Object oriented programming software,93,MEDIUM
+Microsoft Azure DevOps Services,93,MEDIUM
+ASG Technologies ASG-Zeke,93,MEDIUM
+WhiteSmoke,93,MEDIUM
+Redgate SQL Server,93,MEDIUM
+Apple DVD Studio Pro,93,MEDIUM
+Halogen eCompensation,93,MEDIUM
+Workbrain Time and Attendance,93,MEDIUM
+Oracle Golden Gate,93,MEDIUM
+Radiological assessment display and control system RADACS,93,MEDIUM
+Dynamic host configuration protocol DHCP,93,MEDIUM
+Jekyll,93,MEDIUM
+IONA Orbix,93,MEDIUM
+Abacus Tax,93,MEDIUM
+OmniRIM Records Management Suite,93,MEDIUM
+Virtual reality modeling language VRML software,93,MEDIUM
+Polycom RealPresence,93,MEDIUM
+Manusoft Technologies IMOLD,93,MEDIUM
+Programming language one PL/I,93,MEDIUM
+Network Instruments Observer Standard,93,MEDIUM
+ERP INDUSTRIOS Material Planning,93,MEDIUM
+MadCap Software MadCap Flare,93,MEDIUM
+Progress OpenEdge ABL,93,MEDIUM
+BNA Income Tax Planning Solutions,93,MEDIUM
+IBM QRadar SIEM,93,MEDIUM
+Computerized physician order entry CPOE software,93,MEDIUM
+Client billing software,93,MEDIUM
+Social networking software,93,MEDIUM
+Stac Software ReachOut,93,MEDIUM
+Bigloo Scheme,93,MEDIUM
+Quality Systems International WinLIMS,93,MEDIUM
+Symbolic debugger software,93,MEDIUM
+Squeegee,93,MEDIUM
+CGI-AMS Strata,93,MEDIUM
+Mac HelpMate,93,MEDIUM
+Maintenance management software,93,MEDIUM
+Apache MXNet,93,MEDIUM
+C shell,93,MEDIUM
+Infor Global Solutions Starbuilder,93,MEDIUM
+Zend Framework,93,MEDIUM
+First American Data Tree Parcel IQ,93,MEDIUM
+Snugg Home Snugg Pro,93,MEDIUM
+Microsoft Windows Terminal Services Access Manager,93,MEDIUM
+MyFitnessPal,93,MEDIUM
+Bourne Shell,93,MEDIUM
+Dun and Bradstreet Global DecisionMaker,93,MEDIUM
+Bentley WaterCAD,93,MEDIUM
+pandas,93,MEDIUM
+AirMagnet Enterprise,93,MEDIUM
+IBM Rational Application Developer,93,MEDIUM
+Paisley Cardmap,93,MEDIUM
+RETScreen,93,MEDIUM
+Anti-Trojan software,93,MEDIUM
+Static analysis software,93,MEDIUM
+IBM Middleware,93,MEDIUM
+Verification software,93,MEDIUM
+Digitizing and photogrammetric software,93,MEDIUM
+Relational database management system RDMS,93,MEDIUM
+Simple Model of the Atmospheric Radiative Transfer of Sunshine SMARTS,93,MEDIUM
+Timing analysis software,93,MEDIUM
+Prometheus,93,MEDIUM
+Lawson ERP,93,MEDIUM
+Hewlett-Packard HP QuickTest Professional,93,MEDIUM
+Trigon Road Forte Leave Management,93,MEDIUM
+Income tax return preparation software,93,MEDIUM
+Asset management software,93,MEDIUM
+PDS Vista,93,MEDIUM
+Fundamental Objects foAudits,93,MEDIUM
+Canu,93,MEDIUM
+Bargaining Power,93,MEDIUM
+Defect tracking software,93,MEDIUM
+Collaborative Application Markup Language CAML,93,MEDIUM
+Work inspection software,93,MEDIUM
+Decompilers,93,MEDIUM
+Circuit simulation software,93,MEDIUM
+Piping construction costs estimation software,93,MEDIUM
+Multi-router traffic grapher MRTG software,93,MEDIUM
+Finite element method FEM software,93,MEDIUM
+Geometric Technologies CAMWorks,93,MEDIUM
+Sprut Technology SprutCAM,93,MEDIUM
+CQG Integrated Client,93,MEDIUM
+UserZoom,93,MEDIUM
+Database capacity planning software,93,MEDIUM
+GraphQL,93,MEDIUM
+Code generator software,93,MEDIUM
+Virus detection software,93,MEDIUM
+Microsoft Dynamics SL,93,MEDIUM
+ABC Compiler,93,MEDIUM
+Grammarly Editor,93,MEDIUM
+Microsoft ESP SDK,93,MEDIUM
+ADP Super Report Writer,93,MEDIUM
+SoftPro real estate closing and title software,93,MEDIUM
+Cryptographic key management software,93,MEDIUM
+DM2 Bills of Lading,93,MEDIUM
+Boundary scan insertion software,93,MEDIUM
+Index tuning software,93,MEDIUM
+Cadem CAPSTurn,93,MEDIUM
+Solar Advisor Model,93,MEDIUM
+Eclipse Jersey,93,MEDIUM
+Kismet,93,MEDIUM
+Online database search and retrieval software,93,MEDIUM
+Websense Data Loss Prevention,93,MEDIUM
+GATORS ANYWHERE,93,MEDIUM
+Application management software,93,MEDIUM
+Intergraph SmartMarine 3D,93,MEDIUM
+OrangeHRM,93,MEDIUM
+WebFOCUS,93,MEDIUM
+String oriented symbolic language SNOBOL,93,MEDIUM
+Complementary-symmetry/metal-oxide semiconductor CMOS layout software,93,MEDIUM
+3D Systems GibbsCAM,93,MEDIUM
+Microsoft Dynamics NAV,93,MEDIUM
+Promium Element DataSystem LIMS,93,MEDIUM
+KLA-Tencor PROLITH,93,MEDIUM
+ANSYS LS-DYNA,93,MEDIUM
+Lumigent Entegra,93,MEDIUM
+Jenark Business Systems,93,MEDIUM
+Microsoft Office Mobile,93,MEDIUM
+Coventor ARCHITECT3D,93,MEDIUM
+NPKTools CompXpert,93,MEDIUM
+Personal computer diagnostic software,93,MEDIUM
+VMWare ESX Server,93,MEDIUM
+CQ Press Political Reference Suite,93,MEDIUM
+Blackboard Collaborate,93,MEDIUM
+Stratford Group INMASS/MRP,93,MEDIUM
+Johnson Controls Metasys,93,MEDIUM
+Fast Fourier transform FFT analysis software,93,MEDIUM
+Kareo Practice Management,93,MEDIUM
+Quality Plans & Software HVAC Calculator,93,MEDIUM
+DBTools Software DBManager Professional,93,MEDIUM
+Media storage management software,93,MEDIUM
+LogicVision icBIST,93,MEDIUM
+OPNET APMXpert,93,MEDIUM
+Amazon Web Services AWS CloudFormation,93,MEDIUM
+Hewlett-Packard HP WinRunner,93,MEDIUM
+Paisley AutoAudit,93,MEDIUM
+Equifax Application Engine,93,MEDIUM
+Rapid-I RapidMiner,93,MEDIUM
+Energy-10,93,MEDIUM
+Hardware description language HDL,93,MEDIUM
+OmniMD PT./OT EHR,93,MEDIUM
+Lucidchart,93,MEDIUM
+RamQuest Total Solution,93,MEDIUM
+Credit and risk analysis software,93,MEDIUM
+Open Mind hyperMILL,93,MEDIUM
+CSC nbAccelerator,93,MEDIUM
+Alias Wavefront Design Studio,93,MEDIUM
+Tebis computer aided design software,93,MEDIUM
+Palo Alto Networks Next-Generation Security Platform,93,MEDIUM
+Symantec Norton Utilities,93,MEDIUM
+Client information databases,93,MEDIUM
+Sorenson Media Sorenson Squeeze,93,MEDIUM
+Gerstco AAPBase,93,MEDIUM
+Juniper Networks NetScreen-Security Manager,93,MEDIUM
+McCabe Software TRUEchange,93,MEDIUM
+NUnit,93,MEDIUM
+Sparta Systems TrackWise,93,MEDIUM
+Rabbit Semiconductor Dynamic C,93,MEDIUM
+Enhanced Interior Gateway Routing Protocol EIGRP,93,MEDIUM
+Solutions Technology & Software HR Premier,93,MEDIUM
+Silver Peak,93,MEDIUM
+Couchbase Server,93,MEDIUM
+CMake,93,MEDIUM
+Computer intrusion detection systems,93,MEDIUM
+Cerner Millennium,93,MEDIUM
+Regulatory agency compliance software,93,MEDIUM
+Jitterbit,93,MEDIUM
+Tanium software,93,MEDIUM
+Vantage Point Software HRA,93,MEDIUM
+People-Trak HR Essentials,93,MEDIUM
+Synopsys Taurus Medici,93,MEDIUM
+Apache Flume,93,MEDIUM
+Altova MapForce,93,MEDIUM
+dESCO ESC,93,MEDIUM
+IMSI Design DesignCAD,93,MEDIUM
+MarkLogic,93,MEDIUM
+NPKTools Comp Analytics,93,MEDIUM
+Ultimate Software UltiPro,93,MEDIUM
+Ticket information tracking software,93,MEDIUM
+National Instruments Compact FieldPoint System,93,MEDIUM
+Vero Software SMIRTsoftware,93,MEDIUM
+Apache Avro,93,MEDIUM
+Mixed code generator,93,MEDIUM
+McNeel Rhinoceros 3D,93,MEDIUM
+Call center software,93,MEDIUM
+Soil Survey Geographic SSURGO,93,MEDIUM
+Symantec Endpoint Protection,93,MEDIUM
+Watson Wyatt Reward,93,MEDIUM
+Cisco Systems Cisco NetFlow Collection Engine,93,MEDIUM
+Exact Software Macola ES,93,MEDIUM
+SimWindows,93,MEDIUM
+ViziFlow,93,MEDIUM
+Dynamic analysis software,93,MEDIUM
+ETAP,93,MEDIUM
+IBM Director,93,MEDIUM
+Recovery audit software,93,MEDIUM
+Autodesk PowerMill,93,MEDIUM
+Rapid7 Nexpose,93,MEDIUM
+DataMystic TextPipe Pro,93,MEDIUM
+Wind River Systems VxWorks,93,MEDIUM
+Micro Focus OpenView,93,MEDIUM
+Packet analyzers,93,MEDIUM
+AcmeStudio,93,MEDIUM
+Ascentis Employee Self-Service,93,MEDIUM
+Kentech Kipware T CNC,93,MEDIUM
+EMC Smarts Network Protocol Manager,93,MEDIUM
+MicroFit HealthWizard,93,MEDIUM
+EZ-CAM,93,MEDIUM
+Literature & Latte Scrivener,93,MEDIUM
+WinMerge,93,MEDIUM
+SKILL FMEA software,93,MEDIUM
+Xilinx Integrated Software Environment ISE,93,MEDIUM
+CCI NewsGate,93,MEDIUM
+IBM ILOG,93,MEDIUM
+ipconfig,93,MEDIUM
+Redi Enterprise Development Redi ERM,93,MEDIUM
+IEA Software Emerald,93,MEDIUM
+Elite Minds RightWriter,93,MEDIUM
+Vero Software ALPHACAM Milling,93,MEDIUM
+Incident command system ICS software,93,MEDIUM
+Micro Focus TestPartner,93,MEDIUM
+General ledger software,93,MEDIUM
+Emerald Software Group Emerald Green Office,93,MEDIUM
+Hewlett Packard QuickTest Professional,93,MEDIUM
+Norton AntiVirus,93,MEDIUM
+Symantec PGP,93,MEDIUM
+SolTrace,93,MEDIUM
+Corporate Responsibility System Technologies Limited CRSTL Compliance Positioning System,93,MEDIUM
+Netreo OmniCenter,93,MEDIUM
+Cadence Virtuoso Layout Suite,93,MEDIUM
+AuditWare financial reporting and auditing software,93,MEDIUM
+Blender,93,MEDIUM
+ARCOM Masterspec,93,MEDIUM
+Infinity QS ProFicient,93,MEDIUM
+Bi3 Audit Intelligence,93,MEDIUM
+Adeptia ETL Suite,93,MEDIUM
+Microelectromechanical systems MEMS simulation software,93,MEDIUM
+Apache Oozie,93,MEDIUM
+Nuesoft Technologies NueMD,93,MEDIUM
+ICAM CAM-POST,93,MEDIUM
+Water surface pressure gradient WSPG software,93,MEDIUM
+Vero Software Edgecam,93,MEDIUM
+Delcam PowerMILL,93,MEDIUM
+Technos Astra S-Nesting,93,MEDIUM
+CoffeeCup The HTML Editor,93,MEDIUM
+HarrisData Human Resources Information System HRIS,93,MEDIUM
+CGTech Vericut CNC,93,MEDIUM
+PropertyInfo SureClose,93,MEDIUM
+Freescale CodeWarrior Tools,93,MEDIUM
+Wilhelm Publishing Threshold,93,MEDIUM
+Trading Blox,93,MEDIUM
+Intuit TurboTax,93,MEDIUM
+Object database management system ODBMS,93,MEDIUM
+Wind River VxWorks,93,MEDIUM
+Novell NetWare Management Station,93,MEDIUM
+ProQuest Worldwide Political Science Abstracts,93,MEDIUM
+Cadem NCnet,93,MEDIUM
+Network bridge software,93,MEDIUM
+Intelitek spectraCAM Turning,93,MEDIUM
+Lumion,93,MEDIUM
+Statgraphics,93,MEDIUM
+Interuniversity Consortium for Political and Social Research (ICPSR) database,93,MEDIUM
+BenAssist,93,MEDIUM
+Sentient Online MarketPrice,93,MEDIUM
+SaaS SurveyMonkey,93,MEDIUM
+VLC Media Player,93,MEDIUM
+Bill of materials software,93,MEDIUM
+The MathWorks Wavelet Toolbox,93,MEDIUM
+AccessData FTK,93,MEDIUM
+Open Graphics Library OpenGL,93,MEDIUM
+WinSpice,93,MEDIUM
+Prime Debt Soft Debt Settlement,93,MEDIUM
+RGA AURA,93,MEDIUM
+BEMAS PayDirect,93,MEDIUM
+eXtensible Business Reporting Language XBRL,93,MEDIUM
+ANSYS Multiphysics,93,MEDIUM
+PROPHIX Enterprise,93,MEDIUM
+SOLAR-2,93,MEDIUM
+Rice Simulator for ILP Multiprocessors RSIM,93,MEDIUM
+FastEST software,93,MEDIUM
+BMC Software Recovery Manager RMAN,93,MEDIUM
+Strategic BCP ResilienceONE,93,MEDIUM
+Horizon Engineering Sigma Plumbing Calculator,93,MEDIUM
+Sampson Data Pattern Index software,93,MEDIUM
+NetIQ,93,MEDIUM
+UTQUANT,93,MEDIUM
+BobCAD-CAM,93,MEDIUM
+Apple iWork Keynote,93,MEDIUM
+Unit testing software,93,MEDIUM
+VME PowerPC VxWorks,93,MEDIUM
+MNT Northwest MNT Assistant,93,MEDIUM
+Data mapping software,93,MEDIUM
+EMC Symmetrix DMX,93,MEDIUM
+Qualys Cloud Platform,93,MEDIUM
+Bills of lading software,93,MEDIUM
+IBM Infosphere Information Server,93,MEDIUM
+Inline code expander software,93,MEDIUM
+Plug-in file software,93,MEDIUM
+IDEAS Software & Training IDEAS Property Clerk,93,MEDIUM
+Business software applications,93,MEDIUM
+Bizmatics PrognoCIS EMR,93,MEDIUM
+Graphing software,93,MEDIUM
+Cadence Opus,93,MEDIUM
+Actuarial Systems Corporation Defined Benefit System,93,MEDIUM
+Rapide,93,MEDIUM
+Global Groupware Solutions Limited Smiles ERM On-Demand,93,MEDIUM
+Two-dimensional 2D computer aided design CAD software,93,MEDIUM
+ADP/Vantra VOLTS,93,MEDIUM
+ESHA Research The Food Processor,93,MEDIUM
+Elite Software Spipe,93,MEDIUM
+PropertyView Solutions Remanage,93,MEDIUM
+ASPEN,93,MEDIUM
+Campaign Monitor,93,MEDIUM
+"Network, hardware, and software auditing software",93,MEDIUM
+Core Informatics Laboratory Information Management System LIMS,93,MEDIUM
+SunGard NotiFind,93,MEDIUM
+Sun Microsystems Sun ONE,93,MEDIUM
+Macromedia Cold Fusion,93,MEDIUM
+IBM Tivoli Access Management TAM,93,MEDIUM
+Metamation MetaCAM,93,MEDIUM
+Digital analysis tests and statistics DATAS for SAS,93,MEDIUM
+Hewlett-Packard HP TestDirector for Quality Center,93,MEDIUM
+Programming languages,93,MEDIUM
+COOP Systems myCOOP,93,MEDIUM
+Talend Big Data Integration,93,MEDIUM
+EffTec EffTrack,93,MEDIUM
+Trend Micro TippingPoint,93,MEDIUM
+MITRE ATT&CK software,93,MEDIUM
+Thermo Fisher Scientific Laboratory Information Management Systems LIMS,93,MEDIUM
+American National Standards Institute ANSI C,93,MEDIUM
+Enterprise backup systems,93,MEDIUM
+Creative System GHS,93,MEDIUM
+Photo editing software,93,MEDIUM
+IBM z/OS operating systems,93,MEDIUM
+Power Structure,93,MEDIUM
+Applied Software Technologies Asset Maintenance and Materials Management System,93,MEDIUM
+Multiple trading transaction systems,93,MEDIUM
+Pleier Audit Management System,93,MEDIUM
+Factory Edge MRP,93,MEDIUM
+Freddie Mac Loan Prospector,93,MEDIUM
+Proteus Engineering FastShip,93,MEDIUM
+B&W Port Scanner,93,MEDIUM
+Biodex Medical Systems Biodex Concussion Manager,93,MEDIUM
+Atlassian Bitbucket,93,MEDIUM
+Symantec Intruder Alert,93,MEDIUM
+Experian Retention Triggers,93,MEDIUM
+MachineWorks Ltd. MachineWorks,93,MEDIUM
+BNA Corporate Tax Audit Analyzer,93,MEDIUM
+ESA MOSAICS,93,MEDIUM
+Virtual Gibbs CADD/CAM,93,MEDIUM
+Web-based trading systems,93,MEDIUM
+InteProc Material Requirements Planning,93,MEDIUM
+Disaster recovery software,93,MEDIUM
+IBM Rational Robot,93,MEDIUM
+The Mathworks Embedded Coder,93,MEDIUM
+Client assessment software,93,MEDIUM
+Workscape Outsourced Employee Benefits Administration,93,MEDIUM
+EnergyPlus,93,MEDIUM
+Google Android,93,MEDIUM
+CaseWare International IDEA,93,MEDIUM
+K2 Business Process Automation,93,MEDIUM
+Imagine Software Imagine Trading System,93,MEDIUM
+PQ Systems SQCpack,93,MEDIUM
+Creative Research Systems The Survey System,93,MEDIUM
+CYMA IV Accounting for Windows,93,MEDIUM
+RSS,93,MEDIUM
+Quest Central,93,MEDIUM
+ACL Business Assurance Analytics,93,MEDIUM
+REST Assured,93,MEDIUM
+Mentor Graphics Xpedition xDX Designer,93,MEDIUM
+Basis BBx VisualPRO/5,93,MEDIUM
+Palisade @Risk,93,MEDIUM
+SunGard MicroHedge,93,MEDIUM
+Network intrusion detection software,93,MEDIUM
+Clayton Wallis CompGeo Online Professional Forecast Library,93,MEDIUM
+Experian software,93,MEDIUM
+Systems integration software,93,MEDIUM
+IBM iSeries Access,93,MEDIUM
+Conformance and validation testing software,93,MEDIUM
+Code profilers,93,MEDIUM
+Lucent VitalSuite,93,MEDIUM
+Adobe Flex,93,MEDIUM
+Novell eDirectory,93,MEDIUM
+MSC Software Nastran,93,MEDIUM
+Cadem CAPSMill,93,MEDIUM
+PQ Systems MEASUREspy,93,MEDIUM
+EasyCBM,93,MEDIUM
+Psychrometric chart software,93,MEDIUM
+Sage HandiSoft HandiLedger,93,MEDIUM
+System and data disaster recovery software,93,MEDIUM
+Integrated circuit simulation software,93,MEDIUM
+Axure RP,93,MEDIUM
+Secure web gateway software,93,MEDIUM
+PhantomJS,93,MEDIUM
+Document Object Model DOM Scripting,93,MEDIUM
+OpenVAS,93,MEDIUM
+Intrusion detection system IDS,93,MEDIUM
+Integration testing software,93,MEDIUM
+Automatic test program generation ATPG,93,MEDIUM
+Allscripts PM,93,MEDIUM
+Internet Protocol Security IPSEC,93,MEDIUM
+iRealty Manager,93,MEDIUM
+Network and component performance analysis software,93,MEDIUM
+Command interpreters,93,MEDIUM
+Packet analysis software,93,MEDIUM
+Quadralay WebWorks ePublisher,93,MEDIUM
+Database cloning software,93,MEDIUM
+Medicaid management information system MMIS,93,MEDIUM
+Non uniform rational b-splines NURBS software,93,MEDIUM
+Modernizing Medicine Practice Management,93,MEDIUM
+Kubotek KeyCreator Machinist,93,MEDIUM
+Micronetics Xpert Write-up,93,MEDIUM
+Oracle Java Message Service JMS,93,MEDIUM
+BioEx Systems Fitness Maker,93,MEDIUM
+Cisco Systems CiscoWorks LAN Management Solution,93,MEDIUM
+Guidance Software EnCase Forensic,93,MEDIUM
+Sage Reference Online,93,MEDIUM
+Actuarial Systems Corporation Compliance Testing System,93,MEDIUM
+Client information database software,93,MEDIUM
+AOL MapQuest,93,MEDIUM
+Landmark Graphics GeoGraphix,93,MEDIUM
+Microsoft Windows PowerShell,93,MEDIUM
+PISCES IIB,93,MEDIUM
+Symantec Blue Coat Data Loss Prevention,93,MEDIUM
+DOS shell script,93,MEDIUM
+PICS DietMate Professional,93,MEDIUM
+IBM Rational Data Architect,93,MEDIUM
+KAPES,93,MEDIUM
+Experian Detect,93,MEDIUM
+LAB SUM3D,93,MEDIUM
+Remote authentication dial-in user service RADIUS software,93,MEDIUM
+Lucid IQ CMP,93,MEDIUM
+Operating system process control software,93,MEDIUM
+Partial class generator software,93,MEDIUM
+Arping,93,MEDIUM
+Bidirectional encoder representations from transformers (BERT),93,MEDIUM
+Hardware description and verification language,93,MEDIUM
+Computerized bed control system software,93,MEDIUM
+AzTechSoft GPS2CAD,93,MEDIUM
+Bentley GeoPak Bridge,93,MEDIUM
+Diameter,93,MEDIUM
+Debugview,93,MEDIUM
+Virtual network computing VNC software,93,MEDIUM
+SureQuest Systems Square 1,93,MEDIUM
+Library of Congress E-resources Online Catalog,93,MEDIUM
+HP WebInspect,93,MEDIUM
+H&R Block Tax,93,MEDIUM
+Nslookup,93,MEDIUM
+ITT Visual Information Solutions ENVI,93,MEDIUM
+MICROS Systems HSI Profits Series,93,MEDIUM
+Merlin Information Services databases,93,MEDIUM
+Network documentation software,93,MEDIUM
+Coordinate geometry COGO software,93,MEDIUM
+Intuit Lacerte,93,MEDIUM
+Computer Associates ArcServ Backup,93,MEDIUM
+Transcend Technologies Group benefitsCONNECT,93,MEDIUM
+Maptek Vulcan,93,MEDIUM
+SKM Systems Analysis Power Tools,93,MEDIUM
+Oracle Learning Management,93,MEDIUM
+Block diagram software,93,MEDIUM
+Oracle Application Express APEX,93,MEDIUM
+ToadSoft Toad,93,MEDIUM
+DaVinci Resolve,93,MEDIUM
+FastCAM,93,MEDIUM
+Xactly Compel,93,MEDIUM
+Credit fraud detection software,93,MEDIUM
+Cadence Schematic Composer,93,MEDIUM
+File server software,93,MEDIUM
+Microsoft Internet Information Services (IIS),93,MEDIUM
+Smalltalk,93,MEDIUM
+CA Technologies ERWin Data Modeler,93,MEDIUM
+Boundary survey software,93,MEDIUM
+Siemens Solid Edge,93,MEDIUM
+IBM Tivoli NetView Distribution Manager,93,MEDIUM
+Mastercam computer-aided design and manufacturing software,93,MEDIUM
+Sageworks ProfitCents,93,MEDIUM
+Anodas Software Limited Phoenix,93,MEDIUM
+COADE CAESAR II,93,MEDIUM
+AEC Design Group CADPIPE,93,MEDIUM
+Microsoft ActiveSync,93,MEDIUM
+VUE Compensation Management,93,MEDIUM
+Magellan Firmware,93,MEDIUM
+CEBOS MQ1 software,93,MEDIUM
+Digital analysis tests and statistics DATAS for Excel,93,MEDIUM
+Records management software,93,MEDIUM
+CaseWare Working Papers,93,MEDIUM
+Dartware InterMapper,93,MEDIUM
+Polaris parallelizing compilers,93,MEDIUM
+Anti-phishing software,93,MEDIUM
+Datamatics V-Core HR,93,MEDIUM
+Kentech Kipware Trig Kalculator,93,MEDIUM
+Help desk software,93,MEDIUM
+Systems and application deployment and migration software,93,MEDIUM
+Sage BusinessWorks,93,MEDIUM
+Borland Paradox,93,MEDIUM
+Link encryption software,93,MEDIUM
+Watson Wyatt Global Grading System,93,MEDIUM
+Network design software,93,MEDIUM
+Actuarial Systems Corporation AIM,93,MEDIUM
+Thomson GoSystem Tax,93,MEDIUM
+EMC NetWorker,93,MEDIUM
+American Riviera Magtax,93,MEDIUM
+Multisensory data representation software,93,MEDIUM
+DenoSys HRiStragegy,93,MEDIUM
+Visual Numerics PV-WAVE,93,MEDIUM
+Process simulation software,93,MEDIUM
+Cadence PSpice,93,MEDIUM
+Just So Software The Property Manager,93,MEDIUM
+Compu-Cal Nutrition Assistant,93,MEDIUM
+SS&C Technologies Skyline Property Management,93,MEDIUM
+Accurate NXG,93,MEDIUM
+The MathWorks Signal Processing Toolbox,93,MEDIUM
+PipingOffice,93,MEDIUM
+SharpCam Ltd. SharpCam,93,MEDIUM
+Autodesk 3ds Max Design,93,MEDIUM
+Autodesk Inventor,93,MEDIUM
+Maintenance reporting software,93,MEDIUM
+Compilers,93,MEDIUM
+Tenable Nessus,93,MEDIUM
+Alerton Ascent Compass,93,MEDIUM
+VMWare Workstation,93,MEDIUM
+Citrix XenApp,93,MEDIUM
+ESRI ArcSDE,93,MEDIUM
+Intellitax financial solutions software,93,MEDIUM
+Piping and instrumentation design PID software,93,MEDIUM
+Sage 100 ERP,93,MEDIUM
+Packet tracing software,93,MEDIUM
+"Network modeling, mapping, and analysis software",93,MEDIUM
+Microsoft Silverlight,93,MEDIUM
+Star Software Fixed Asset Depreciation,93,MEDIUM
+Text to speech software,93,MEDIUM
+Property Boulevard,93,MEDIUM
+Realm Business Solutions INSIGHT for ARGUS,93,MEDIUM
+IDMS Account Ability,93,MEDIUM
+Equifax InterConnect,93,MEDIUM
+Data input software,93,MEDIUM
+Maintenance scheduling software,93,MEDIUM
+Synopsys Design Compiler,93,MEDIUM
+JustSystems XMetaL,93,MEDIUM
+Consultants in Data Processing HRnet,93,MEDIUM
+Beige Bag Software B2 Spice,93,MEDIUM
+Magma Design Automation Blast FPGA,93,MEDIUM
+Meals Plus,93,MEDIUM
+Disk operating system DOS,93,MEDIUM
+BNA Sales and Use Tax Rates and Forms,93,MEDIUM
+Autodesk Softdesk,93,MEDIUM
+Redis,93,MEDIUM
+GE Healthcare Centricity Practice Solution,93,MEDIUM
+Mentor Graphics LeonardoSpectrum,93,MEDIUM
+Network and system vulnerability assessment software,93,MEDIUM
+Post-processor software,93,MEDIUM
+Microwind Dsch,93,MEDIUM
+Greenhills Ada compilers,93,MEDIUM
+Lead Business Analyzer,93,MEDIUM
+Design-for-testability DFT insertion software,93,MEDIUM
+Intuit ProSeries,93,MEDIUM
+Fixed-assets depreciation software,93,MEDIUM
+Aruba Networks AirWave,93,MEDIUM
+Ansys Fluent,93,MEDIUM
+Apache JMeter,93,MEDIUM
+Auxillium West HRnetSource,93,MEDIUM
+American Sign Language ASL browser,93,MEDIUM
+Multiprotocol Label Switching MPLS,93,MEDIUM
+PTC Arbortext,93,MEDIUM
+Artifice DesignWorkshop,93,MEDIUM
+Bentley Systems ProjectWise,93,MEDIUM
+Interwave Technology RS Bizware Scheduler,93,MEDIUM
+Congruity Technologies Inspector,93,MEDIUM
+Computer On-line Real-time Applications Language CORAL 66,93,MEDIUM
+Humanic Design Employmee Self-Service,93,MEDIUM
+Triple Point Commodity XL,93,MEDIUM
+Jenss & Associates CompKeeper,93,MEDIUM
+QualCorp FormsPlus,93,MEDIUM
+SolidCAM CAM software,93,MEDIUM
+LogMatrix NerveCenter,93,MEDIUM
+Catalog navigation software,93,MEDIUM
+Microsoft Office Outlook,93,MEDIUM
+IBM Terraform,93,MEDIUM
+Oracle Manufacturing Scheduling,93,MEDIUM
+Network traffic flow monitoring and analysis software,93,MEDIUM
+Aurora HelioScope,93,MEDIUM
+Relational database management system software,93,MEDIUM
+Experian Quest,93,MEDIUM
+Wise Solutions Wise for Windows Installer,93,MEDIUM
+Hydrological modeling software,93,MEDIUM
+IBM Rational Apex,93,MEDIUM
+Data acquisition software,93,MEDIUM
+Oracle E-Business Suite,93,MEDIUM
+e-MDs software,93,MEDIUM
+Computing Solutions LabSoft LIMS,93,MEDIUM
+Interpreter software,93,MEDIUM
+BioEx Systems Exercise Expert,93,MEDIUM
+InScribe,93,MEDIUM
+Built-in self-test BIST debugging software,93,MEDIUM
+Honeypot,93,MEDIUM
+AdaptaSoft CyberPay,93,MEDIUM
+Editor Software Stylewriter,93,MEDIUM
+Scriptella,93,MEDIUM
+EditCNC,93,MEDIUM
+IBM AIX,93,MEDIUM
+Chat software,93,MEDIUM
+PartMaker SwissCAM,93,MEDIUM
+Client databases,93,MEDIUM
+Discrete event simulation software,93,MEDIUM
+Act-3D Quest3D,93,MEDIUM
+Transparent Interconnection of Lots of Links TRILL,93,MEDIUM
+BitWizard B.V. mtr,93,MEDIUM
+IOS Health Systems Medios EHR,93,MEDIUM
+Business intelligence system software,93,MEDIUM
+Waikato Environment for Knowledge Analysis Weka,93,MEDIUM
+Rapiscan Threat Image Projection,93,MEDIUM
+Adobe ColdFusion,93,MEDIUM
+netstat,93,MEDIUM
+Axxya Systems Nutritionist Pro,93,MEDIUM
+iEmployee,93,MEDIUM
+FullHouse Software Investment Property Manager,93,MEDIUM
+Deployment software,93,MEDIUM
+hSenid Business Solutions HRM Enterprise,93,MEDIUM
+Domain name system DNS,93,MEDIUM
+ASL HR Director,93,MEDIUM
+CNC Consulting Machinists' Calculator,93,MEDIUM
+Allergenic diet software,93,MEDIUM
+Perl shell,93,MEDIUM
+Nuview Systems Cort HCM,93,MEDIUM
+Data acquisition systems,93,MEDIUM
+eCredit Enterprise,93,MEDIUM
+Anisotropic Crystalline Etch Simulation ACES,93,MEDIUM
+Data transformation services DTS software,93,MEDIUM
+HRMS Solutions iVantage,93,MEDIUM
+State diagram software,93,MEDIUM
+DietMaster Systems DietMaster,93,MEDIUM
+Anti-spyware software,93,MEDIUM
+Telnet programs software,93,MEDIUM
+InformationActive ActiveData for Excel,93,MEDIUM
+Penzar TopSPICE,93,MEDIUM
+Virus scanning software,93,MEDIUM
+IpTables,93,MEDIUM
+Synopsys Hercules,93,MEDIUM
+IBM FileNet Content Manager,93,MEDIUM
+Schematic editors,93,MEDIUM
+Three-dimensional 3D computer aided design CAD software,93,MEDIUM
+SEMC-2D,93,MEDIUM
+Sonicwall SonicOS Enhanced,93,MEDIUM
+RESRAD,93,MEDIUM
+Bentley Systems AutoPIPE,93,MEDIUM
+MotorMaster+,93,MEDIUM
+Software distribution software,93,MEDIUM
+Ellucian Banner ERP,93,MEDIUM
+Mosby's Nutritrac,93,MEDIUM
+LangChain,93,MEDIUM
+Microsoft Paint,93,MEDIUM
+Cadence Allegro PCB Designer,93,MEDIUM
+Creo Synapse Upfront,93,MEDIUM
+Fiserv Advanced Underwriting,93,MEDIUM
+Missler Software TopSolid,93,MEDIUM
+CaseWare International IDEA SmartAnalyzer,93,MEDIUM
+Commercial driver's license information system CDLIS,93,MEDIUM
+Best Software CPAPayroll,93,MEDIUM
+Beginner's all-purpose symbolic instruction code BASIC,93,MEDIUM
+ngrep,93,MEDIUM
+GalacTek ECLIPSE,93,MEDIUM
+Fair Isaac Enterprise Decision Management for Insurance,93,MEDIUM
+Atlassian HipChat,93,MEDIUM
+Emergency notification system software,93,MEDIUM
+Lynchval Systems Lvxact,93,MEDIUM
+Common Lisp Object System CLOS,93,MEDIUM
+Europa World Plus,93,MEDIUM
+SonarQube,93,MEDIUM
+OrCAD Capture,93,MEDIUM
+WisdomForce DatabaseSync System,93,MEDIUM
+Integrant DebtLogic,93,MEDIUM
+Parallel systems software,93,MEDIUM
+Elite Software Energy Audit,93,MEDIUM
+RealPage OneSite,93,MEDIUM
+Remote install server software,93,MEDIUM
+Benefit Plan Systems Corporation The Plan Administrator,93,MEDIUM
+Domin-8 Enterprise Solutions Tenant Pro,93,MEDIUM
+Recovery testing software,93,MEDIUM
+Portswigger BurP Suite,93,MEDIUM
+FlexBox,93,MEDIUM
+Dynamic modeling software,93,MEDIUM
+CashFlow Guardian,93,MEDIUM
+NewPortWave Year End Solutions,93,MEDIUM
+Ai Squared ZoomText,93,MEDIUM
+Micromuse NetCool,93,MEDIUM
+National Land Cover Database NLCD,93,MEDIUM
+Test design software,93,MEDIUM
+GNOME Gnutrition,93,MEDIUM
+BondDesk Group Trader WorkStation,93,MEDIUM
+Seaworthy Systems Shipboard Automated Maintenance Management SAMM,93,MEDIUM
+Visual Paradigm DB Visual ARCHITECT,93,MEDIUM
+Asset management administration software,93,MEDIUM
+IBM Security Network Intrusion Prevention System,93,MEDIUM
+Oracle Master Data Management MDM Suite,93,MEDIUM
+Microsoft Commerce Server,93,MEDIUM
+QUALCOMM Eudora,93,MEDIUM
+TKSoftware RCM software,93,MEDIUM
+Pro Systems Client Write-Up System for Windows,93,MEDIUM
+Apex Business Software iBenefits,93,MEDIUM
+Embarcadero JBuilder,93,MEDIUM
+GitLab,93,MEDIUM
+IDM Computer Solutions UltraEdit,93,MEDIUM
+Applied Search Technology CADFind,93,MEDIUM
+Qualitica RentBoss,93,MEDIUM
+Web service definition language WDSL,93,MEDIUM
+MYOB BusinessEssentials,93,MEDIUM
+AIQ Systems TradingExpert Pro,93,MEDIUM
+Motion analysis software,93,MEDIUM
+Consilience Software Maven Insurance Automation Suite,93,MEDIUM
+SMSi Twister Data Integrator,93,MEDIUM
+Contour Storyteller,93,MEDIUM
+Adobe InCopy,93,MEDIUM
+UA Business Software Professional Edition,93,MEDIUM
+NuView Systems NuViewHR,93,MEDIUM
+Syborg Systems MicroTec,93,MEDIUM
+FitNesse,93,MEDIUM
+Equifax software,93,MEDIUM
+InterEnergy Software Building Energy Analyzer PRO,93,MEDIUM
+Thomson PPC e-Tools Suite,93,MEDIUM
+Secure shell SSH software,93,MEDIUM
+MariaDB,93,MEDIUM
+The Weatherization Assistant,93,MEDIUM
+Invoice software,93,MEDIUM
+MIR3 Intelligent Notification,93,MEDIUM
+3D graphics software,93,MEDIUM
+Humanic Design Human Resources Management System,93,MEDIUM
+Informatica Big Data,93,MEDIUM
+Thomson Reuters Risk Management,93,MEDIUM
+Oracle Enterprise Manager Cloud Control,93,MEDIUM
+ENERCALC FastFrame,93,MEDIUM
+Logical partition LPAR software,93,MEDIUM
+Peopleclick PayStat,93,MEDIUM
+Aestiva Purchase Order,93,MEDIUM
+Ingenious ProPlan,93,MEDIUM
+Illumina Laboratory Information Management System LIMS,93,MEDIUM
+Kentech Kipware M CNC,93,MEDIUM
+Borland SilkTest,93,MEDIUM
+Softrax Revenue Management,93,MEDIUM
+Extensible stylesheet language XSL,93,MEDIUM
+Synopsys HSIM,93,MEDIUM
+Microsoft Visual InterDev,93,MEDIUM
+Sage EDP Payroll Tax,93,MEDIUM
+Infobright Community Edition ICE,93,MEDIUM
+BroadVision software,93,MEDIUM
+Summit Software Summit Biofuels Accounting,93,MEDIUM
+Microsoft Mobile Explorer MME,93,MEDIUM
+RecoveryPlanner RPX,93,MEDIUM
+Bootstrap,93,MEDIUM
+IBM Rational ClearCase,93,MEDIUM
+The Mathworks Control System Toolbox,93,MEDIUM
+Enercom Energy Depot for Homes,93,MEDIUM
+General Atomic and Molecular Electronic Structure System GAMESS,93,MEDIUM
+Automated auditors fraud detector software,93,MEDIUM
+Data Recovery Software SQL Server Data Recovery,93,MEDIUM
+MeteorJS,93,MEDIUM
+Optical Research Associates LightTools,93,MEDIUM
+Home Energy Efficient Design HEED,93,MEDIUM
+Creative Solutions UltraTax 1040,93,MEDIUM
+StatCom Patient Flow Logistics Enterprise Suite,93,MEDIUM
+Sage CPAClient Checkbook,93,MEDIUM
+Microsoft Visual Studio.NET,93,MEDIUM
+American Association of Critical Care Nurses AACN Medicopeia,93,MEDIUM
+Corel WinZip,93,MEDIUM
+Siemens APOGEE Building Automation Software,93,MEDIUM
+SAP Replication Server,93,MEDIUM
+EBSCO Publishing Political Science Complete,93,MEDIUM
+Brightcove,93,MEDIUM
+ICON programming language,93,MEDIUM
+Embarcadero Delphi,93,MEDIUM
+BeneXL Technologies Pension Administration System,93,MEDIUM
+Law enforcement database software,93,MEDIUM
+PowerSoft PowerBuilder,93,MEDIUM
+NCR Advanced Checkout Solution,93,MEDIUM
+Nemetschek Vectorworks Spotlight,93,MEDIUM
+Accountants Templates JAZZ-It!,93,MEDIUM
+Adobe Director,93,MEDIUM
+GO2cam,93,MEDIUM
+Symantec Visual Cafe,93,MEDIUM
+IBM NetView,93,MEDIUM
+Cloudera Impala,93,MEDIUM
+100 Plus Hatch Pattern Library,93,MEDIUM
+Bugzilla,93,MEDIUM
+Grafana Labs Grafana Cloud,93,MEDIUM
+Cisco Systems Wireless Control System WCS,93,MEDIUM
+Brentmark Estate Planning Quickview,93,MEDIUM
+Vebnet FIX&FLEX,93,MEDIUM
+Vitera Healthcare Solutions Vitera Intergy,93,MEDIUM
+ADi SmartBOL,93,MEDIUM
+Password cracker software,93,MEDIUM
+ifconfig,93,MEDIUM
+Keystroke monitoring software,93,MEDIUM
+Style guide databases,93,MEDIUM
+Augmint,93,MEDIUM
+Red Hat Ansible Engine,93,MEDIUM
+Calendar management software,93,MEDIUM
+Mentor Graphics BSDArchitect,93,MEDIUM
+QNX,93,MEDIUM
+Progress OpenEdge Fathom Replication software,93,MEDIUM
+Intrusion prevention system IPS,93,MEDIUM
+ASSET JTAG ScanWorks,93,MEDIUM
+D'Arcangelo Galileo,93,MEDIUM
+NOW Solutions emPath,93,MEDIUM
+Quest SharePlex,93,MEDIUM
+DP Technology ESPRIT,93,MEDIUM
+MRO Audit Tracker,93,MEDIUM
+TrackPro Services TrackPro Manager,93,MEDIUM
+PT Software Solutions PT Rental Assistant,93,MEDIUM
+"Network, server and operating system optimization software",93,MEDIUM
+BLS Software Invoice!,93,MEDIUM
+InstallShield,93,MEDIUM
+Low-level virtual machine LLVM compilers,93,MEDIUM
+Delta Controls inteliWEB,93,MEDIUM
+Allscripts Professional EHR,93,MEDIUM
+Threaded code compiler,93,MEDIUM
+Amazon Data Pipeline,93,MEDIUM
+Bashen EEOSoft,93,MEDIUM
+Kentech PROTALK,93,MEDIUM
+Chinotec Technologies Paros,93,MEDIUM
+TestNG,93,MEDIUM
+Interface Computers Data Loader,93,MEDIUM
+Life cycle assessment LCA software,93,MEDIUM
+KCD cabinet design software,93,MEDIUM
+Mutation testing software,93,MEDIUM
+!Trak-it Solutions !Trak-it HR,93,MEDIUM
+IRSIM,93,MEDIUM
+BQE Software ArchiOffice,93,MEDIUM
+Compris Advanced Manager's Workstation,93,MEDIUM
+Cisco Systems WAN Manager,93,MEDIUM
+Geomechanical design analysis GDA software,93,MEDIUM
+The Nutrition Company FoodWorks,93,MEDIUM
+WriteWay Pro,93,MEDIUM
+Medscribbler Enterprise,93,MEDIUM
+myWriterTools,93,MEDIUM
+PySpark,93,MEDIUM
+CAzM,93,MEDIUM
+JSTOR database,93,MEDIUM
+Vector database software,93,MEDIUM
+WizSoft WizWhy,93,MEDIUM
+Event scheduling software,93,MEDIUM
+Content filter software,93,MEDIUM
+Landport Systems Landport,93,MEDIUM
+AcorynSystems Activity Based Costing/Management ABC/M,93,MEDIUM
+SpectraQuest,93,MEDIUM
+OpenAI ChatGPT,93,MEDIUM
+Code munger software,93,MEDIUM
+DaySmart Software Appointment-Plus,93,MEDIUM
+Kentech machine shop software,93,MEDIUM
+Arkenstone Atlas Speaks,93,MEDIUM
+ATX Total Engagement Office,93,MEDIUM
+Lavalys Everest,93,MEDIUM
+Stack smashing protection SSP software,93,MEDIUM
+Email management software,93,MEDIUM
+ReCrystallize Crystal Reports,93,MEDIUM
+HEC-RAS,93,MEDIUM
+Preactor APS,93,MEDIUM
+Optical Physics Technologies SUN_CHART,93,MEDIUM
+WizSoft WizRule,93,MEDIUM
+Resource and patient management system RPMS patient registration software,93,MEDIUM
+Open Mind Software hyperMILL,93,MEDIUM
+Session Initiation Protocol SIP,93,MEDIUM
+Restructured extended executor REXX,93,MEDIUM
+PuTTY,93,MEDIUM
+B-Method,93,MEDIUM
+Graphical user interface GUI builder software,93,MEDIUM
+Energy Efficient Rehab Advisor,93,MEDIUM
+Patient management software,93,MEDIUM
+Labvantage Solutions LIMS,93,MEDIUM
+CSC Elmer,93,MEDIUM
+Lynchval Systems Lvadmin,93,MEDIUM
+SAP PowerDesigner,93,MEDIUM
+Vero Software ALPHACAM Turning,93,MEDIUM
+Facility use software,93,MEDIUM
+Grails,93,MEDIUM
+McAfee VirusScan,93,MEDIUM
+Asure Software HCM,93,MEDIUM
+Travis,93,MEDIUM
+Internet search engine software,93,MEDIUM
+Mentor Graphics Calibre,93,MEDIUM
+Colasoft Capsa Enterprise,93,MEDIUM
+Axistive BigShot Screen Magnifier,93,MEDIUM
+BenefitFocus HR in Touch,93,MEDIUM
+Virtual local area network management software,93,MEDIUM
+Metasploit,93,MEDIUM
+Corel Presentation,93,MEDIUM
+Oracle Application Server,93,MEDIUM
+Adobe AIR,93,MEDIUM
+Facility Energy Decision Systems FEDS,93,MEDIUM
+"Yardi Systems Yardi Voyager Condo, Co-op, and HOA",93,MEDIUM
+nbtstat,93,MEDIUM
+Packet filter software,93,MEDIUM
+Field programmable gate array FPGA logic synthesis software,93,MEDIUM
+Performance Systems Development TREAT,93,MEDIUM
+IBM Tivoli software,93,MEDIUM
+IBM Informix,93,MEDIUM
+Cool Roof Calculator,93,MEDIUM
+Electronic train management systems ETMS,93,MEDIUM
+American Printing House for the Blind Learn Keys,93,MEDIUM
+Wide area network WAN optimization software,93,MEDIUM
+Microsoft Visual C# .NET,93,MEDIUM
+Inspection Selection System ISS,93,MEDIUM
+Database design software,93,MEDIUM
+AWK,93,MEDIUM
+SystemVerilog,93,MEDIUM
+TrueCrypt,93,MEDIUM
+List processing language LISP,93,MEDIUM
+Microsoft Windows Sysprep,93,MEDIUM
+Intel Data Migration Software,93,MEDIUM
+Hypertherm ProNest,93,MEDIUM
+Intel Integrated Performance Primitives,93,MEDIUM
+Quest Foglight,93,MEDIUM
+Autodesk Architectural Desktop,93,MEDIUM
+Vero Software VISI,93,MEDIUM
+Autodesk PowerShape,93,MEDIUM
+Benchmark Systems Benchmark Clinical EHR,93,MEDIUM
+Maxon Cinema 4D,93,MEDIUM
+Best MIP Fund Accounting,93,MEDIUM
+MecSoft Corporation VisualTURN,93,MEDIUM
+GeoPath CAD/CAM System,93,MEDIUM
+McKesson Practice Plus,93,MEDIUM
+Computer forensic software,93,MEDIUM
+Jenkins CI,93,MEDIUM
+Multiview Accounts Receivable,93,MEDIUM
+Test interpretation software,93,MEDIUM
+Systems and applications migration software,93,MEDIUM
+Migration software,93,MEDIUM
+SpiritWorks Software Development Rental Property Tracker Plus,93,MEDIUM
+Microsoft Defender Antivirus,93,MEDIUM
+Acronis Recovery Expert,93,MEDIUM
+ZoomWare Screen Magnifier,93,MEDIUM
+Data logger software,93,MEDIUM
+DataVision,93,MEDIUM
+TrendTracker Compliance Solution,93,MEDIUM
+Microsoft Hyper-V Server,93,MEDIUM
+Metalcam Fikus Visualcam,93,MEDIUM
+Roundtable Software Advantage Accounting System,93,MEDIUM
+CAST SQL Builder,93,MEDIUM
+Berkeley Internet Domain Name BIND,93,MEDIUM
+Management information base MIB software,93,MEDIUM
+Advanced Micro Systems 1099-Etc,93,MEDIUM
+Xilinx ModelSim,93,MEDIUM
+Cost accounting software,93,MEDIUM
+Microsoft Forefront Threat Management Gateway,93,MEDIUM
+Accounting fraud detection software,93,MEDIUM
+PCI Express PCIe,93,MEDIUM
+Place-and-route software,93,MEDIUM
+NCR NeighborhoodPOS,93,MEDIUM
+Fault testing software,93,MEDIUM
+Spreadsheet programs,93,MEDIUM
+Cworks CMMS,93,MEDIUM
+Project planning software,93,MEDIUM
+Data validation software,93,MEDIUM
+Pascal,93,MEDIUM
+Storymind StoryWeaver,93,MEDIUM
+Ekotrope RATER,93,MEDIUM
+Actuarial Systems Corporation Document Generation and Management System,93,MEDIUM
+Microsoft Systems Management Server,93,MEDIUM
+Xcircuit,93,MEDIUM
+Fair Isaac Falcon ID,93,MEDIUM
+Apex Business Software iHR,93,MEDIUM
+Nutrient analysis software,93,MEDIUM
+Intelitek spectraCAM Milling,93,MEDIUM
+Ping Identity,93,MEDIUM
+Appointment scheduling software,93,MEDIUM
+InfinityHR,93,MEDIUM
+Freedom Scientific MAGic,93,MEDIUM
+Intrax ProcedureNet,93,MEDIUM
+Charm++,93,MEDIUM
+Symantec Veritas File System,93,MEDIUM
+Landscape modeling software,93,MEDIUM
+Safe Software FME,93,MEDIUM
+Finite difference time domain FDTD software,93,MEDIUM
+Hugging Face,93,MEDIUM
+Geographic information system GIS databases,93,MEDIUM
+Technos Astra R-Nesting,93,MEDIUM
+CoreLogic DebtorTrace,93,MEDIUM
+NIKSUN NetDetector,93,MEDIUM
+BNA Estate and Gift Tax Suite,93,MEDIUM
+Advanced numerical software,93,MEDIUM
+Distributed database management software,93,MEDIUM
+LAMMPS Molecular Dynamics Simulator,93,MEDIUM
+Embedded systems development software,93,MEDIUM
+Network shutdown software,93,MEDIUM
+Strand7,93,MEDIUM
+Abbott Informatics STARLIMS:LIMS,93,MEDIUM
+Hierarchical simulation program with integrated circuit emphasis HSPICE,93,MEDIUM
+Fair Isaac Capstone Decision Manager,93,MEDIUM
+Accounting compliance software,93,MEDIUM
+PRONTO Xi,93,MEDIUM
+SolarWinds,93,MEDIUM
+Turtle Creek Software Goldenseal (calendar and scheduling feature),93,MEDIUM
+Win CE,93,MEDIUM
+NextGen Healthcare NextGen Practice Management,93,MEDIUM
+SentryOne SQL Sentry,93,MEDIUM
+eMASS,93,MEDIUM
+Linear Technology LTSpice,93,MEDIUM
+Storage management software,93,MEDIUM
+Fannie Mae Desktop Underwriter,93,MEDIUM
+Hewlett-Packard HP Network Node Manager,93,MEDIUM
+Just-in-time compiler,93,MEDIUM
+Production scheduling and planning software,93,MEDIUM
+Automated installation software,93,MEDIUM
+Cartesis Magnitude iAnalysis,93,MEDIUM
+Oracle Enterprise Manager,93,MEDIUM
+Structured Query Report SQR,93,MEDIUM
+MineSight,93,MEDIUM
+Delcam PartMaker,93,MEDIUM
+PQ Systems CHARTrunner Lean,93,MEDIUM
+Microservices Architecture,93,MEDIUM
+BroadSoft BroadWorks,93,MEDIUM
+ACCUCert,93,MEDIUM
+Very high-speed integrated circuit VHSIC hardware description language VHDL,93,MEDIUM
+Synopsys HSPICE,93,MEDIUM
+ATX Total Accounting Office,93,MEDIUM
+Data extraction software,93,MEDIUM
+Progress Sonic ESB,93,MEDIUM
+Molecular visualization software,93,MEDIUM
+Survey Sense,93,MEDIUM
+Kali Linux,93,MEDIUM
+Heron CrossTie General Ledger,93,MEDIUM
+Honeywell Wintress PACNet,93,MEDIUM
+Appium,93,MEDIUM
+Three-dimensional modeling software,93,MEDIUM
+Virus protection software,93,MEDIUM
+AutoDesSys form Z,93,MEDIUM
+Postman,93,MEDIUM
+Jest,93,MEDIUM
+Experian FraudShield,93,MEDIUM
+BlackBerry Enterprise Server,93,MEDIUM
+Coventor CoventorWare,93,MEDIUM
+LexisNexis Accurint,93,MEDIUM
+FEMA EMMIE,93,MEDIUM
+Langlais Computer Consultants CalMan,93,MEDIUM
+Check Point Next Generation Secure Web Gateway,93,MEDIUM
+Qualtrics Insight,93,MEDIUM
+Stroud & Associates Employee Benefits Administration System,93,MEDIUM
+Capacity planning software,93,MEDIUM
+React Native,93,MEDIUM
+CAMA Software Quality Collaboration By Design QCBD,93,MEDIUM
+RSS Solutions NaView,93,MEDIUM
+Call tracking software,93,MEDIUM
+Symantec Veritas NetBackup,93,MEDIUM
+Autodesk Revit Architecture,93,MEDIUM
+One pass compiler software,93,MEDIUM
+Pentana audit work system PAWS,93,MEDIUM
+Bare Bones Software BBEdit,93,MEDIUM
+Roxio Retrospect,93,MEDIUM
+Darwin information typing architecture DITA,93,MEDIUM
+Interstate connection ICON,93,MEDIUM
+SolidCAM iMachining,93,MEDIUM
+Segue SilkPerformer,93,MEDIUM
+Micro Estimating FabPlan,93,MEDIUM
+Work Technology WorkTech Time,93,MEDIUM
+Open source routing protocols OSPF,93,MEDIUM
+Fielding Data Labs OptoMizer,93,MEDIUM
+Lamar Info Net,93,MEDIUM
+Cadence Dracula,93,MEDIUM
+Sage Platinum for Windows PFW,93,MEDIUM
+Turtle Creek Software Goldenseal (time accounting feature),93,MEDIUM
+ASIDATAMYTE DataMetrics,93,MEDIUM
+Doxygen,93,MEDIUM
+1ST Pricing Window & Door Toolkit,93,MEDIUM
+Dynatrace,93,MEDIUM
+SBC Systems Benefits Workstation,93,MEDIUM
+Trane TRACE,93,MEDIUM
+Accvision ABMIS,93,MEDIUM
+Direct motion computer numerically controlled CNC software,93,MEDIUM
+Revision control software,93,MEDIUM
+IBM InfoSphere Warehouse,93,MEDIUM
+SoftICE,93,MEDIUM
+Agronomic modeling software,93,MEDIUM
+Google Compute Engine (GCE),93,MEDIUM
+Vero Software machining STRATEGIST,93,MEDIUM
+Vehicle identification number VIN database,93,MEDIUM
+Infoblox NetMRI,93,MEDIUM
+Clipper,93,MEDIUM
+Microsoft Hyperterminal,93,MEDIUM
+ESRI ArcIMS,93,MEDIUM
+Symantec LiveState,93,MEDIUM
+Intusoft ICAP,93,MEDIUM
+Cadence OrCAD software,93,MEDIUM
+Write Brothers Dramatica,93,MEDIUM
+OpenService Open NerveCenter,93,MEDIUM
+CPSI EHR System,93,MEDIUM
+Google Video,93,MEDIUM
+Chart Links,93,MEDIUM
+Simple mail transfer protocol SMTP,93,MEDIUM
+HyperSpace,93,MEDIUM
+Oracle software,93,MEDIUM
+Knight BondPoint,93,MEDIUM
+Visible Razor,93,MEDIUM
+Autodesk PartMaker,93,MEDIUM
+Elite Software HSYM,93,MEDIUM
+Virtual Corporation Sustainable Planner,93,MEDIUM
+ShipConstructor,93,MEDIUM
+Tension Technology International OPTIMOOR,93,MEDIUM
+Peopleclick CAAMS,93,MEDIUM
+MDSI OpenCNC,93,MEDIUM
+Cisco Systems Cisco Web Cache Communication Protocol WCCP,93,MEDIUM
+WH Software InstaCode,93,MEDIUM
+FSC Business Solutions Department Managers' Toolkit,93,MEDIUM
+EZFacility Trainer Management System,93,MEDIUM
+Breault Research ASAP,93,MEDIUM
+RSM McGladrey Auditor Assistant,93,MEDIUM
+A programming language APL,93,MEDIUM
+Siemens ModelSim,93,MEDIUM
+Skywire Software InsBridge,93,MEDIUM
+O'Brien Grasso RE Software Property Master,93,MEDIUM
+HP Fortify,93,MEDIUM
+Microsoft DirectX,93,MEDIUM
+Xcode,93,MEDIUM
+IMSI TurboCAD,93,MEDIUM
+Gale Expanded Academic ASAP PLUS,93,MEDIUM
+Credit adjudication and lending management system CALMS,93,MEDIUM
+Adexa eGPS Suite,93,MEDIUM
+Elite Software Sprinkler CAD,93,MEDIUM
+Terminal emulation software,93,MEDIUM
+Medical decision support software,93,MEDIUM
+W G Software Tenant File,93,MEDIUM
+Universal Tax Systems TaxWise,93,MEDIUM
+Logitech 3D Pro,93,MEDIUM
+Experian Transact SM,93,MEDIUM
+CCIS AccountAbility,93,MEDIUM
+File transfer protocol FTP software,93,MEDIUM
+IBM Rational Rose XDE,93,MEDIUM
+Discrete Fourier transform DFT analysis software,93,MEDIUM
+Hewlett-Packard HP SolidDesigner,93,MEDIUM
+Xilinx ISE Foundation,93,MEDIUM
+Figure 53 QLab,93,MEDIUM
+Network addressable storage NAS software,93,MEDIUM
+Standardized general markup language SGML,93,MEDIUM
+PerfectSoftware PerfectHR,93,MEDIUM
+Logic synthesis software,93,MEDIUM
+Billing software,93,MEDIUM
+MEMSCAP MEMS Pro,93,MEDIUM
+Aonix Software Through Pictures,93,MEDIUM
+Arbutus Analyzer,93,MEDIUM
+ChartWare EMR,93,MEDIUM
+Remote control software,93,MEDIUM
+Autodesk MapGuide,93,MEDIUM
+Yocum & McKee The Complete AAP,93,MEDIUM
+Biometric reader software,93,MEDIUM
+Oracle Flow Manufacturing,93,MEDIUM
+Microsoft Windows Pre-installation Environment,93,MEDIUM
+Boris FX Continuum Complete,93,MEDIUM
+AutoCrit Editing Wizard,93,MEDIUM
+Cerner PowerWorks Practice Management,93,MEDIUM
+RealEasyBooks ezREB,93,MEDIUM
+Gradle,93,MEDIUM
+HP DataProtector,93,MEDIUM
+Teleconferencing software,93,MEDIUM
+QuantumWise Atomistix ToolKit,93,MEDIUM
+WinBUGS,93,MEDIUM
+Microsoft Azure Data Factory,93,MEDIUM
+Syntactically awesome style sheets SASS,93,MEDIUM
+Performance Solutions Technology ManagePro,93,MEDIUM
+HydroComp NavCad,93,MEDIUM
+Architectural Energy Corporation ENFORMA Building Diagnostics,93,MEDIUM
+Oracle Recovery Manager,93,MEDIUM
+CGI-AMS BureauLink Enterprise,93,MEDIUM
+DataPath dpiSuite,93,MEDIUM
+Microsoft Dynamics ERP,93,MEDIUM
+Nmap,93,MEDIUM
+Animation software,93,MEDIUM
+MapInfo Professional,93,MEDIUM
+IBM Rational PurifyPlus,93,MEDIUM
+Paisley Focus Control Assurance,93,MEDIUM
+ej-technologies JProfiler,93,MEDIUM
+Amazon Web Services AWS SageMaker,93,MEDIUM
+OpenRoads Designer,93,MEDIUM
+MyFamilySoftware Instant Architect,93,MEDIUM
+Autodesk Ecotect Analysis,93,MEDIUM
+Benelogic,93,MEDIUM
+End-to-end encryption software,93,MEDIUM
+JFrog Artifactory,93,MEDIUM
+Register transfer language RTL,93,MEDIUM
+Dassault Systemes Abaqus,93,MEDIUM
+Vero International VISI-Series,93,MEDIUM
+Root cause analysis software,93,MEDIUM
+HOMER Micropower Optimization Model,93,MEDIUM
+Multidimensional Expressions MDX,93,MEDIUM
+Autodesk Algor Simulation,93,MEDIUM
+Data manipulation language DML,93,MEDIUM
+MAGIC software,93,MEDIUM
+Visual Health Information The Trainer's Exercise Toolbox,93,MEDIUM
+Automated audit trail analysis software,93,MEDIUM
+Preactor Finite Capacity Scheduling,93,MEDIUM
+ATX Total Tax Office,93,MEDIUM
+Information systems integration software,93,MEDIUM
+Progress WebSpeed Workshop,93,MEDIUM
+QGIS,93,MEDIUM
+Elite Software FIRE,93,MEDIUM
+DuPont ColorNet,93,MEDIUM
+PTC Pro/Pipe,93,MEDIUM
+Saigun Technologies EmpXtrack,93,MEDIUM
+Exact MAX,93,MEDIUM
+Domin-8 Enterprise Solutions RentRight,93,MEDIUM
+Choice Technologies PowerBill +,93,MEDIUM
+Security incident management software,93,MEDIUM
+Quest SQL Optimizer for Oracle,93,MEDIUM
+Clustermatic,93,MEDIUM
+Ascentis HR,93,MEDIUM
+Credit card processing software,93,MEDIUM
+Topographic map software,93,MEDIUM
+Made2Manage Supply Chain Management,93,MEDIUM
+HashiCorp Vagrant,93,MEDIUM
+Electrical power management system software,93,MEDIUM
+Microsoft Volume Shadow Copy Service,93,MEDIUM
+Diagnostic scanner software,93,MEDIUM
+Harrington Group HQMS,93,MEDIUM
+Oracle Data Guard,93,MEDIUM
+Piney Creek Digital Protocol System,93,MEDIUM
+Patch management software,93,MEDIUM
+Pentaho Kettle,93,MEDIUM
+Citi The Yield Book Calculator,93,MEDIUM
+athenahealth athenaCollector,93,MEDIUM
+Database testing software,93,MEDIUM
+Kentech Kipware X CNC,93,MEDIUM
+Talisma Knowledgebase,93,MEDIUM
+DesignBuilder Software DesignBuilder,93,MEDIUM
+BioEx Systems Nutrition Maker Plus,93,MEDIUM
+OPNET SP Sentinel,93,MEDIUM
+NextGen Healthcare Information Systems EMR,93,MEDIUM
+Network traffic probe software,93,MEDIUM
+Route,93,MEDIUM
+Autodesk Building Systems,93,MEDIUM
+SAS Data Integration Studio,93,MEDIUM
+CP2K,93,MEDIUM
+Student record software,93,MEDIUM
+Intel Math Kernel Library,93,MEDIUM
+CA Easytrieve Report Generator,93,MEDIUM
+LibreOffice,93,MEDIUM
+REScheck,93,MEDIUM
+SAP NetWeaver,93,MEDIUM
+Gambit Scheme,93,MEDIUM
+PV Optics,93,MEDIUM
+Bentley Systems InRoads Suite,93,MEDIUM
+FluidSurveys,93,MEDIUM
+JETCAM,93,MEDIUM
+File management software,93,MEDIUM
+z-Tree,93,MEDIUM
+MSC Software Patran,93,MEDIUM
+PE INTERNATIONAL SoFi,93,MEDIUM
+Rapid prototyping software,93,MEDIUM
+ESRI ArcGIS ArcPy,93,MEDIUM
+Paisley RiskNavigator,93,MEDIUM
+Adobe Acrobat Pro Extended,93,MEDIUM
+JetBrains IntelliJ IDEA,93,MEDIUM
+Incremental compiler software,93,MEDIUM
+ANSYS ASAS,93,MEDIUM
+Microsoft Network Monitor,93,MEDIUM
+Concurrency control software,93,MEDIUM
+Component-based Scalable Logical Architecture CSLA,93,MEDIUM
+After the Deadline,93,MEDIUM
+Cimatron CimatronE,93,MEDIUM
+Google Chrome,93,MEDIUM
+J,93,MEDIUM
+Epic Practice Management,93,MEDIUM
+Cadence Concept,93,MEDIUM
+NWChem,93,MEDIUM
+Compaq Insight Manager,93,MEDIUM
+SkillTRAN OASYS,93,MEDIUM
+MDeverywhere,93,MEDIUM
+RabbitMQ,93,MEDIUM
+ADP Enterprise eTIME,93,MEDIUM
+Automation Counselors municiPAL,93,MEDIUM
+State Soil Geographic STATSGO Database,93,MEDIUM
+Static Free Software Electric VLSI Design System,93,MEDIUM
+Synopsys Saber,93,MEDIUM
+Traffic shapers,93,MEDIUM
+Simulation program with integrated circuit emphasis SPICE,93,MEDIUM
+IntelliCAD,93,MEDIUM
+Sync Essentials Trade Accountant,93,MEDIUM
+Simple network management protocol SNMP software,93,MEDIUM
+Actuarial Systems Corporation DV Direct,93,MEDIUM
+AeroHydro MultiSurf,93,MEDIUM
+LandlordMax,93,MEDIUM
+Diagramming software,93,MEDIUM
+Property Insight TitlePoint,93,MEDIUM
+HealthFusion MediTouch,93,MEDIUM
+Paisley IssueTrack,93,MEDIUM
+Connectivity software,93,MEDIUM
+CGI-AMS CACS Enterprise,93,MEDIUM
+PSTek,93,MEDIUM
+Financial Competence,93,MEDIUM
+Sage CPAAccounts Payable,93,MEDIUM
+HEC-1,93,MEDIUM
+Tradeweb Markets Tradeweb,93,MEDIUM
+SOAPware EMR,93,MEDIUM
+Genesys PeopleComeFirst,93,MEDIUM
+Amkai AmkaiCharts,93,MEDIUM
+Blue Chip Computer Consultants HumaNET,93,MEDIUM
+Autodesk Topobase,93,MEDIUM
+FieldSoft AIMSonScene,93,MEDIUM
+Benaissance COBRApoint,93,MEDIUM
+PRe Consultants SimaPro,93,MEDIUM
+IpFilter,93,MEDIUM
+Kentech Kipware Studio,93,MEDIUM
+SmartBear Software AutomatedQA TestComplete,93,MEDIUM
+Apple Cocoa,93,MEDIUM
+LinkCAD,93,MEDIUM
+Marathon Data Systems ServiceCEO,93,MEDIUM
+ACS Technologies ACS Financial Suite,93,MEDIUM
+Thomson Creative Solutions Engagement CS,93,MEDIUM
+FileMon,93,MEDIUM
+RGA Facultative Application Console,93,MEDIUM
+Greenplum Database,93,MEDIUM
+Coglin Mill RODIN,93,MEDIUM
+Resource and patient management system RPMS scheduling software,93,MEDIUM
+Symantec pcAnywhere,93,MEDIUM
+XML Path Language XPATH,93,MEDIUM
+Network reporting software,93,MEDIUM
+Audit management software,93,MEDIUM
+FLorida Object Oriented Process Simulator FLOOPS,93,MEDIUM
+NIIT Technologies WinRisk,93,MEDIUM
+Autodesk Land Desktop,93,MEDIUM
+The MathWorks Real-Time Workshop,93,MEDIUM
+UGS Solid Edge,93,MEDIUM
+EBSCO Publishing Academic Search Premier,93,MEDIUM
+Byrne Software Technologies Visual HCS,93,MEDIUM
+Program for Energy Analysis of Residences PEAR,93,MEDIUM
+Database security software,93,MEDIUM
+Niku Clarity,93,MEDIUM
+Tropics workers' compensation software,93,MEDIUM
+Adobe XD,93,MEDIUM
+Talend Open Studio,93,MEDIUM
+ISS RealSecure,93,MEDIUM
+Perforce Software Configuration Management System,93,MEDIUM
+Microsoft Windows SDK,93,MEDIUM
+New Millennium Communications Genesis Accounting,93,MEDIUM
+Common gateway interface CGI,93,MEDIUM
+Network security auditing software,93,MEDIUM
+Operating system shells,93,MEDIUM
+Network architecture design software,93,MEDIUM
+Load testing software,93,MEDIUM
+Computer Associates integrated data management system CA-IDMS,93,MEDIUM
+Cronometer,93,MEDIUM
+ExtraTech Machine Tools Suite,93,MEDIUM
+Computational statistics software,93,MEDIUM
+Tcpdump,93,MEDIUM
+Database management systems,93,MEDIUM
+Berkshire Associates BALANCEaap,93,MEDIUM
+Clarified Networks Clarified Analyzer,93,MEDIUM
+Electronic train management system software,93,MEDIUM
+Moody's KMV Financial Analyst,93,MEDIUM
+BeamChek,93,MEDIUM
+Retrofit Energy Savings Estimation Model RESEM,93,MEDIUM
+ADO.NET,93,MEDIUM
+Patch and update management software,93,MEDIUM
+Oracle Siebel CRM,93,MEDIUM
+JetBrains PhpStorm,93,MEDIUM
+Geometric CAMWorks,93,MEDIUM
+MasterWriter,93,MEDIUM
+Pivotal Z Prestige Scheduler,93,MEDIUM
+Klear Estimator,93,MEDIUM
+IBM Rational Functional Tester,93,MEDIUM
+SpecsInTact,93,MEDIUM
+Datavantage,93,MEDIUM
+Teradata Active Enterprise Data Warehouse,93,MEDIUM
+Fixed income alternative trading systems ATS,93,MEDIUM
+Peopleclick AAPlanner,93,MEDIUM
+CyberArk,93,MEDIUM
+Zabbix,93,MEDIUM
+Online traffic calculator software,93,MEDIUM
+Penetration testing software,93,MEDIUM
+Magma Design Automation Blast Create,93,MEDIUM
+Password management software,93,MEDIUM
+IBM Content Manager,93,MEDIUM
+ComputerEase construction accounting software,93,MEDIUM
+Travis Software TravisFlex,93,MEDIUM
+Infoblox security and networking software,93,MEDIUM
+Imperva SecureSphere,93,MEDIUM
+Object Management Group Object Request Broker,93,MEDIUM
+Autodesk 3ds Max,93,MEDIUM
+Benefit Software Fringe Facts,93,MEDIUM
+SIS SEMCI PARTNER,93,MEDIUM
+Oracle Net Manager,93,MEDIUM
+Security risk assessment software,93,MEDIUM
+System testing software,93,MEDIUM
+MathWorks Simulink Fixed-Point Blockset,93,MEDIUM
+Compuware ClientVantage Agentless Monitoring,93,MEDIUM
+Gerber Technology CutWorks,93,MEDIUM
+Microsoft Forefront Identify Manager,93,MEDIUM
+Boundary scan description language BSDL,93,MEDIUM
+Softimage Extreme,93,MEDIUM
+RegMon,93,MEDIUM
+Data dictionary software,93,MEDIUM
+Cluster server software,93,MEDIUM
+Yardi Systems Yardi Voyager Commercial,93,MEDIUM
+FLorida Object Oriented Design Simulator FLOODS,93,MEDIUM
+Giraffe Production Systems Giraffe Schedule System,93,MEDIUM
+Automatic Data Processing AdvancedMD EHR,93,MEDIUM
+Network intrusion prevention systems NIPS,93,MEDIUM
+Transas Group PISCES2,93,MEDIUM
+Autodesk 3D Studio Design,93,MEDIUM
+ACCA Manual J,93,MEDIUM
+Gamma waste assay system GWAS,93,MEDIUM
+BMC Software Remedy IT Service Management Suite,93,MEDIUM
+Source code migration software,93,MEDIUM
+Incentive management system software,93,MEDIUM
+ProQuest Public Affairs Information Service (PAIS) database,93,MEDIUM
+AcornSystems Corporate Performance Management,93,MEDIUM
+ManagerPlus,93,MEDIUM
+Geac MPC Production,93,MEDIUM
+FlashCut CNC,93,MEDIUM
+Lead Activity Analyzer,93,MEDIUM
+Mentor Graphics PADS,93,MEDIUM
+Sage CPAAccounts Receivable,93,MEDIUM
+Chaos Enscape,93,MEDIUM
+Interoperability testing software,93,MEDIUM
+Simple API for XML SAX,93,MEDIUM
+BEA Tuxedo,93,MEDIUM
+Ebenefits Solutions Benefits Management,93,MEDIUM
+Avalara AvaTax ST,93,MEDIUM
+SkillTRAN Job Browser Pro,93,MEDIUM
+Moody's KMV Risk Analyst,93,MEDIUM
+ACL Audit Exchange,93,MEDIUM
+Red Sweater MarsEdit,93,MEDIUM
+Pilgrim Quality Solutions SmartSolve,93,MEDIUM
+Oracle iPlanet Web Server,93,MEDIUM
+Verilog,93,MEDIUM
+Ada,93,MEDIUM
+Haskell,93,MEDIUM
+Microsoft Playwright,93,MEDIUM
+ArcGIS Web AppBuilder,93,MEDIUM
+Honeywell WEBs-N4,93,MEDIUM
+PE INTERNATIONAL GaBi,93,MEDIUM
+Autodesk Mudbox,93,MEDIUM
+Dig,93,MEDIUM
+Onset Computer Corporation HOBOware,93,MEDIUM
+Tier generator software,93,MEDIUM
+LSA Visual DBR,93,MEDIUM
+Oracle Jdeveloper,93,MEDIUM
+Author-it,93,MEDIUM
+Data definition language DDL,93,MEDIUM
+Profit Developers Electronic File Interchange,93,MEDIUM
+Nunjucks,93,MEDIUM
+Graphic presentation software,93,MEDIUM
+Apache Sqoop,93,MEDIUM
+CA IDMS,93,MEDIUM
+McAfee Enterprise Security Manager,93,MEDIUM
+Infor Global Solutions eSITE,93,MEDIUM
+W-NOMINATE,93,MEDIUM
+MethodWare ProAudit Advisor,93,MEDIUM
+Risk assessment software,93,MEDIUM
+Workflow software,93,MEDIUM
+FastEST FastPipe,93,MEDIUM
+MTI Systems Costimator JS,93,MEDIUM
+Internal audit software,93,MEDIUM
+Microsoft Security Esssentials,93,MEDIUM
+High-performance software libraries,93,MEDIUM
+WildPackets OmniPeek Network Analyzer,93,MEDIUM
+EEO Made Simple AppTrac,93,MEDIUM
+EMC RSA Archer Business Continuity Management,93,MEDIUM
+Sage CPADocument Manager,93,MEDIUM
+Schematic capture software,93,MEDIUM
+Source code management SCM software,93,MEDIUM
+Cisco Systems Hot Standby Router Protocol HSRP,93,MEDIUM
+Event log monitor software,93,MEDIUM
+BeneLink Connect,93,MEDIUM
+SynaMed EMR,93,MEDIUM
+Quote Software QuoteExpress,93,MEDIUM
+Speediware SpeedEEO,93,MEDIUM
+TopCAATs,93,MEDIUM
+Remote access software,93,MEDIUM
+Sun Microsystems Cobalt,93,MEDIUM
+Symark PowerBroker,93,MEDIUM
+Ketogenic planning software,93,MEDIUM
+HR-ease,93,MEDIUM
+ABB Production Planning,93,MEDIUM
+Solar and Wind Energy Resource Assessment SWERA,93,MEDIUM
+Software asset management SAM software,93,MEDIUM
+Epocrates,93,MEDIUM
+Moody's KMV Risk Advisor,93,MEDIUM
+Adobe Persuasion,93,MEDIUM
+Logo design software,93,MEDIUM
+Alarm system software,93,MEDIUM
+Architecture description language ADL,93,MEDIUM
+Web application software,93,MEDIUM
+Seasafe Marine Software Seasafe,93,MEDIUM
+FedStats,93,MEDIUM
+OnQue Technologies COBRA OnOne,93,MEDIUM
+Backup and archival software,93,MEDIUM
+Elite Software DPIPE,93,MEDIUM
+Evron Computer Systems SAGE PFW (Platinum For Windows),93,MEDIUM
+Zephyr EXTRA! Terminal Emulation,93,MEDIUM
+CareCloud Central,93,MEDIUM
+Aptean Made2Manage,93,MEDIUM
+IAD Audit Leverage,93,MEDIUM
+Smart card management software,93,MEDIUM
+Online River Software Personal Trainer Pro,93,MEDIUM
+Regional Energy Deployment System ReEDS,93,MEDIUM
+Iron Mountain Accutrac records management software,93,MEDIUM
+Thomson Reuters Tradeweb,93,MEDIUM
+Microsoft Extensible Application Markup Language (XAML),93,MEDIUM
+Migration testing software,93,MEDIUM
+Equifax Advanced Decisioning,93,MEDIUM
+Agile Product Lifecyle Management PLM,93,MEDIUM
+Remote monitoring software,93,MEDIUM
+Heat loss calculation software,93,MEDIUM
+PricePoint,93,MEDIUM
+The Mathworks Data Acquisition Toolbox,93,MEDIUM
+Virage VS Archive,93,MEDIUM
+Graphisoft ArchiCAD,93,MEDIUM
+Riverbed Technology,93,MEDIUM
+Program checksumming software,93,MEDIUM
+Maynard PlanStaff Manager,93,MEDIUM
+Netscape Navigator,93,MEDIUM
+Advantos Systems DataTrust Enterprise,93,MEDIUM
+O*NET OnLine,93,MEDIUM
+Oracle SQL Plus,93,MEDIUM
+Xerces2 Java Parser,93,MEDIUM
+Watson Wyatt CompQuest On-Line,93,MEDIUM
+CrossTec NetOp Remote Control,93,MEDIUM
+SmartCAMcnc SmartCAM,93,MEDIUM
+Cadence Virtuoso Spectre Circuit Simulator,93,MEDIUM
+Mentor Graphics Precision RTL,93,MEDIUM
+AuditWare CaseWare Examiner,93,MEDIUM
+Borland VisiBroker,93,MEDIUM
+Ashley Software Writer's Blocks,93,MEDIUM
+TCG Technologies i-CAM,93,MEDIUM
+Quadkey HR Server,93,MEDIUM
+NetScout Sniffer Portable Professional Analyzer,93,MEDIUM
+Electronic design automation EDA software,93,MEDIUM
+Sniffer Investigator,93,MEDIUM
+Vero Software SURFCAM,93,MEDIUM
+PMC KanbanSIM,93,MEDIUM
+Oracle Real Application Cluster RAC,93,MEDIUM
+VectorWorks ARCHITECT,93,MEDIUM
+Virtual Benefits Administrator,93,MEDIUM
+CCH ProSystem fx TAX,93,MEDIUM
+MecSoft Corporation VisualMILL,93,MEDIUM
+Low-level debugger software,93,MEDIUM
+Cebos MQ1 Audit System,93,MEDIUM
+Watir,93,MEDIUM
+Ingenious ProSched,93,MEDIUM
+Computer system diagnostics software,93,MEDIUM
+Blogger,93,MEDIUM
+MecSoft Corporation RhinoCAM,93,MEDIUM
+Tanner EDA L-Edit,93,MEDIUM
+Softworks Global PESoftOne,93,MEDIUM
+Tool command language Tcl,93,MEDIUM
+InVision software,93,MEDIUM
+Lablite Laboratory Information Management Systems LIMS,93,MEDIUM
+Vero Software WorkNC,93,MEDIUM
+Instructure Canvas,93,MEDIUM
+Crime mapping software,93,MEDIUM
+Biddle Adverse Impact Toolkit,93,MEDIUM
+Bi3 Financial Statement Fraud Analysis,93,MEDIUM
+Network storage software,93,MEDIUM
+Quest BigBrother,93,MEDIUM
+Autodesk Smoke,93,MEDIUM
+Elite Software Plumbing CAD,93,MEDIUM
+LabWare LIMS,93,MEDIUM
+Lifestyles Technologies DietMaster Pro,93,MEDIUM
+SYSPRO business software,93,MEDIUM
+Compatibility testing software,93,MEDIUM
+Experian Strategy Management,93,MEDIUM
+Vue.js,93,MEDIUM
+Advanced Management Systems Software for Wineries,93,MEDIUM
+EMC Ionix Network Configuration Manager,93,MEDIUM
+ASI DATAMYTE GageMetrics,93,MEDIUM
+IBM Resource Access Control Facility RACF,93,MEDIUM
+Yardi Systems Yardi Voyager Residential,93,MEDIUM
+MathWorks Simulink DSP Blockset,93,MEDIUM
+Workbrain Employee Scheduling,93,MEDIUM
+Herbert Software Solutions HECSALV,93,MEDIUM
+Lynchval Systems Lvval,93,MEDIUM
+1CadCam Unigraphics,93,MEDIUM
+Nebu Dub InterViewer,93,MEDIUM
+HiT Software Allora,93,MEDIUM
+Progress OpenEdge Application Server,93,MEDIUM
+Windows Media Services,93,MEDIUM
+Forth,93,MEDIUM
+Oracle Unified Directory,93,MEDIUM
+The Napa Group NAPA,93,MEDIUM
+Moody's KMV Decisions,93,MEDIUM
+Extensible stylesheet language transformations XSLT,93,MEDIUM
+Algorithmic language ALGOL,93,MEDIUM
+Autodesk Architectural Studio,93,MEDIUM
+Fanatic Software Informant,93,MEDIUM
+Web-based information systems,93,MEDIUM
+IBM ADSTAR,93,MEDIUM
+London Computer Systems Rent Manager,93,MEDIUM
+Microsoft Visual SourceSafe,93,MEDIUM
+Fluke Networks Enterprise LANMeter,93,MEDIUM
+dBASE Plus,93,MEDIUM
+Dolphin Lunar,93,MEDIUM
+Tumblr,93,MEDIUM
+Meter reading software,93,MEDIUM
+Equitas EEOStat,93,MEDIUM
+Traceroute,93,MEDIUM
+Structural Dynamics StruCAD*3D,93,MEDIUM
+Oracle Designer,93,MEDIUM
+Network and application load and performance testing software,93,MEDIUM
+Paragon Financial Services Paragon Financial System,93,MEDIUM
+Exacq Technologies software,93,MEDIUM
+Systems and data disaster recovery software,93,MEDIUM
+Itron Enterprise Energy Management EEM Suite,93,MEDIUM
+Vero Software PEPS,93,MEDIUM
+Computer operating systems,93,MEDIUM
+Allaire ColdFusion,93,MEDIUM
+Polhemus Fasttrack System,93,MEDIUM
+Ettercap NG,93,MEDIUM
+Asprova,93,MEDIUM
+AWS Elastic MapReduce (EMR),93,MEDIUM
+FileNet P8,93,MEDIUM
+CA Clarity PPM,93,MEDIUM
+Medical reference software,93,MEDIUM
+Activant Solutions Activant Prophet 21,93,MEDIUM
+Oracle Java Enterprise Edition EE,93,MEDIUM
+Apple Xsan,93,MEDIUM
+SAP Business Intelligence,93,MEDIUM
+Bill of lading software,93,MEDIUM
+VUE Benefits Manager,93,MEDIUM
+Valen Technologies Risk Manager,93,MEDIUM
+Charles River Development Charles River Investment Management System,93,MEDIUM
+Active directory software,93,MEDIUM
+COMSOL Multiphysics,93,MEDIUM
+Computer assisted language learning CALL software,93,MEDIUM
+Jenzabar EX,93,MEDIUM
+Calypso Technology Calypso Asset Management,93,MEDIUM
+Failure analysis software,93,MEDIUM
+Bashen LinkLine,93,MEDIUM
+MicroFour PracticeStudio.NET EMR,93,MEDIUM
+E++ pattern language,93,MEDIUM
+CableSoft LiveWire Trader,93,MEDIUM
+Tape backup system software,93,MEDIUM
+Uncamco Ucam,93,MEDIUM
+Oracle Data Integrator,93,MEDIUM
+Microsoft Entourage,93,MEDIUM
+CSI Complex Systems ClientTrade,93,MEDIUM
+Call-processing language CPL,93,MEDIUM
+Word recognition software,93,MEDIUM
+Architectural Energy Corporation REM/Rate,93,MEDIUM
+Good Steward Software EnergyCAP,93,MEDIUM
+Greenway Medical Technologies PrimeSUITE,93,MEDIUM
+Oracle Migration Workbench,93,MEDIUM
+Questek Humanis,93,MEDIUM
+MapInfo StreetPro,93,MEDIUM
+Intergraph Image Analyst,93,MEDIUM
+Talend Data Fabric,93,MEDIUM
+MUMPS M,93,MEDIUM
+G-code,93,MEDIUM
+Vehicle inspection databases,93,MEDIUM
+Drcauto Smart Architect LT Pro,93,MEDIUM
+MicroStrategy Report Services,93,MEDIUM
+Popkin System Architect,93,MEDIUM
+Intuit MRI Residential,93,MEDIUM
+Sage Simply Accounting,93,MEDIUM
+Cooperative Processing Resources DMS Professional Suite,93,MEDIUM
+Samba,93,MEDIUM
+Xilinx Synthesis Technology XST,93,MEDIUM
+Propertyware,93,MEDIUM
+Eiffel,93,MEDIUM
+IBM Lotus SameTime,93,MEDIUM
+Greatis Object Inspector,93,MEDIUM
+Sungard Assurance,93,MEDIUM
+Scikit-learn,93,MEDIUM
+Computer assisted design software,93,MEDIUM
+Desktop partitioning software,93,MEDIUM
+Vivaldi Software Vivaldi Quality Management,93,MEDIUM
+Jaspersoft Business Intelligence Suite,93,MEDIUM
+Micosoft SQL Server Analysis Services SSAS,93,MEDIUM
+Event-driven State-machines Programming,93,MEDIUM
+Corporate Responsibility System Technologies Limited Compliance Positioning System,93,MEDIUM
+Acresso InstallAnywhere,93,MEDIUM
+Callidus TrueComp,93,MEDIUM
+Pelion manufacturing process optimization MPO software,93,MEDIUM
+Past Inspection Query PIQ,93,MEDIUM
+Requirements management software,93,MEDIUM
+SUPREM,93,MEDIUM
+Avid Digidesign Pro Tools,93,MEDIUM
+CyberSoft NutriBase,93,MEDIUM
+DL_POLY,93,MEDIUM
+Integrity verification software,93,MEDIUM
+Micro-Press MicroStation PowerDraft,93,MEDIUM
+Synplicity Synplify,93,MEDIUM
+ANSYS AQWA,93,MEDIUM
+1099 ProsSoftware,93,MEDIUM
+Apple iWork Pages,93,MEDIUM
+Motion graphics software,93,MEDIUM
+Guidance Software EnCase Enterprise,93,MEDIUM
+EEO Made Simple AAPMaker,93,MEDIUM
+Systat Software LISA.lims,93,MEDIUM
+Star Software Materiality Calculator,93,MEDIUM
+Prime Debt Software Credit Repair,93,MEDIUM
+Fair Isaac Application Risk Model Software,93,MEDIUM
+Colasoft Capsa Free,93,MEDIUM
+Operating system monitoring software,93,MEDIUM
+PCS Revenue Control Systems FASTRAK School Meal Software,93,MEDIUM
+Enercom Energy Depot for Business,93,MEDIUM
+ScriptPerfection Power Writer,93,MEDIUM
+Microsoft transact-structural query language T-SQL,93,MEDIUM
+PARTHENON,93,MEDIUM
+SigmaTEK SigmaNEST,93,MEDIUM
+OSI TrustWise,93,MEDIUM
+Embarcadero Technologies DBArtisan,93,MEDIUM
+MAYA Nastran,93,MEDIUM
+FundCount Web,93,MEDIUM
+Metalix CAD/CAM System cncKad,93,MEDIUM
+Dolphin CAD/CAM,93,MEDIUM
+Sun Microsystems Java Persistence API,93,MEDIUM
+Sage Peachtree Premium Accounting for Manufacturing,93,MEDIUM
+KPB Associates TaxStream,93,MEDIUM
+Federal Renewable Energy Screening Assistant FRESA,93,MEDIUM
+Vero Software RADAN,93,MEDIUM
+Informatica PowerCenter,93,MEDIUM
+Cadence Encounter RTL Compiler,93,MEDIUM
+Oracle Business Intelligence Suite,93,MEDIUM
+webpack,93,MEDIUM
+Microarchitecture simulation software,93,MEDIUM
+Autodesk VIZ,93,MEDIUM
+Financial statement software,93,MEDIUM
+Adobe LifeCycle ES,93,MEDIUM
+Microsoft Works,93,MEDIUM
+Accounts payable software,93,MEDIUM
+IBM Tivoli Identity Management TIM,93,MEDIUM
+Field programmable gate array FPGA design software,93,MEDIUM
+WRSHealth EMR,93,MEDIUM
+SAP Master Data Management MDM,93,MEDIUM
+Finite element analysis FEA software,93,MEDIUM
+Python Tools for Visual Studio (PTVS),93,MEDIUM
+FANUC CNC,93,MEDIUM
+iCode Everest,93,MEDIUM
+Website development software,93,MEDIUM
+Automated media tracking software,93,MEDIUM
+Bostonpost Technology Property Manager,93,MEDIUM
+PEPID RN Critical Care RNCC,93,MEDIUM
+SendGrid,93,MEDIUM
+ASI DATAMYTE QDA,93,MEDIUM
+IBM Interactive System Productivity Facility ISPF,93,MEDIUM
+Omni Group OmniGraffle,93,MEDIUM
+ADP Employease,93,MEDIUM
+Waterloo Hydrogeologic TACTIC,93,MEDIUM
+ABC: the AspectBench Compiler for AspectJ,93,MEDIUM
+Autodesk 3d Studio Viz,93,MEDIUM
+Test automation software,93,MEDIUM
+CPMD,93,MEDIUM
+Predator DNC,93,MEDIUM
+MEDITECH Healthcare Information System HCIS,93,MEDIUM
+Element management software,93,MEDIUM
+Mobile wireless network infrastructure software,93,MEDIUM
+FlexiFinancials FlexiLedger,93,MEDIUM
+KRS Enterprises Service First!,93,MEDIUM
+Secure internet filtering software,93,MEDIUM
+Open Shortest Path First OSPF,93,MEDIUM
+Apatar,93,MEDIUM
+M-Sim,93,MEDIUM
+ERP software,93,MEDIUM
+MapR Converged Data Platform,93,MEDIUM
+Computer simulation software,93,MEDIUM
+Cartesis ES Magnitude,93,MEDIUM
+YourKit Java Profiler,93,MEDIUM
+Apple iWork Numbers,93,MEDIUM
+Flat File Checker,93,MEDIUM
+Top Systems T-FLEX CAM,93,MEDIUM
+Laboratory Automated Quality Control Systems LAQC,93,MEDIUM
+SAP BusinessObjects Desktop Intelligence,93,MEDIUM
+American HealthTech Financial,93,MEDIUM
+NetScout Sniffer Global Analyzer,93,MEDIUM
+Landtitle USA,93,MEDIUM
+Modula,93,MEDIUM
+Empirisoft MediaLab,93,MEDIUM
+Test implementation software,93,MEDIUM
+American Printing House for the Blind Talking Typer,93,MEDIUM
+Dolphin Integration SMASH,93,MEDIUM
+Property Solutions International ResidentPortal,93,MEDIUM
+Port scanners,93,MEDIUM
+Symantec Veritas Volume Manager,93,MEDIUM
+Physical access management software,93,MEDIUM
+HP Autonomy TeamSite,93,MEDIUM
+Time tracking software,93,MEDIUM
+Adobe RoboHelp,93,MEDIUM
+Software distribution management software,93,MEDIUM
+Compris software,93,MEDIUM
+HOMAG WoodWOP,93,MEDIUM
+Monash University Low FODMAP Diet App,93,MEDIUM
+Time sharing option TSO software,93,MEDIUM
+Root kit detection software,93,MEDIUM
+poLCA,93,MEDIUM
+Peopleclick Monitor,93,MEDIUM
+Scheme,93,MEDIUM
+Oxford Reference Online,93,MEDIUM
+Watter Hammer Software Hytran,93,MEDIUM
+Roof Builder Tools,93,MEDIUM
+Apache Airflow,93,MEDIUM
+Specification software,93,MEDIUM
+Card key management software,93,MEDIUM
+Business continuity software,93,MEDIUM
+Ipswitch WhatsUp Gold,93,MEDIUM
+FRx Software Microsoft FRx,93,MEDIUM
+CloverETL,93,MEDIUM
+Cadem seeNC Mill,93,MEDIUM
+Delcam FeatureCAM,93,MEDIUM
+Pipepro Pipefitting,93,MEDIUM
+BMC Software Change Manager,93,MEDIUM
+Test data generator software,93,MEDIUM
+Inetsoft,93,MEDIUM
+Ansoft Simplorer,93,MEDIUM
+Orpheus Technology Pro Writing Aid,93,MEDIUM
+Salary.com,93,MEDIUM
+SAP Concur,93,MEDIUM
+Windows kernel debuggers,93,MEDIUM
+Ravenshead Services WriteItNow,93,MEDIUM
+Audit planning and control environment software,93,MEDIUM
+Integrated Automated Fingerprint Identification System IAFIS,93,MEDIUM
+RTA Fleet Management,93,MEDIUM
+Harrington Group caWeb,93,MEDIUM
+Data Trace Title IQ,93,MEDIUM
+Source code editor software,93,MEDIUM
+The MathWorks Symbolic Math Toolbox,93,MEDIUM
+Autodesk AutoCAD LT,93,MEDIUM
+Biddle AutoAAP,93,MEDIUM
+Computer Associates Log Analyzer,93,MEDIUM
+Security testing software,93,MEDIUM
+Symantec Ghost Solution Suite,93,MEDIUM
+dBASE,93,MEDIUM
+Bashen EEOFedSoft,93,MEDIUM
+ReadyTalk,93,MEDIUM
+Retargetable compiler,93,MEDIUM
+Very high speed integrated circuit VHSIC hardware description language VHDL simulation software,93,MEDIUM
+Microsoft Visual Studio Test Professional,93,MEDIUM
+Symantec Altiris Deployment Solution,93,MEDIUM
+Twiki,93,MEDIUM
+ICTraining,93,MEDIUM
+Abraxas Energy Consulting Metrix,93,MEDIUM
+Ethereal,93,MEDIUM
+Kirix ProffiPoint,93,MEDIUM
+Cisco Systems Gateway Load Balancing Protocol GLBP,93,MEDIUM
+Texas Medical Software SpringCharts EMR,93,MEDIUM
+Apache Mahout,93,MEDIUM
+React Redux,93,MEDIUM
+Application-specific integrated circuit ASIC logic synthesis software,93,MEDIUM
+RoughDraft,93,MEDIUM
+JavaScript framework software,93,MEDIUM
+Functional testing software,93,MEDIUM
+Sitecore CMS,93,MEDIUM
+Network availability monitoring software,93,MEDIUM
+Synopsys TetraMax ATPG,93,MEDIUM
+Graphics pipelines,93,MEDIUM
+Autodesk Fusion 360,93,MEDIUM
+LabOne NET,93,MEDIUM
+Vision InfoSoft Plumbing Bid Manager,93,MEDIUM
+Object oriented development environment software,93,MEDIUM
+Microsoft Azure Sentinel,93,MEDIUM
+DuPont Spies Hecker Wizard,93,MEDIUM
+RIVS automated interview software,93,MEDIUM
+Component object model COM software,93,MEDIUM
+LogRhythm,93,MEDIUM
+Parasoft SOAtest,93,MEDIUM
+Network address management software,93,MEDIUM
+Rytech Software Small Business Inventory Control,93,MEDIUM
+PQ Systems GAGEpack,93,MEDIUM
+Algorithmic software,93,MEDIUM
+Automated document generation software,93,MEDIUM
+Edmodo,93,MEDIUM
+Kotlin,93,MEDIUM
+Thomson Creative Solutions Financial Analysis CS,93,MEDIUM
+The Gordian Group PROGEN Online,93,MEDIUM
+NetScout InfinitiStream Console,93,MEDIUM
+RSM McGladrey Advanced Practice Solutions Paperless Audit,93,MEDIUM
+TekSoft CAMWorks,93,MEDIUM
+Oberon,93,MEDIUM
+Virtual Router Redundancy Protocol VRRP,93,MEDIUM
+Oracle E-Business Suite Human Resources Management System,93,MEDIUM
+Computer diagnostic software,93,MEDIUM
+Remote desktop control software,93,MEDIUM
+RADAN Radbend,93,MEDIUM
+Enterprise Logix,93,MEDIUM
+ContextMiner,93,MEDIUM
+Intermediate System to Intermediate System IS-IS,93,MEDIUM
+IBM Rational System Architect,93,MEDIUM
+Cammack Computations Inter-Est,93,MEDIUM
+WH Software MasterKey,93,MEDIUM
+Structure prediction software,93,MEDIUM
+M-code,93,MEDIUM
+Vienna Ab-Initio Simulation Package VASP,93,MEDIUM
+Objective Caml,93,MEDIUM
+Blackbaud The Financial Edge,93,MEDIUM
+Oracle Reports,93,MEDIUM
+Fifth Walk BillingTracker,93,MEDIUM
+TypeScript,93,MEDIUM
+Equal employment opportunity EEO compliance software,93,MEDIUM
+Pegasus software,93,MEDIUM
+xQuery,93,MEDIUM
+Pearson Education PHStat2,93,MEDIUM
+Storage area network SAN software,93,MEDIUM
+ESRI ArcEditor,93,MEDIUM
+Celeritive Technologies VoluMill,93,MEDIUM
+JudgeIt II,93,MEDIUM
+ICCO CreditSoft,93,MEDIUM
+Hospitality Control Solutions Aloha Point-of-Sale,93,MEDIUM
+Alpha Four,93,MEDIUM
+BMC Software Control-M,93,MEDIUM
+Siemens PLM software,93,MEDIUM
+simplifyMD,93,MEDIUM
+EtQ Reliance,93,MEDIUM
+Coyote Software DynaSCAPE Design,93,MEDIUM
+Stress testing software,93,MEDIUM
+iPro,93,MEDIUM
+Telvent DTN ProphetX,93,MEDIUM
+Construction Software Center EasyEst,82,MEDIUM
+Corel Photo-Paint,82,MEDIUM
+Automated Data Collection System ADCS,82,MEDIUM
+Mitchell OnDemand5 Manager,82,MEDIUM
+Postal Explorer,82,MEDIUM
+RestaurantPlus PRO,82,MEDIUM
+Access Software AIRPAX,82,MEDIUM
+DigiTools Roof CAD,82,MEDIUM
+Yost Engineering EPStaffCheck,82,MEDIUM
+Ulead PhotoImpact,82,MEDIUM
+Corel WebDraw,82,MEDIUM
+Serif PagePlus,82,MEDIUM
+Cerner ProFile,82,MEDIUM
+Blue Streak Electronics Buell Diagnostic,82,MEDIUM
+Rinda Technologies DIACOM Marine,82,MEDIUM
+Xara Designer Pro,82,MEDIUM
+API Healthcare ActiveStaffer,82,MEDIUM
+Vestas Wind Systems A/S Vestas Remote Panel,82,MEDIUM
+Food Services Solutions DayCap,82,MEDIUM
+DatcoMedia EBis,82,MEDIUM
+Corel CorelScan,82,MEDIUM
+Vector drawing software,82,MEDIUM
+RV Damage Repair Estimator,82,MEDIUM
+FarmLogic FarmPAD,82,MEDIUM
+Maintenance information databases,82,MEDIUM
+Gift Certificates Plus Giftworks,82,MEDIUM
+ConceptDraw,82,MEDIUM
+Emdeon HealthPro,82,MEDIUM
+Operational Data Store ODS software,82,MEDIUM
+DataTeam Lunch Express,82,MEDIUM
+Evergreen Technology Eagle Bid Estimating,82,MEDIUM
+Microsoft Picture It!,82,MEDIUM
+3DGrid HIPAA Checkup,82,MEDIUM
+Delivery Routing System DRS,82,MEDIUM
+Automated Package Processing System APPS,82,MEDIUM
+Restaurant Manager,82,MEDIUM
+Electronic Time Clock ETC,82,MEDIUM
+Delivery operations information system DOIS,82,MEDIUM
+e-MDs Chart,82,MEDIUM
+On Center Quick Bid,82,MEDIUM
+Summit Ordering Systems RvInvoiceWriter,82,MEDIUM
+Apple iWork,82,MEDIUM
+Nuance Dragon NaturallySpeaking,82,MEDIUM
+NCR Advanced Store,82,MEDIUM
+ServiceMax,82,MEDIUM
+TeleTracking PreAdmit-Tracking,82,MEDIUM
+Barcode reader software,82,MEDIUM
+Supply system software,82,MEDIUM
+Finite Matters PatternStream,82,MEDIUM
+Exele TopView,82,MEDIUM
+Online image and graphics database software,82,MEDIUM
+"IPro Restaurant Inventory, Recipe & Menu Software",82,MEDIUM
+Directory software,82,MEDIUM
+Yost Engineering ABN Assistant,82,MEDIUM
+Army Food Management Information System,82,MEDIUM
+Bed Management Suite,82,MEDIUM
+Scribus,82,MEDIUM
+Nuance OmniPage Professional,82,MEDIUM
+PANTONE ColorVision ProfilerPlus,82,MEDIUM
+Technical Data Management System TDMS,82,MEDIUM
+Cafe Cartel Systems,82,MEDIUM
+SoftCafe MenuPro,82,MEDIUM
+Roof Pro Estimate Software Roof Pro,82,MEDIUM
+Energy cost evaluation software,82,MEDIUM
+Snap-On ShopKey,82,MEDIUM
+Portable document file creation software,82,MEDIUM
+Amcom AUTOS2000,82,MEDIUM
+Vehicle management software,82,MEDIUM
+Potrace,82,MEDIUM
+AT&T Troff,82,MEDIUM
+PCC EHR,82,MEDIUM
+LaTeX,82,MEDIUM
+Sage Construction Anywhere,82,MEDIUM
+Tradesman's Software Master Estimator,82,MEDIUM
+Bosch Punch List,82,MEDIUM
+Inkscape,82,MEDIUM
+Hunter WinAlign,82,MEDIUM
+Genisys Fast Fixes,82,MEDIUM
+Arts & Letters Express,82,MEDIUM
+ASI FrontDesk,82,MEDIUM
+Raster graphics editors,82,MEDIUM
+End of Run Report EOR,82,MEDIUM
+AcuStaf,82,MEDIUM
+Dental Common Access System DENCAS,82,MEDIUM
+CodedColor,82,MEDIUM
+Color management software,82,MEDIUM
+Resort Data Processing,82,MEDIUM
+Measure Square FloorEstimate Pro,82,MEDIUM
+Scalable vector graphics SVG,82,MEDIUM
+CDI Electronics M.E.D.S.,82,MEDIUM
+Apple AppleScript,82,MEDIUM
+Time and Attendance Collection System TACS,82,MEDIUM
+iMagic Restaurant Reservation,82,MEDIUM
+GTX RastorCAD,82,MEDIUM
+Objectif Lune PlanetPress Suite,82,MEDIUM
+ReServe Interactive,82,MEDIUM
+Kodak Dental Systems Kodak SOFTDENT Practice management software PMS,82,MEDIUM
+Nuance PaperPort Professional,82,MEDIUM
+Aya Associates Comp-U-Floor,82,MEDIUM
+Current procedural terminology CPT software,82,MEDIUM
+Pentagon 2000SQL,82,MEDIUM
+A-Systems JobView,82,MEDIUM
+Nexiq Tech HDS Suite for Palm,82,MEDIUM
+McKesson Horizon Ambulatory Care,82,MEDIUM
+Scott Systems MaxxTraxx Pro,82,MEDIUM
+Misys Healthcare Systems Misys Tiger,82,MEDIUM
+RISA Technologies RISAMasonry,82,MEDIUM
+Construction Management Software ProEst,82,MEDIUM
+espSoftware Employee Schedule Partner,82,MEDIUM
+Work order management software,82,MEDIUM
+Technical manual database software,82,MEDIUM
+RoofLogic,82,MEDIUM
+Actuate DocBook,82,MEDIUM
+Relative Values for Physicians,82,MEDIUM
+Outboard engine diagnostic software,82,MEDIUM
+GrassHopper PageStream,82,MEDIUM
+Corel OCR-Trace 8,82,MEDIUM
+Yost Engineering CodeSearch Pro,82,MEDIUM
+CareCentric MestaMed,82,MEDIUM
+Expert Health Data Programming Vitalnet,82,MEDIUM
+Incident tracking software,82,MEDIUM
+Yost Engineering ClaimScrub,82,MEDIUM
+American Medical Association CodeManager,82,MEDIUM
+Mxi Technologies Maintenix,82,MEDIUM
+Daystar iStructural.com,82,MEDIUM
+ArticSoft FileAssurity,82,MEDIUM
+CaseBank SpotLight,82,MEDIUM
+CliniTrend,82,MEDIUM
+Culinary Software Services ChefTec,82,MEDIUM
+WordWeb,82,MEDIUM
+Alliance Automotive Shop Controller,82,MEDIUM
+Maintenance planning software,82,MEDIUM
+Operational databases,82,MEDIUM
+ClubSoft Food & Beverage Point of Sale,82,MEDIUM
+TileGem,82,MEDIUM
+Engine analysis software,82,MEDIUM
+Work order software,82,MEDIUM
+AppliCad Roof Wizard,82,MEDIUM
+Food Service Solutions POSitive ID System,82,MEDIUM
+MedFORCE Technologies WorkFLOW,82,MEDIUM
+Roofing Calculator,82,MEDIUM
+Online service manual database software,82,MEDIUM
+AutoZone ALLDATA,82,MEDIUM
+Ziatek RoofDraw,82,MEDIUM
+Computerized aircraft log manager CALM,82,MEDIUM
+Alteer Office,82,MEDIUM
+Industrial control systems software,82,MEDIUM
+Spelling and grammar checking software,82,MEDIUM
+Timekeeping software,82,MEDIUM
+Topline Software Solutions Topline Service Manager,82,MEDIUM
+CODA Engine Analysis System,82,MEDIUM
+Contract management software,82,MEDIUM
+InnQuest roomMaster,82,MEDIUM
+Mainsaver Asset Management,82,MEDIUM
+Maintenance record software,82,MEDIUM
+Yost Engineering EpiCoder,82,MEDIUM
+Aestiva Employee Time Clock,82,MEDIUM
+Tracware AeroTrac,82,MEDIUM
+MEDENT,82,MEDIUM
+Engine diagnostic scanners,82,MEDIUM
+CPR Visual Estimator,82,MEDIUM
+Cenon,82,MEDIUM
+ChefDesk Chef's Calculators,82,MEDIUM
+SweetWARE nutraCoster,82,MEDIUM
+MEDITECH Medical and Practice Management MPM Suite,82,MEDIUM
+e-MDs DocMan,82,MEDIUM
+Trix TracTrix,82,MEDIUM
+Humidity and vapor drive calculation software,82,MEDIUM
+e-MDs Schedule,82,MEDIUM
+ColorSoft AutoMatch,82,MEDIUM
+Recordkeeping software,82,MEDIUM
+SPX/OTC Genisys ConnecTech PC,82,MEDIUM
+Address Management System AMS,82,MEDIUM
+DxCG RiskSmart,82,MEDIUM
+Dinerware Intuitive Restaurant,82,MEDIUM
+Computer-aided drafting or design software,82,MEDIUM
+EasyCAD Iris 2D,82,MEDIUM
+Disassembler software,82,MEDIUM
+EMC Documentum,82,MEDIUM
+Food Service Solutions FoodCo,82,MEDIUM
+Mitchell Manager Invoicing System,82,MEDIUM
+AlgoLab Raster to Vector Conversion Toolkit,82,MEDIUM
+Ramesys Hospitality,82,MEDIUM
+WBT Systems TopClass,77,MEDIUM
+Leprechaun Spa and Salon Software,77,MEDIUM
+Four Soft 4S eLog,77,MEDIUM
+Disarea 5pm,77,MEDIUM
+Arrow Electronics N/Compass,77,MEDIUM
+Parbat,77,MEDIUM
+Clark Labs IDRISI Selva,77,MEDIUM
+TouchSuite Salon,77,MEDIUM
+People-Trak software,77,MEDIUM
+Daptiv PPM,77,MEDIUM
+FedEx Ship Manager,77,MEDIUM
+TechHackers Credit @nalyst,77,MEDIUM
+Investment and business valuation template software,77,MEDIUM
+SRC Cash Flow Forecasting,77,MEDIUM
+interactive Personnel Electronic Records Management System iPERMS,77,MEDIUM
+Tips Standard Securities Calculation Mortgage-Backed Analytics Module,77,MEDIUM
+Keane SCORE,77,MEDIUM
+Aris Global Register,77,MEDIUM
+Norchard Solutions Succession Wizard,77,MEDIUM
+QSM SLIM Suite,77,MEDIUM
+Audion Laboratories VoxPro,77,MEDIUM
+i2 Supply Chain Visibility,77,MEDIUM
+MightyScout,77,MEDIUM
+MPI Micro Planner X-Pert,77,MEDIUM
+Apache Gump,77,MEDIUM
+Invivo Data EPX ePRO Management System,77,MEDIUM
+Four Soft 4S VisiLog,77,MEDIUM
+Tigris Cabie,77,MEDIUM
+Audit2 AdaptiveGRC,77,MEDIUM
+Side Effects Houdini,77,MEDIUM
+Advanced Portfolio Technologies Report Builder,77,MEDIUM
+Paycor payroll management,77,MEDIUM
+Human machine interface HMI software,77,MEDIUM
+Lorenz DocuBridge,77,MEDIUM
+Exact Software JobBOSS,77,MEDIUM
+Master scheduling software,77,MEDIUM
+Aquatic Plant Information Retrieval System APIRS,77,MEDIUM
+SunGard Frontier,77,MEDIUM
+Integrated construction management software,77,MEDIUM
+EZ-Data Client Data System,77,MEDIUM
+Objective Decision Contactizer Pro,77,MEDIUM
+Phase Forward Clintrial,77,MEDIUM
+Consular Consolidated Database CCD,77,MEDIUM
+Peer-to-Peer Financial Analysis,77,MEDIUM
+Infor SCM,77,MEDIUM
+Enablez ResortSuite,77,MEDIUM
+RedPrairie DLx Warehouse,77,MEDIUM
+TradeTools Monthly U.S. Economic Database,77,MEDIUM
+Kforge,77,MEDIUM
+Caliban Mindwear HyperGASP,77,MEDIUM
+Risk management software,77,MEDIUM
+Datafarm S-Cubed,77,MEDIUM
+Axios Systems assyst,77,MEDIUM
+Microsoft Business Intelligence BI,77,MEDIUM
+Bing,77,MEDIUM
+Longview Consolidation,77,MEDIUM
+Spreadware Business Valuator,77,MEDIUM
+FunEducation Outstart Trainer,77,MEDIUM
+VSCOnline VPMi,77,MEDIUM
+MediRegs Risk Assessment Manager,77,MEDIUM
+Optima IAS,77,MEDIUM
+ESSA TechnologiesTool for Exploratory Landscape Scenario Analyses TELSA,77,MEDIUM
+EZ-Ranch,77,MEDIUM
+PigCHAMP Care 3000,77,MEDIUM
+Savant MobileRanger,77,MEDIUM
+FinEng Solutions Quantis,77,MEDIUM
+Modulo Risk Manager,77,MEDIUM
+Pi Blue OptWorks Excel,77,MEDIUM
+TMW PowerSuite,77,MEDIUM
+Unlimited Learning Resources Valusource Pro,77,MEDIUM
+CSI Software Spa Management,77,MEDIUM
+Site Manager,77,MEDIUM
+PlanPlus Pro,77,MEDIUM
+SunGard WebPlaid,77,MEDIUM
+TechHackers Financial @nalyst,77,MEDIUM
+SAP BEx Report Designer,77,MEDIUM
+TradeTools Financial Market Databases,77,MEDIUM
+Standard & Poor's Capital IQ Compustat,77,MEDIUM
+Glasscubes,77,MEDIUM
+Aline GRC,77,MEDIUM
+International Response Technologies CowChip - Ranch House,77,MEDIUM
+Twin Tiers Technologies MIMS,77,MEDIUM
+i-lign,77,MEDIUM
+Lombardi Teamworks,77,MEDIUM
+Financeware AASim,77,MEDIUM
+Manhattan Scale,77,MEDIUM
+CorridorDesigner,77,MEDIUM
+Web conferencing software,77,MEDIUM
+USDA NRCS VegSpec,77,MEDIUM
+USPS.com,77,MEDIUM
+Hotel management system software,77,MEDIUM
+OutlookSoft,77,MEDIUM
+Cheshire Financial Planning Suite,77,MEDIUM
+IMSure Solutions SHIPflex,77,MEDIUM
+AgData Blue Skies Accounting,77,MEDIUM
+Unidata Integrated Data Viewer IDV,77,MEDIUM
+Farm Files Livestock,77,MEDIUM
+easyCIS,77,MEDIUM
+ARES Corporation PRISM Project Estimator,77,MEDIUM
+Market forecast software,77,MEDIUM
+MantisBT,77,MEDIUM
+Keypoint DataDesk,77,MEDIUM
+Integrated Decision Support Netwise Enterprise,77,MEDIUM
+Steele Mutual Fund and Variable Annuity Expert,77,MEDIUM
+Octagon StartingPoint,77,MEDIUM
+Nielsen Marketbreaks,77,MEDIUM
+Finance Logix Retirement Planner,77,MEDIUM
+MediRegs ComplyTrack,77,MEDIUM
+SunGard Financial Systems AddVantage,77,MEDIUM
+CMO Compliance Regulatory Compliance Solution,77,MEDIUM
+SAP ERP Operations,77,MEDIUM
+Trivantis Lectora,77,MEDIUM
+LuntBuild,77,MEDIUM
+Countryside Data Ag Payroll,77,MEDIUM
+Automated purchase order software,77,MEDIUM
+CS Odessa ConceptDraw Project,77,MEDIUM
+Strategic Reporting Systems ReportSmith,77,MEDIUM
+Amber Road,77,MEDIUM
+Finance Logix Education Planner,77,MEDIUM
+Enterprise content management ECM software,77,MEDIUM
+PDF readers,77,MEDIUM
+Oracle Siebel Marketing Resource Management,77,MEDIUM
+Specialized Data Systems Ultra Farm,77,MEDIUM
+Harland Financial Solutions DecisionPro,77,MEDIUM
+AMS REALTIME Projects,77,MEDIUM
+ControlCase Compliance Manager,77,MEDIUM
+Transportation management system TMS software,77,MEDIUM
+Epicor WMS,77,MEDIUM
+Daily Manager,77,MEDIUM
+Qqest TimeForce,77,MEDIUM
+IBS Supply Chain Management,77,MEDIUM
+CRIMPERS Management Software CRIMPERS Salon Software,77,MEDIUM
+Thomson Reuters Paisley Enterprise GRC,77,MEDIUM
+PPD eLoader,77,MEDIUM
+SST Development Group SSToolbox,77,MEDIUM
+Sierra Scientific Software CRIS,77,MEDIUM
+Fish stocking databases,77,MEDIUM
+Extedo PLmanager,77,MEDIUM
+DoubleCheck GRC&T Platform,77,MEDIUM
+QuestionMark,77,MEDIUM
+MediRegs Regulation and Reimbursement Suite,77,MEDIUM
+Business Objects Data Integrator,77,MEDIUM
+DoubleBridge ROSETTA Scribe,77,MEDIUM
+Citect IIM,77,MEDIUM
+Cabinet NG CNG-SAFE,77,MEDIUM
+TechHackers Convertible Bond @nalyst,77,MEDIUM
+Claritas PRIZM NE,77,MEDIUM
+Tax planning software,77,MEDIUM
+Accutech Systems Corporation AccuFarm-MGR,77,MEDIUM
+United Nations Food and Agriculture Organization Livestock and Environment Toolbox LEAD,77,MEDIUM
+Sawhney ExecPlan,77,MEDIUM
+USDA Comet,77,MEDIUM
+Catalyst International CatalystConnect,77,MEDIUM
+Snapchat,77,MEDIUM
+Grass Valley EDIUS,77,MEDIUM
+Imagine That Extend OR,77,MEDIUM
+Automatic Data Processing ProxyEdge,77,MEDIUM
+FinalBuilder,77,MEDIUM
+Tyler Technologies MUNIS,77,MEDIUM
+MediRegs Pharmaceutical Regulation Suite,77,MEDIUM
+Quantifying marketability discount QMD modeling software,77,MEDIUM
+Tesseract Benefits Manager,77,MEDIUM
+ExpenseWatch,77,MEDIUM
+IBM ILOG Inventory Analyst,77,MEDIUM
+CSI WSE CodeBuddy,77,MEDIUM
+ClienTrak!,77,MEDIUM
+Mind mapping software,77,MEDIUM
+Character generator software,77,MEDIUM
+PCG Software Virtual Examiner,77,MEDIUM
+Training software,77,MEDIUM
+Pricing software,77,MEDIUM
+Neural network modeling software,77,MEDIUM
+Microsoft Proclarity,77,MEDIUM
+Freeze.com Ovation Studio Pro,77,MEDIUM
+Authoria Adviser,77,MEDIUM
+eMoneyAdvisor AdvisorPlatform,77,MEDIUM
+Computer integrated manufacturing CIM software,77,MEDIUM
+Open Systems TRAVERSE,77,MEDIUM
+Ivorix Neurostrategy Finance,77,MEDIUM
+Autocoders,77,MEDIUM
+Lion Edge Technologies Ranch Manager,77,MEDIUM
+RedSky IT Entirety e-Booking,77,MEDIUM
+Electronic common technical document eCTD software,77,MEDIUM
+MatchWare MindView,77,MEDIUM
+Infotronics Attendance Enterprise,77,MEDIUM
+Cura Software Solutions Cura for Compliance Management,77,MEDIUM
+AllNetic Working Time Tracker,77,MEDIUM
+iSystems Evolution Payroll and Tax Management,77,MEDIUM
+Open Dynamics Collabtive,77,MEDIUM
+Kidasa Milestones Professional,77,MEDIUM
+KommandCore,77,MEDIUM
+ILOG OPL-CPLEX Development System,77,MEDIUM
+Student and Exchange Visitor Information System SEVIS,77,MEDIUM
+ElectricCloud ElectricCommander,77,MEDIUM
+ProSolutions Software Transcend,77,MEDIUM
+Mixed integer optimizer MINTO,77,MEDIUM
+Industrial production manager and stock control software,77,MEDIUM
+"Budgeting, forecasting, and planning software",77,MEDIUM
+Open e-LMS,77,MEDIUM
+MetricStream Compliance Management,77,MEDIUM
+Oracle Performance Management Suites,77,MEDIUM
+Logility Voyager WarehousePRO,77,MEDIUM
+Computer integrated manufacturing CIM time manager software,77,MEDIUM
+Tips Standard Securities Calculation Bond Analytics Module,77,MEDIUM
+ESRI software,77,MEDIUM
+KOffice.org Kplato,77,MEDIUM
+NeuroSolutions Trading Solutions,77,MEDIUM
+Decisioneering Crystal Ball,77,MEDIUM
+RVR Systems Compliance,77,MEDIUM
+InforSense InforSense,77,MEDIUM
+North American Regional Climate Change Assessment Program NARCCAP data tables,77,MEDIUM
+SunGard Kiodex Risk Workbench,77,MEDIUM
+Vertical Solutions Easy-Farm Accounting,77,MEDIUM
+IMPACT software,77,MEDIUM
+The Garland Group RiskKey,77,MEDIUM
+peoplefluent Recruiting,77,MEDIUM
+Intergraph GeoMedia Transportation Manager,77,MEDIUM
+ScenarioNow RetireNow,77,MEDIUM
+Wolfram Research Mathematica UnRisk Pricing Engine,77,MEDIUM
+TIBCO Spotfire,77,MEDIUM
+Financial modeling software,77,MEDIUM
+Ibbotson Analyst,77,MEDIUM
+FinEng Solutions PerfoRM,77,MEDIUM
+Guardian Analytics FraudMAP,77,MEDIUM
+Project Manager Online ProjectManager.com,77,MEDIUM
+AnthillPro,77,MEDIUM
+Patient tracking software,77,MEDIUM
+Materials requirement planning MRP software,77,MEDIUM
+WinOcular,77,MEDIUM
+EtQ FDA cGxP Compliance Software for Life Sciences,77,MEDIUM
+MICROS XBR Loss Prevention,77,MEDIUM
+Labelmaster Software REG-Trieve,77,MEDIUM
+MRA Technologies MRATrack Warehouse Management System,77,MEDIUM
+Lawson Human Resources Suite,77,MEDIUM
+UniFocus Watson Human Resources Manager,77,MEDIUM
+Pear Technology Fieldman Farmer,77,MEDIUM
+Estate Capitol Needs Analysis,77,MEDIUM
+Enabl-u Technologies APIS,77,MEDIUM
+AccountantsWorld Payroll Relief,77,MEDIUM
+Datawatch Monarch,77,MEDIUM
+MIKAL SMS,77,MEDIUM
+Unger Software Methusaleh,77,MEDIUM
+Agiliance Compliance Manager,77,MEDIUM
+Spreadware Pro Forma,77,MEDIUM
+Planisware,77,MEDIUM
+Fortress Medical Clindex,77,MEDIUM
+Investigation management software,77,MEDIUM
+Mutual fund analysis software,77,MEDIUM
+Elite Software Elite Salon & Spa Management,77,MEDIUM
+Smartsheet,77,MEDIUM
+National Resources Conservation Service Grazing Spatial Analysis Tool,77,MEDIUM
+Hyperion Enterprise,77,MEDIUM
+Ibbotson Portfolio Strategist,77,MEDIUM
+Integrated Decision Support Match Advice,77,MEDIUM
+Telephone records software,77,MEDIUM
+Forum One Communications ProjectSpaces,77,MEDIUM
+UDA Technologies ConstructionSuite,77,MEDIUM
+Logisuite Enterprise,77,MEDIUM
+Millennium SpaSalon,77,MEDIUM
+Dex Warehouse,77,MEDIUM
+80-20 Software Leaders4,77,MEDIUM
+Element Software Copper,77,MEDIUM
+Whitebirch Software Projected Financials,77,MEDIUM
+Procore software,77,MEDIUM
+TriZetto QNXT,77,MEDIUM
+Oracle Remote Data Capture,77,MEDIUM
+MoneySoft Corporate Valuation,77,MEDIUM
+Tesseract Human Resources Manager,77,MEDIUM
+Palantir Intelligence,77,MEDIUM
+Planview Process Builder,77,MEDIUM
+BizPricer,77,MEDIUM
+WealthTec AllocationPro,77,MEDIUM
+Unity Technologies Unity,77,MEDIUM
+Sage Active Planner,77,MEDIUM
+DoubleBridge ROSETTA Phoenix eCTD Viewer,77,MEDIUM
+Pattern recognition software,77,MEDIUM
+ProModel,77,MEDIUM
+Rogers Software Development SuperSalon,77,MEDIUM
+Stenco Technologies Farm Trends,77,MEDIUM
+Economic forecasting software,77,MEDIUM
+ABB Optimize IT Predict & Control,77,MEDIUM
+Lorenz labelBridge,77,MEDIUM
+iCIMS Talent Cloud software,77,MEDIUM
+Clockware,77,MEDIUM
+DealMaven PresLink for PowerPoint and Word,77,MEDIUM
+Savitr RecruitX,77,MEDIUM
+Medidata Rave Data Management,77,MEDIUM
+ePOS Business Solutions System 3 POS,77,MEDIUM
+DIVA-GIS,77,MEDIUM
+Compliance 360,77,MEDIUM
+Budget monitoring systems,77,MEDIUM
+IntelliTrack Warehouse Management System (WMS),77,MEDIUM
+Farm Business Software Systems Smart Feeder,77,MEDIUM
+Pereless Systems software,77,MEDIUM
+Horwath Software Magique,77,MEDIUM
+Twin Tiers Technologies CIMS,77,MEDIUM
+LeanForward LearnPoint,77,MEDIUM
+PAR Technology SpaSoft,77,MEDIUM
+Automated Geospatial Watershed Assessment AGWA,77,MEDIUM
+Avid Technology iNEWS,77,MEDIUM
+Oracle Business Intelligence Publisher,77,MEDIUM
+New World Systems Logos.NET,77,MEDIUM
+Photo enhancement software,77,MEDIUM
+Ferret,77,MEDIUM
+Cadre Technologies Cadence Warehouse Management System,77,MEDIUM
+Moss Adams Profit Mentor,77,MEDIUM
+EtQ Environmental Health and Safety Software,77,MEDIUM
+IBM i2 Transportation Manager,77,MEDIUM
+EISI NaviPlan,77,MEDIUM
+Infosite Technologies Dispatch-Mate,77,MEDIUM
+AdviceAmerica AdvisorVision,77,MEDIUM
+Adlib Express,77,MEDIUM
+DealMaven Modeling ToolPack for Excel,77,MEDIUM
+National Resources Conservation Service Ecological Site Information System ESIS,77,MEDIUM
+TatukGIS Editor,77,MEDIUM
+USDA SamplePoint,77,MEDIUM
+Innovative Business Computer Solutions Spa/Salon Manager,77,MEDIUM
+Distributed control system DCS,77,MEDIUM
+Hyperion Solutions Hyperion Intelligence,77,MEDIUM
+Argos Software ABECAS Insight,77,MEDIUM
+Sciforma,77,MEDIUM
+SunGard LockBox,77,MEDIUM
+iLinc Communications LearnLinc,77,MEDIUM
+Redtail Technology Our Business Online,77,MEDIUM
+Linspire Nvu,77,MEDIUM
+Magenta MultiMedia Tools Magenta II,77,MEDIUM
+Cornerstone OnDemand Cornerstone Learning,77,MEDIUM
+ARC Logics Sword,77,MEDIUM
+Landfill gas analysis software,77,MEDIUM
+Thomson Reuters Liquent InSight Suite,77,MEDIUM
+MICROS Systems OPERA Enterprise Solution OES,77,MEDIUM
+IBS MRP,77,MEDIUM
+Methodware ERA,77,MEDIUM
+LINDO Systems LINGO,77,MEDIUM
+Prosys Open Platform Communications unified architecture software,77,MEDIUM
+Farm Files Crops,77,MEDIUM
+Tax accounting software,77,MEDIUM
+MasterPlan,77,MEDIUM
+Microsoft Money,77,MEDIUM
+Timeline software,77,MEDIUM
+ALK Technologies PC*Miler,77,MEDIUM
+i2 Intelligence,77,MEDIUM
+peoplefluent Performance,77,MEDIUM
+Junxure CRM Software,77,MEDIUM
+Custom Software Group CSG AgroSys,77,MEDIUM
+Tenrox Project Workforce Management,77,MEDIUM
+Kookaburra Studios Knowledge Presenter,77,MEDIUM
+Risk analysis software,77,MEDIUM
+Project.net,77,MEDIUM
+"Refugee, Asylum and Parole System RAPS",77,MEDIUM
+Aptech Systems GAUSS,77,MEDIUM
+TeamDynamixHE,77,MEDIUM
+Oracle Enterprise Asset Management eAM,77,MEDIUM
+Securities analysis software,77,MEDIUM
+Axentis Compliance Management,77,MEDIUM
+SAP EHS Management,77,MEDIUM
+Analyse-it,77,MEDIUM
+StudyManager Sponsor Edition,77,MEDIUM
+MergerStat Control Premiums,77,MEDIUM
+Apple AppleWorks,77,MEDIUM
+Shipping Solutions,77,MEDIUM
+Fidelity HR/Payroll,77,MEDIUM
+Advent Axys,77,MEDIUM
+Hatchery database systems,77,MEDIUM
+QUALCOMM ViaWeb,77,MEDIUM
+Thomson ONE Advisor,77,MEDIUM
+DoubleBridge ROSETTA Sceptre,77,MEDIUM
+Radio Beacon WMS,77,MEDIUM
+Ag Leader Technology SMS Advanced,77,MEDIUM
+Genetic algorithm optimization software,77,MEDIUM
+SST Development Group Stratus,77,MEDIUM
+XML authoring software,77,MEDIUM
+CodeJam MemoriesOnTV,77,MEDIUM
+ACL Analytics,77,MEDIUM
+Net Worth Strategies Stock Opter Pro,77,MEDIUM
+Satellite image databases,77,MEDIUM
+Unicorn HRO Open4,77,MEDIUM
+LRN Ethics and Compliance Alliance,77,MEDIUM
+Oversight Insights On Demand,77,MEDIUM
+Dynamic Energy Systems MedAct,77,MEDIUM
+Clinical trial management software,77,MEDIUM
+Midrange Software XpertHire,77,MEDIUM
+SiSense Prism,77,MEDIUM
+GanttProject,77,MEDIUM
+BWise Compliance Management,77,MEDIUM
+Genetic algorithm software,77,MEDIUM
+SAFARI Video Networks eZediaQTI,77,MEDIUM
+Cadre Technologies Cadence Transportation Management System,77,MEDIUM
+AgriSoft/CMC AgriSoft/ERP,77,MEDIUM
+SAP Ariba,77,MEDIUM
+Enforcement Case Tracking System ENFORCE,77,MEDIUM
+MoneyTree Silver Financial Planner (financial analysis feature),77,MEDIUM
+SharedPlan Software SharedPlan Pro,77,MEDIUM
+Advanced Veterinary Services Ranch Vision,77,MEDIUM
+Housekeeping management software,77,MEDIUM
+General algebraic modeling system GAMS,77,MEDIUM
+QUALCOMM QTRACS,77,MEDIUM
+IBM Cognos Planning,77,MEDIUM
+Iptor Supply Chain,77,MEDIUM
+DaySmart Software Salon Iris,77,MEDIUM
+Exact Software Macola ES Labor Performance,77,MEDIUM
+BehavePlus,77,MEDIUM
+Nielsen Arianna,77,MEDIUM
+3PL Central,77,MEDIUM
+AquaSoft Farm Manager,77,MEDIUM
+S&P Capital IQ,77,MEDIUM
+Mortware Professional,77,MEDIUM
+Infor Lawson Supply Chain Management,77,MEDIUM
+Midwest MicroSystems Cow Sense,77,MEDIUM
+ProcessPro Premier,77,MEDIUM
+Simulation and modeling software,77,MEDIUM
+Scadex Technologies MAESTRO,77,MEDIUM
+Datafarm eCTDViewer,77,MEDIUM
+Automation Centre TrackerSuite.Net,77,MEDIUM
+Planbox,77,MEDIUM
+Montgomery Investment Technology QuoteTools,77,MEDIUM
+National Resources Conservation Service Web Soil Survey WSS,77,MEDIUM
+Oracle Primavera P6 Professional Project Management,77,MEDIUM
+Electronic common technical document eCTD viewing software,77,MEDIUM
+pm ase QuickBuild,77,MEDIUM
+Countersoft Gemini,77,MEDIUM
+MediRegs E-dition Compliance Monitor,77,MEDIUM
+Oracle Hyperion Financial Management,77,MEDIUM
+FRSGlobal RegPro,77,MEDIUM
+Fleet Asset Management and Optimization Solutions FAMOS PEPSE,77,MEDIUM
+Automated expense reporting system software,77,MEDIUM
+Integrated Decision Support Corporation Route Advice,77,MEDIUM
+MediaChance Multimedia Builder,77,MEDIUM
+Resolve Legislative Compliance Management,77,MEDIUM
+policyIQ,77,MEDIUM
+Text mining software,77,MEDIUM
+Lawson S3 Supply Chain Management,77,MEDIUM
+Trimble Farm Works,77,MEDIUM
+DZS Software Solutions ClinPlus,77,MEDIUM
+CA Technologies CA Clarity PPM for IT Governance,77,MEDIUM
+Automated Targeting System ATS,77,MEDIUM
+Protiviti Governance Portal,77,MEDIUM
+Viper Tools,77,MEDIUM
+Data warehouse software,77,MEDIUM
+Financeware Finance File Manager,77,MEDIUM
+Standpipe Studios Vertabase,77,MEDIUM
+The Nature Conservancy Weed Information Management System WIMS,77,MEDIUM
+Landtec System Software LFG Pro,77,MEDIUM
+AssurX Financial Services Compliance Management System,77,MEDIUM
+Montgomery Investment Technology Options XL,77,MEDIUM
+Rockwell Automation Arena,77,MEDIUM
+TECSYS EliteSeries,77,MEDIUM
+i.Agri LandMark Farm,77,MEDIUM
+Integrated Decision Support Corporation Swap Advice,77,MEDIUM
+Brihzon Solutions SMART Dairy Resource Planning,77,MEDIUM
+Scanlon Associates LogPak,77,MEDIUM
+Financial report generation software,77,MEDIUM
+Project-Open,77,MEDIUM
+MasterControl MD,77,MEDIUM
+Integrated Decision Support Corporation Netwise Supply Chain,77,MEDIUM
+Personnel scheduling software,77,MEDIUM
+Supply chain event management software,77,MEDIUM
+Red Prarie Warehouse Management,77,MEDIUM
+Blackbaud eTapestry,77,MEDIUM
+AGCO Advanced Technology Solutions Fieldstar,77,MEDIUM
+USDA NRCS Soil Data Viewer,77,MEDIUM
+Floydware Rosy,77,MEDIUM
+Issue tracking system software,77,MEDIUM
+Profitool software (human resources feature),77,MEDIUM
+ArenaSoft Estimating,77,MEDIUM
+Grid analysis and display system GrADS,77,MEDIUM
+IFS Applications for Supply Chain Management,77,MEDIUM
+"Governance, risk, and compliance GRC software",77,MEDIUM
+zkipster,77,MEDIUM
+InnQuest Software roomMaster,77,MEDIUM
+Canonical Launchpad,77,MEDIUM
+TapLogic FarmLogic,77,MEDIUM
+ComplianceBridge Total Compliance,77,MEDIUM
+Wolfram Research Mathematica Finance Essentials,77,MEDIUM
+Stanford Business Software MINOS,77,MEDIUM
+iGrafx,77,MEDIUM
+Digital Crew Teamwork Project Manager,77,MEDIUM
+Intland Software codeBeamer,77,MEDIUM
+Execu/Tech Systems HOTEL Premium,77,MEDIUM
+eXe,77,MEDIUM
+MoneyTree Silver Financial Planner (presentation feature),77,MEDIUM
+Nuvosoft Rwiz,77,MEDIUM
+MasterControl TotalPharma,77,MEDIUM
+NeuroSolutions for MatLab,77,MEDIUM
+Portfolio analysis software,77,MEDIUM
+SAP APO,77,MEDIUM
+Thomson Reuters CLEAR,77,MEDIUM
+Rogue Wave Software IMSL Numerical Libraries,77,MEDIUM
+MindGenius,77,MEDIUM
+O3spaces Workplace,77,MEDIUM
+MetricStream Enterprise Compliance Platform,77,MEDIUM
+INN-Client Server Systems ICSS Atrium,77,MEDIUM
+Halogen e360,77,MEDIUM
+Telephone analysis software,77,MEDIUM
+GlobalSubmit REVIEW,77,MEDIUM
+Stanford Business Software SNOPT,77,MEDIUM
+TickQuest NeoTicker,77,MEDIUM
+Madrigal Soft Tools Delegator,77,MEDIUM
+OpenMake Software Meister,77,MEDIUM
+Sugar CRM,77,MEDIUM
+Take Solutions PharmaReady Document Management System,77,MEDIUM
+Epicor SRM,77,MEDIUM
+DataViz Beyond Contacts,77,MEDIUM
+ProjectLibre,77,MEDIUM
+JDA Master Planning,77,MEDIUM
+System for Electronic Rate and Form Filing SERFF,77,MEDIUM
+KIKA Veracity,77,MEDIUM
+WBS Goplan,77,MEDIUM
+intelligenz Solutions intelliSpa,77,MEDIUM
+Red Wing Software CenterPoint Accounting for Agriculture,77,MEDIUM
+NCAR Command Language NCL,77,MEDIUM
+Saba Centra,77,MEDIUM
+NetSuite NetERP,77,MEDIUM
+Oracle Primavera P6 Enterprise Portfolio Project Management,77,MEDIUM
+Montgomery Investment Technology SigTools,77,MEDIUM
+TechHackers MBS @nalyst,77,MEDIUM
+EpicCare Ambulatory Electronic Medical Records (EMR) software,77,MEDIUM
+Flying PopCorn,77,MEDIUM
+Airline global distribution systems GDS software,77,MEDIUM
+Bizlink Salon Manager,77,MEDIUM
+Gensuite,77,MEDIUM
+ProducePak Mobile Farm Management,77,MEDIUM
+Spreadware Business Financial Analysis,77,MEDIUM
+Image Solutions eCTDXpress,77,MEDIUM
+Defense Travel System,77,MEDIUM
+BrightWork pmPoint,77,MEDIUM
+Materials resource planning MRP software,77,MEDIUM
+Collaborative application lifecycle management ALM software,77,MEDIUM
+PercipEnz Technologies OnCore-Clinical Research Management OnCore-CRM,77,MEDIUM
+IBM ILOG LogicNet Plus XE,77,MEDIUM
+Palbridge Ubidesk,77,MEDIUM
+SyMetric Sciences SyMetric,77,MEDIUM
+Guideline Risk Technologies RUBI,77,MEDIUM
+Financial planning presentation software,77,MEDIUM
+FEAT/Firemon integrated FFI,77,MEDIUM
+ADP HR/Profile,77,MEDIUM
+TechHackers IRO @nalyst,77,MEDIUM
+Vertafore ImageRight,77,MEDIUM
+Redmine,77,MEDIUM
+Xplanner,77,MEDIUM
+World Software Corporation Worldox,77,MEDIUM
+Cattlesoft CattleMax,77,MEDIUM
+Ag Connections Land.db,77,MEDIUM
+Sword Achiever Compliance Portal Dashboard,77,MEDIUM
+Oracle Inventory,77,MEDIUM
+QUMAS quality management solution software,77,MEDIUM
+MinuteMan Systems MinuteMan Project Management Software,77,MEDIUM
+Compliance11 Supervisory Suite,77,MEDIUM
+5AM Glassbox Translational Research,77,MEDIUM
+Projecturf,77,MEDIUM
+web2project,77,MEDIUM
+Revelwood,77,MEDIUM
+A mathematical programming language AMPL,77,MEDIUM
+Brentmark Stock Option Risk Analyzer,77,MEDIUM
+Business intelligence software,77,MEDIUM
+Sanders Software Consulting FarmBooks,77,MEDIUM
+ABOL Manifest Systems,77,MEDIUM
+Getting Things Done GTD software,77,MEDIUM
+Bottomline Technologies Bottomline Sprinter Purchasing Manager,77,MEDIUM
+Learn.com LearnCenter Talent Management Suite,77,MEDIUM
+KELTEC Systems HerdMaster,77,MEDIUM
+MapShots EASi Suite,77,MEDIUM
+IBM Cognos ReportNet,77,MEDIUM
+OpenMake Software Mojo,77,MEDIUM
+ASI Client Acquisition Solution,77,MEDIUM
+Profitool software (time accounting feature),77,MEDIUM
+CDC Supply Chain,77,MEDIUM
+Electronic common technical document eCTD validating software,77,MEDIUM
+HighJump Warehouse Advantage,77,MEDIUM
+ProTracker Advantage,77,MEDIUM
+AgileView Software SmartView,77,MEDIUM
+ComplianceMAX,77,MEDIUM
+NILS INSource,77,MEDIUM
+GE Energy GateCycle,77,MEDIUM
+Retirement planning software,77,MEDIUM
+PIE Technologies MoneyGuidePro,77,MEDIUM
+Zoho Projects,77,MEDIUM
+ALK Technologies FleetSuite,77,MEDIUM
+Thomson Reuters Liquent CoreDossier Submission Accelerator for eCTD,77,MEDIUM
+Actuate Eclipse BIRT,77,MEDIUM
+IMPACT Wealth Distribution Analysis,77,MEDIUM
+Derivatives Imagine Trading System,77,MEDIUM
+ReadSoft,77,MEDIUM
+dailyVest Investment Personalization Platform,77,MEDIUM
+Financeware WealthSimulator,77,MEDIUM
+Automation Centre Personnel Tracker,77,MEDIUM
+OfficeWork Software TurboProject,77,MEDIUM
+DealMaven M&A Accretion/Dilution One-Pager,77,MEDIUM
+AgTerra Technologies AgTrac,77,MEDIUM
+Sentai Pinpoint,77,MEDIUM
+Axway eSubmissions,77,MEDIUM
+ACT! ACT4Advisors,77,MEDIUM
+IBM i2 Analyst's Notebook,77,MEDIUM
+Finance Logix Insurance Planner,77,MEDIUM
+Sunrise Software CropSave,77,MEDIUM
+Fidessa Compliance Manager,77,MEDIUM
+WhizLabs,77,MEDIUM
+Central Desktop,77,MEDIUM
+CBS ProLog Manager,77,MEDIUM
+Investigo,77,MEDIUM
+Fire Spread Probability FSPro,77,MEDIUM
+Infosite Technologies DM Warehousing,77,MEDIUM
+Paychex payroll software,77,MEDIUM
+Stylite eGroupWare,77,MEDIUM
+Vitria M3O Operational Intelligence,77,MEDIUM
+DoubleBridge ROSETTA Pyramid,77,MEDIUM
+FARSITE,77,MEDIUM
+Lorenz eValidator,77,MEDIUM
+OptionVue Options Analysis,77,MEDIUM
+"Oracle Enterprise Governance, Risk, and Compliance Manager",77,MEDIUM
+Cadsoft Design/Build,77,MEDIUM
+WebEx WebOffice,77,MEDIUM
+MapInfo,77,MEDIUM
+Logisuite Forwarder,77,MEDIUM
+MetricStream Regulatory Reporting,77,MEDIUM
+Staff scheduling software,77,MEDIUM
+Innova Financial Solutions Derivatives Expert,77,MEDIUM
+funeralOne Life Tributes,77,MEDIUM
+WorkTech MAXIMO,77,MEDIUM
+Informatica Data Explorer,77,MEDIUM
+Elite Software Elite Salon & Spa Payroll,77,MEDIUM
+Edgewell Trac,77,MEDIUM
+Computer integrated manufacturing CIM warehouse shipping manager software,77,MEDIUM
+Code hosting software,77,MEDIUM
+Feng Office Collaboration Platform,77,MEDIUM
+FlamMap,77,MEDIUM
+Syntec Systems Insight,77,MEDIUM
+ESRI ArcExplorer,77,MEDIUM
+Unidata Network common data form NetCDF,77,MEDIUM
+Cygnus IncomeMax,77,MEDIUM
+Drone image capturing software,77,MEDIUM
+Standard Installation and Division Personnel Reporting System SIDPERS,77,MEDIUM
+Dialog DialogLink,77,MEDIUM
+MyComplianceOffice Compliance Operations Management System,77,MEDIUM
+ValuSource BIZCOMPS,77,MEDIUM
+Marel production system MPS,77,MEDIUM
+Stromberg Enterprise,77,MEDIUM
+Electronic data capture EDC software,77,MEDIUM
+Quantum Software Solutions Quantum Project Manager,77,MEDIUM
+Investment tracking software,77,MEDIUM
+Bechtel Software SETROUTE,77,MEDIUM
+SmartBear Software Automated Build Studio,77,MEDIUM
+Fleetware software,77,MEDIUM
+Paylocity Web Pay,77,MEDIUM
+Anand Systems ASI FrontDesk,77,MEDIUM
+dotProject,77,MEDIUM
+CattleWorks,77,MEDIUM
+SpaGuru,77,MEDIUM
+Silverbyte Systems Optima Property Management System PMS,77,MEDIUM
+Link analysis software,77,MEDIUM
+Infostat RIMBase,77,MEDIUM
+Geometrix,77,MEDIUM
+Longview Solutions Khalix,77,MEDIUM
+Express Business Valuations,77,MEDIUM
+24SevenOffice Project,77,MEDIUM
+Treasury Enforcement Communications System TECS,77,MEDIUM
+Fog Creek Software FogBugz,77,MEDIUM
+Montgomery Investment Technology FinTools,77,MEDIUM
+Experience in Software Project KickStart,77,MEDIUM
+Fleet management software,77,MEDIUM
+Extensity MPC,77,MEDIUM
+Datatech The Farmer's Office,77,MEDIUM
+Merge Healthcare eTrials,77,MEDIUM
+Summary Systems Fleet Commander,77,MEDIUM
+Stratitec TimeIPS,77,MEDIUM
+Extedo eCTDmanager Suite,77,MEDIUM
+RSAC Riparian Mapping Tool,77,MEDIUM
+DSA Foxware Warehouse Management,77,MEDIUM
+IBM Unica Enterprise,77,MEDIUM
+Online analytical processing OLAP software,77,MEDIUM
+Apple iDVD,77,MEDIUM
+SAP SCM,77,MEDIUM
+AssurX CATSWeb,77,MEDIUM
+MedXView eCTDauditor,77,MEDIUM
+Schneider Electric CitectSCADA,77,MEDIUM
+Torrid Retirement Planner,77,MEDIUM
+Oracle Clinical,77,MEDIUM
+OpenClinica,77,MEDIUM
+AtTask,77,MEDIUM
+SyberWorks Training Center,77,MEDIUM
+Milano Spa,77,MEDIUM
+Clarizen,77,MEDIUM
+Time and payroll management software,77,MEDIUM
+Transtek Compass ERP,77,MEDIUM
+ScanSoft PaperPort Pro,77,MEDIUM
+Montgomery Investment Technology Exotics XL,77,MEDIUM
+Samarind RMS,77,MEDIUM
+TOPAZ Enterprise Software Suite,77,MEDIUM
+Montgomery Investment Technology Risk XL,77,MEDIUM
+Lilly Software Associates VISUAL Enterprise,77,MEDIUM
+IBM Lotus Approach,77,MEDIUM
+Actimize Brokerage Compliance Solutions,77,MEDIUM
+Jobber Computer Plus,77,MEDIUM
+GraceSoft Easy InnKeeping Suite,77,MEDIUM
+FRx Software Microsoft Forecaster,77,MEDIUM
+Longview Performance Management Platform,77,MEDIUM
+Freight Rail Crew Optimization Scheduling FRCOS software,77,MEDIUM
+Intellisys Project Desktop,77,MEDIUM
+Electronic document management system EDMS,77,MEDIUM
+Image Solutions ISIPublisher,77,MEDIUM
+Asset allocation software,77,MEDIUM
+Halogen ePraisal,77,MEDIUM
+NovaMind Merlin Project Manager,77,MEDIUM
+Ward Systems Group GeneHunter,77,MEDIUM
+Soft Trac Microix Timesheet,77,MEDIUM
+UPS WorldShip,77,MEDIUM
+University of Arizona RangeView,77,MEDIUM
+Adexa Supply Chain Planning,77,MEDIUM
+ZedX AgFleet,77,MEDIUM
+Neill Technologies SpaBiz,77,MEDIUM
+SSA Global Warehouse Management System WMS,77,MEDIUM
+UniResMan,77,MEDIUM
+Endeavour Agile ALM,77,MEDIUM
+Trendsetter Software ProAnalyst,77,MEDIUM
+Actano Rplan,77,MEDIUM
+ESSA Technologies Path Landscape Model,77,MEDIUM
+Tetrahex Fractal Finance,77,MEDIUM
+RiskMetrics Group WealthBench,77,MEDIUM
+Aldata Warehouse Management,77,MEDIUM
+Salesforce Marketing Cloud,77,MEDIUM
+Wrike,77,MEDIUM
+HighJump Software Supply Chain Advantage,77,MEDIUM
+Business Forecast Systems Forecast Pro,77,MEDIUM
+i2 Collaborative Supply Execution,77,MEDIUM
+IBM Software Configuration and Library Manager SCLM,77,MEDIUM
+Desktop Technologies NewsBoss,77,MEDIUM
+Bowen & Groves M1 ERP,77,MEDIUM
+LiquidPlanner,77,MEDIUM
+ISS Construction Manager,77,MEDIUM
+VirtualBoss,77,MEDIUM
+Telelogic System Architect,77,MEDIUM
+Jantek Electronics Jupiter Time & Attendance,77,MEDIUM
+Oracle Insurance Compliance Tracker,77,MEDIUM
+Valiant Vantage,77,MEDIUM
+HMIS Advantage,77,MEDIUM
+Global Mapper Software Global Mapper,77,MEDIUM
+IntelliTrack 3PL,77,MEDIUM
+Inception Technologies InfiniTime,77,MEDIUM
+TaskJuggler,77,MEDIUM
+Resource planning software,77,MEDIUM
+Alua Software Paddock Pro,77,MEDIUM
+Deltek Vision,77,MEDIUM
+Oracle Essbase,77,MEDIUM
+Education planning software,77,MEDIUM
+Financial transaction analysis software,77,MEDIUM
+Project portfolio management PPM software,77,MEDIUM
+HunterStone THESIS,77,MEDIUM
+Everest Software Advanced,77,MEDIUM
+Ascensio Systems TeamLab,77,MEDIUM
+Biometric Storage System BSS,77,MEDIUM
+Virtify eCTD,77,MEDIUM
+Archer Compliance Management,77,MEDIUM
+Corel Paradox,77,MEDIUM
+Statistics databases,77,MEDIUM
+Satori Group proCube,77,MEDIUM
+The Omni Group OmniPlan,77,MEDIUM
+DealMaven Comparable Company Valuation Analysis,77,MEDIUM
+HyperOffice Collaboration Suite,77,MEDIUM
+Arrival Departure Information System ADIS,77,MEDIUM
+GlobalSubmit VALIDATE,77,MEDIUM
+HighJump Software Warehouse Advantage,77,MEDIUM
+Thomson Reuters Westlaw Edge,77,MEDIUM
+Agilent ChemStation,77,MEDIUM
+Logic Software Easy Projects.NET,77,MEDIUM
+Datafarm a-Pulse,77,MEDIUM
+Personnel management software,77,MEDIUM
+Hewlett Packard HP Project Portfolio Management Solution,77,MEDIUM
+Computer Linked Application Information Management System CLAIMS,77,MEDIUM
+Palisade Bond @nalyst,77,MEDIUM
+Explorer Engineer,77,MEDIUM
+Pimlico Software DateBk,77,MEDIUM
+ADP ezLaborManager,77,MEDIUM
+Morningstar Principia,77,MEDIUM
+Total Officer Personnel Management Information System TOPMIS,77,MEDIUM
+ePharmaSolutions eMVR,77,MEDIUM
+Web Information Solutions Pocket Informant,77,MEDIUM
+PurchasingNet eProcurement,77,MEDIUM
+Data Management TimeClock Plus,77,MEDIUM
+SunGard PlanningStation,77,MEDIUM
+Statistical analysis software,77,MEDIUM
+TCS Hotel Software Guest Tracker,77,MEDIUM
+Envision Salon,77,MEDIUM
+JetBrains Team City,77,MEDIUM
+Fuel Characteristic Classification System FCCS,77,MEDIUM
+Credit management software,77,MEDIUM
+Oracle e-Business Suite Supply Chain Management,77,MEDIUM
+Assembla,77,MEDIUM
+TechHackers Swap @nalyst,77,MEDIUM
+WealthTec Foundations,77,MEDIUM
+InLoox,77,MEDIUM
+Autodesk AutoCAD Blue Sky,77,MEDIUM
+ESRI ArcLogistics,77,MEDIUM
+Learn.com CourseMaker Studio,77,MEDIUM
+Montgomery Investment Technology Bonds XL,77,MEDIUM
+The Associated Press ENPS,77,MEDIUM
+Mesquite Software CSIM,77,MEDIUM
+RCS NexGen Digital,77,MEDIUM
+Integrated Decision Support Netwise Frontline,77,MEDIUM
+TECSYS PointForce Enterprise,77,MEDIUM
+Geographic resources analysis support system GRASS,77,MEDIUM
+Plant management software,77,MEDIUM
+CSR Consultants Cemetery Management SC,77,MEDIUM
+Fractal pattern analysis software,77,MEDIUM
+AASoftTech Web Organization Chart,77,MEDIUM
+Manhattan Supply Chain Process Platform,77,MEDIUM
+Deacom ERP,77,MEDIUM
+ThoughtWorks Studio Mingle,77,MEDIUM
+Adaptive Planning,77,MEDIUM
+Needs analysis software,77,MEDIUM
+General Examination System GENESYS,77,MEDIUM
+Booker Software SpaBooker,77,MEDIUM
+Community Climate System Model CCSM,77,MEDIUM
+Moody's KMV FAMAS,77,MEDIUM
+Host Analytics Host Budget,77,MEDIUM
+Total quality management TQM software,77,MEDIUM
+Harpers Payroll Services HR la Carte,77,MEDIUM
+Oracle PeopleSoft Enterprise Financial Management Solutions,77,MEDIUM
+Purchasing software,77,MEDIUM
+Continuous integration software,77,MEDIUM
+Palisade Evolver,77,MEDIUM
+Impact PlanLabX3,77,MEDIUM
+Apache Continuum,77,MEDIUM
+Document publishing software,77,MEDIUM
+Eaton Fleet Advisor,77,MEDIUM
+Microsoft Great Plains Personal Data Keeper,77,MEDIUM
+WorkSchedule.net,77,MEDIUM
+Innovative Software Solutions Picas,77,MEDIUM
+Pilgrim Regulatory Submission,77,MEDIUM
+Swisslog WarehouseManager,77,MEDIUM
+CitectSCADA Reports,77,MEDIUM
+FPA Software MACCS,77,MEDIUM
+Aljex Inventory,77,MEDIUM
+PlanScan Portfolio Pathfinder,77,MEDIUM
+Profitool GearWatch,77,MEDIUM
+Financial Planning Consultants Practice Builder,77,MEDIUM
+Infor SSA Human Capital Management,77,MEDIUM
+Flowcharting software,77,MEDIUM
+MergerStat Price to Earnings Ratios,77,MEDIUM
+"USDA Database for Inventory, Monitoring and Assessment (DIMA)",77,MEDIUM
+CoPilot Truck,77,MEDIUM
+Cadre Technologies Accuplus Integrated Distribution Logistics System,77,MEDIUM
+John Deere Apex Farm Management,77,MEDIUM
+Trimble AgGPS EZ-Map,77,MEDIUM
+Resource management software,77,MEDIUM
+Oracle Hyperion Planning,77,MEDIUM
+Advanced Portfolio Technologies Simulator,77,MEDIUM
+Matheny Pattern Forecaster Plus,77,MEDIUM
+SunGard BancWare,77,MEDIUM
+BPS Compliance,77,MEDIUM
+SSA Global Infinium Financial Management,77,MEDIUM
+ClearTrial,77,MEDIUM
+ODEN Insurance Services State Rules & Regulations,77,MEDIUM
+Oracle Agile Product Lifecycle Management PLM,77,MEDIUM
+Oracle PeopleSoft Enterprise,77,MEDIUM
+Financial Profiles Profiles+ Professional,77,MEDIUM
+Delta Data Systems AGIS,77,MEDIUM
+WealthTec WealthMaster,77,MEDIUM
+Octagon ViewPoint eCTD Complete,77,MEDIUM
+Agevo Farm Manager,77,MEDIUM
+J&L Financial Planner,77,MEDIUM
+SAP Crystal Xcelsius,77,MEDIUM
+Ward Systems Group NeuralShell Predictor,77,MEDIUM
+Advisory World ICE,77,MEDIUM
+Ward Systems Group NeuroShell Trader,77,MEDIUM
+Oracle E-Business Suite Logistics,77,MEDIUM
+Ninian Huddle,77,MEDIUM
+Shortcuts Software Shortcuts Spa,77,MEDIUM
+Argos Software ABECAS Insight FMS,77,MEDIUM
+Information Builders WebFOCUS,77,MEDIUM
+Unawave,77,MEDIUM
+ManageMySpa,77,MEDIUM
+Bentley Transportation Data Manager,77,MEDIUM
+Wolfram Research Derivatives,77,MEDIUM
+iRez Systems Rezware XP7,77,MEDIUM
+Extedo DOCvalidator,77,MEDIUM
+I-flex Solutions Reveleus Investment Performance Measurement,77,MEDIUM
+MINDBODY business management software,77,MEDIUM
+Drug coding software,77,MEDIUM
+Integrated Decision Support Corporation Expert Fuel,77,MEDIUM
+Portfolio management software,77,MEDIUM
+Dazzlersoft DazzlerMax,77,MEDIUM
+Rapid Intake Unison,77,MEDIUM
+TechHackers Exotic @nalyst,77,MEDIUM
+Datafarm eCTDGatekeeper,77,MEDIUM
+Neohapsis Certus GRC,77,MEDIUM
+Montgomery Investment Technology Utility XL,77,MEDIUM
+Panorama NovaView,77,MEDIUM
+Moody's RiskCalc,77,MEDIUM
+Annuities analysis software,77,MEDIUM
+User interface design software,77,MEDIUM
+Blackbaud The Education Edge,77,MEDIUM
+ApplicantPro iApplicants,77,MEDIUM
+Specialized Data Systems School Office,77,MEDIUM
+Geogebra,77,MEDIUM
+Oracle PeopleSoft Enterprise Employee Self-Service,77,MEDIUM
+The University of Tennessee FORDISC,77,MEDIUM
+Kronos Workforce HR,77,MEDIUM
+Google Calendar,77,MEDIUM
+Mangold Soundalyzer,77,MEDIUM
+Blackboard Learning System,77,MEDIUM
+Arbita OnePost,77,MEDIUM
+Arbita OneWorld,77,MEDIUM
+Bloomz,77,MEDIUM
+Desmos,77,MEDIUM
+Seeing Machines faceLAB,77,MEDIUM
+Adobe LifeCycle Enterprise Suite,77,MEDIUM
+Triangle Research Collaborative Observational Coding System OCS Tools,77,MEDIUM
+Job posting software,77,MEDIUM
+Prezi,77,MEDIUM
+GE Healthcare ImageQuant TL,77,MEDIUM
+Oracle PeopleSoft Enterprise Human Resources,77,MEDIUM
+StaffingSoft Staffing Edition,77,MEDIUM
+Attendance tracking software,77,MEDIUM
+Bond International Software Bond StaffSuite,77,MEDIUM
+School Attendance Keeper,77,MEDIUM
+RecruitTrack,77,MEDIUM
+Mangold LogSquare,77,MEDIUM
+Halogen eLMS,77,MEDIUM
+Digitizing software,77,MEDIUM
+Resume extraction and search software,77,MEDIUM
+Computer Resources MMS,77,MEDIUM
+Industrial Code Recruitpoint.net,77,MEDIUM
+TechSmith Morae,77,MEDIUM
+ICIMS,77,MEDIUM
+Post Once,77,MEDIUM
+Seasia Consulting School Wizard,77,MEDIUM
+Interwoven software,77,MEDIUM
+RecordKeeper Software School RecordKeeper,77,MEDIUM
+HRM Direct,77,MEDIUM
+Noldus Information Technology The Observer XT,77,MEDIUM
+MPAY Millennium,77,MEDIUM
+Sony Creative Software Vegas Movie Studio,77,MEDIUM
+Noldus Information Technology FaceReader,77,MEDIUM
+Candidate screening software,77,MEDIUM
+Applied Biosystems GeneMapper,77,MEDIUM
+Voice activated software,77,MEDIUM
+Age progression software,77,MEDIUM
+L-Systems X-ONE,77,MEDIUM
+Data Frenzy,77,MEDIUM
+Automated National Catalog System ANCS,77,MEDIUM
+CVTracer,77,MEDIUM
+Ovo Studios Ovo Logger,77,MEDIUM
+Silk Road technology OpenHire,77,MEDIUM
+Bullhorn Applicant Tracking System,77,MEDIUM
+Mangold INTERACT,77,MEDIUM
+Micro J Systems PcHunter,77,MEDIUM
+GoBackgrounds,77,MEDIUM
+Bit Debris Solutions Usability Activity Log,77,MEDIUM
+Careerbuilder.com,77,MEDIUM
+HireAbility ResumeParser,77,MEDIUM
+PostingPal,77,MEDIUM
+Gene Codes Sequencher,77,MEDIUM
+DGCC.com RecruitTrack,77,MEDIUM
+Adobe Human Capital Application Solution Accelerator,77,MEDIUM
+Technomedia Hodes iQ,77,MEDIUM
+Pearson PowerSchool,77,MEDIUM
+Blackdog,77,MEDIUM
+Intelius,77,MEDIUM
+Talent Technology HireDesk,77,MEDIUM
+ResumeRobot,77,MEDIUM
+ESRI ArcView 3D Analyst,77,MEDIUM
+Vendor management system software,77,MEDIUM
+Microsoft Windows Movie Maker,77,MEDIUM
+Sendouts Recruiting,77,MEDIUM
+HireLogic PowerPlace,77,MEDIUM
+Staffing Solutions Enterprises Staff Matrix,77,MEDIUM
+Qaulis Research The Ethonograph,77,MEDIUM
+Cluen executive recruitment software,77,MEDIUM
+Noldus Information Technology uLog Pro,77,MEDIUM
+eQuest,77,MEDIUM
+PowerPlace Professional,77,MEDIUM
+Bond International Adapt Staffing,77,MEDIUM
+Recruitment management software,77,MEDIUM
+COATSsql,77,MEDIUM
+SYSTAT,77,MEDIUM
+Resume converter software,77,MEDIUM
+Safari Software Products Safari,77,MEDIUM
+Wilcomp Software RenWeb,77,MEDIUM
+Assessment software,77,MEDIUM
+Qarbon ViewletBuilder Professional,77,MEDIUM
+Oracle PeopleSoft Human Capital Management,77,MEDIUM
+SchoolDESX,77,MEDIUM
+Talent Technology Talemetry,77,MEDIUM
+eDistrict Internet Solutions eDistrict Unified,77,MEDIUM
+TalentHook,77,MEDIUM
+TempWorks recruiting and staffing software,77,MEDIUM
+SunGard Public Sector IFAS,77,MEDIUM
+Microsoft NetMeeting,77,MEDIUM
+Talent Technology Resume Mirror,77,MEDIUM
+Archeological Sites Management Information System ASMIS,77,MEDIUM
+Recruitpoint.net,77,MEDIUM
+Rethink Ed,77,MEDIUM
+BrightMove Applicant Tracking System,77,MEDIUM
+Ellucian Banner Human Resources,77,MEDIUM
+Workscape HR Service Center,77,MEDIUM
+Candidate tracking software,77,MEDIUM
+ACS Technologies HeadMaster,77,MEDIUM
+Oracle Self-Service Human Resources,77,MEDIUM
+Robust Software Overseer Suite,77,MEDIUM
+Skyward School Management System,77,MEDIUM
+Background checking software,77,MEDIUM
+Intelligent Algorithms InfoGIST Platinum Recruiter,77,MEDIUM
+AST Staff Matrix,77,MEDIUM
+LogicalBit Eimas,77,MEDIUM
+Data Translation quickDAQ,77,MEDIUM
+Main Sequence Technologies PCRecruiter Resume Inhaler,77,MEDIUM
+Rediker Software School Office Suite,77,MEDIUM
+Recruit Wizard,77,MEDIUM
+BlackDog Recruiting,77,MEDIUM
+Resource Edge TalentHook Sphere,77,MEDIUM
+Thinc Technologies Virtual School,77,MEDIUM
+Cluen Encore,77,MEDIUM
+Golden Software Surfer,77,MEDIUM
+Effexoft EASI,77,MEDIUM
+VCG Pointwing,77,MEDIUM
+Thought Technology BioGraph Infiniti,77,MEDIUM
+Image enhancement software,77,MEDIUM
+SIL International The Linguist's Shoebox,77,MEDIUM
+Main Sequence Technologies PCRecruiter,77,MEDIUM
+Adobe Authorware,77,MEDIUM
+Genealogy software,77,MEDIUM
+Resume processing software,77,MEDIUM
+AEMC DataView,77,MEDIUM
+Kahoot!,77,MEDIUM
+Zmanda Amanda,72,MEDIUM
+Project scheduling software,72,MEDIUM
+Web design software,72,MEDIUM
+LaborSoft LaborForce Incident Tracking module,72,MEDIUM
+LaborSoft LaborForce Reporting/Dashboard Manager module,72,MEDIUM
+LaborSoft LaborForce EEO Claims Manager module,72,MEDIUM
+Cision CisionPoint,72,MEDIUM
+Avaya Identity Engines,72,MEDIUM
+LaborSoft LaborForce Arbitration/Appeals Manager module,72,MEDIUM
+Adobe Acrobat Writer,72,MEDIUM
+SiteMaster SiteSmart,72,MEDIUM
+Computer aided dispatch software,72,MEDIUM
+Workforce management system software,72,MEDIUM
+Internet Grievance System IGS,72,MEDIUM
+Spillman Technologies Spillman Computer-Aided Dispatch,72,MEDIUM
+Mapcom systems M4,72,MEDIUM
+Fluke Networks TechAdvisor Field Access System,72,MEDIUM
+911 system information databases,72,MEDIUM
+Website management software,72,MEDIUM
+Ping tools,72,MEDIUM
+Requirements analysis software,72,MEDIUM
+Podcasting software,72,MEDIUM
+2AB iLock Security Services,72,MEDIUM
+Fluke ClearSight Analyzer,72,MEDIUM
+Micropact entellitrak Labor Relations Edition,72,MEDIUM
+LaborSoft LaborForce Discipline Manager module,72,MEDIUM
+Video production software,72,MEDIUM
+WideOrbit,72,MEDIUM
+LaborSoft LaborForce Personnel Manager module,72,MEDIUM
+LaborSoft LaborForce Grievance Manager module,72,MEDIUM
+National Law Enforcement Telecommunications System NLETS,72,MEDIUM
+IBM Rational Requirements Composer,72,MEDIUM
+Call accounting software,72,MEDIUM
+Fluke Networks Fluke TechEXPERT,72,MEDIUM
+Blogging software,72,MEDIUM

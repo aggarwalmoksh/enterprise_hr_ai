@@ -1,0 +1,27 @@
+{
+  "numeric_cols": [
+    "MonthlySalary",
+    "OvertimeHoursPerMonth",
+    "LeavesTaken",
+    "ProjectsHandled",
+    "TrainingHours",
+    "CustomerSatisfaction",
+    "YearsAtCompany",
+    "WorkLifeBalanceScore",
+    "Age",
+    "Income_per_year",
+    "Gap_since_promotion",
+    "Satisfaction_score",
+    "Experience_ratio"
+  ],
+  "categorical_cols": [
+    "Gender",
+    "Department",
+    "JobRole",
+    "Country",
+    "LeaveDayName",
+    "EducationLevel",
+    "LastPromotionYear"
+  ],
+  "target": "AttritionRisk"
+}
