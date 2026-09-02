@@ -1,501 +1,502 @@
-Gender,Age,Department,JobRole,EducationLevel,Country,MonthlySalary,OvertimeHoursPerMonth,LeavesTaken,LeaveDayName,ProjectsHandled,TrainingHours,CustomerSatisfaction,LastPromotionYear,YearsAtCompany,WorkLifeBalanceScore,CustomerSatisfaction_missing,MonthlySalary_outlier,OvertimeHoursPerMonth_outlier,ProjectsHandled_outlier,TrainingHours_outlier,Income_per_year,Gap_since_promotion,Satisfaction_score,Experience_ratio
-Other,57,Finance,Auditor,2,India,93531,33,9,Wednesday,13,16,,2020,9,1.9,True,False,False,False,False,10278.131868131868,6,0.95,0.15789473684210525
-Female,26,Sales,Sales Executive,2,Canada,53706,24,1,Friday,15,44,8.0,2014,11,5.03,False,False,False,False,False,4838.378378378378,12,6.515000000000001,0.4230769230769231
-Other,59,Support,Helpdesk,1,Canada,105756,20,7,Wednesday,7,62,7.0,2012,15,4.83,False,False,False,False,False,7003.7086092715235,14,5.915,0.2542372881355932
-Female,43,HR,HR Executive,3,Germany,176377,22,6,Monday,15,8,,2016,10,4.6,True,False,False,False,False,17463.069306930694,10,2.3,0.23255813953488372
-Male,52,Sales,Account Manager,3,Germany,154782,18,16,Tuesday,10,57,8.0,2022,6,3.73,False,False,False,False,False,25374.09836065574,4,5.865,0.11538461538461539
-Other,33,Support,Helpdesk,2,Canada,58647,34,5,Tuesday,6,5,6.0,2020,7,2.37,False,False,False,False,False,8260.140845070422,6,4.1850000000000005,0.21212121212121213
-Male,55,IT,Engineer,2,France,70273,1,20,Saturday,8,66,,2024,7,6.47,True,False,False,False,False,9897.605633802817,2,3.235,0.12727272727272726
-Female,51,HR,HR Executive,5,Germany,178909,33,22,Saturday,3,78,,2019,9,-0.27,True,False,False,False,False,19660.329670329673,7,-0.135,0.17647058823529413
-Male,32,HR,HR Executive,2,USA,51014,40,11,Saturday,6,10,,2023,15,0.17,True,False,False,False,False,3378.41059602649,3,0.085,0.46875
-Female,54,Finance,Accountant,3,Canada,63726,21,19,Friday,1,25,,2024,14,2.63,True,False,False,False,False,4519.574468085107,2,1.315,0.25925925925925924
-Other,52,HR,HR Executive,4,USA,64215,2,13,Tuesday,6,21,,2021,10,7.43,True,False,False,False,False,6357.920792079208,5,3.715,0.19230769230769232
-Male,55,Support,Helpdesk,5,India,76960,14,2,Friday,11,56,6.0,2017,14,6.87,False,False,False,False,False,5458.156028368794,9,6.4350000000000005,0.2545454545454545
-Male,47,Finance,Accountant,3,USA,151391,8,20,Wednesday,12,7,,2022,5,5.07,True,False,False,False,False,29684.50980392157,4,2.535,0.10638297872340426
-Female,50,HR,HR Manager,1,Canada,170862,7,1,Saturday,8,60,,2022,13,8.43,True,False,False,False,False,13042.900763358779,4,4.215,0.26
-Male,26,IT,Developer,3,Canada,161974,6,3,Friday,15,76,,2024,7,8.3,True,False,False,False,False,22813.23943661972,2,4.15,0.2692307692307692
-Female,43,Marketing,SEO Analyst,3,UK,164012,1,19,Tuesday,10,10,,2020,5,6.63,True,False,False,False,False,32159.21568627451,6,3.315,0.11627906976744186
-Other,41,Support,Support Engineer,3,USA,70403,10,14,Thursday,6,42,9.0,2019,11,5.67,False,False,False,False,False,6342.612612612613,7,7.335,0.2682926829268293
-Female,39,IT,Tester,4,USA,173689,21,11,Sunday,3,76,,2020,15,3.97,True,False,False,False,False,11502.582781456955,6,1.985,0.38461538461538464
-Male,47,Support,Helpdesk,2,India,122403,9,17,Sunday,4,20,9.0,2015,15,5.37,False,False,False,False,False,8106.158940397351,11,7.1850000000000005,0.3191489361702128
-Other,23,Support,Support Engineer,1,Canada,65010,2,29,Monday,11,12,8.0,2015,10,4.77,False,False,False,False,False,6436.633663366337,11,6.385,0.43478260869565216
-Female,54,Support,Support Engineer,2,India,75646,20,7,Wednesday,4,50,8.0,2024,2,4.83,False,False,False,False,False,36021.90476190476,2,6.415,0.037037037037037035
-Other,60,Sales,Sales Executive,1,Germany,130906,18,28,Monday,8,23,10.0,2013,14,1.73,False,False,False,False,False,9284.113475177306,13,5.865,0.23333333333333334
-Male,42,IT,Tester,5,USA,176048,19,17,Sunday,3,34,,2022,6,3.37,True,False,False,False,False,28860.327868852462,4,1.685,0.14285714285714285
-Female,57,IT,Tester,2,France,68060,31,30,Tuesday,12,15,,2023,3,-1.2,True,False,False,False,False,21954.83870967742,3,-0.6,0.05263157894736842
-Other,59,Marketing,Content Lead,4,USA,62282,35,5,Wednesday,15,63,,2021,5,2.17,True,False,False,False,False,12212.1568627451,5,1.085,0.0847457627118644
-Other,28,Marketing,SEO Analyst,4,Canada,89567,29,13,Saturday,15,65,,2024,2,2.03,True,False,False,False,False,42650.95238095238,2,1.015,0.07142857142857142
-Other,33,Sales,Sales Executive,4,UK,82449,31,19,Tuesday,9,36,1.0,2014,11,0.63,False,False,False,False,False,7427.837837837838,12,0.815,0.3333333333333333
-Female,52,Marketing,Content Lead,4,India,41883,20,11,Thursday,1,28,,2022,4,4.17,True,False,False,False,False,10215.365853658537,4,2.085,0.07692307692307693
-Male,46,Finance,Accountant,1,USA,74577,37,11,Wednesday,6,73,,2012,15,0.77,True,False,False,False,False,4938.87417218543,14,0.385,0.32608695652173914
-Male,23,Support,Support Engineer,2,UK,104549,38,30,Friday,6,80,4.0,2022,12,-2.6,False,False,False,False,False,8640.413223140496,4,0.7,0.5217391304347826
-Other,60,IT,Developer,5,UK,74638,39,4,Wednesday,7,12,,2024,4,1.53,True,False,False,False,False,18204.390243902442,2,0.765,0.06666666666666667
-Male,50,Marketing,Content Lead,5,Canada,103189,8,18,Saturday,4,44,,2023,5,5.4,True,False,False,False,False,20233.13725490196,3,2.7,0.1
-Male,43,IT,Tester,2,India,41254,9,23,Monday,13,33,,2020,12,4.37,True,False,False,False,False,3409.421487603306,6,2.185,0.27906976744186046
-Male,33,IT,Engineer,4,Germany,152027,24,2,Tuesday,11,7,,2018,8,4.87,True,False,False,False,False,18768.765432098768,8,2.435,0.24242424242424243
-Male,27,Marketing,SEO Analyst,5,Canada,109614,21,0,Monday,5,56,,2021,4,5.8,True,False,False,False,False,26735.121951219513,5,2.9,0.14814814814814814
-Male,32,Finance,Auditor,4,UK,38475,25,24,Friday,7,79,,2024,7,1.0,True,False,False,False,False,5419.014084507043,2,0.5,0.21875
-Male,43,Marketing,Content Lead,2,Canada,72671,32,16,Monday,5,80,,2023,6,0.93,True,False,False,False,False,11913.278688524591,3,0.465,0.13953488372093023
-Male,58,Finance,Accountant,4,Canada,34306,28,14,Tuesday,8,61,,2023,15,2.07,True,False,False,False,False,2271.9205298013244,3,1.035,0.25862068965517243
-Other,22,Finance,Auditor,1,UK,73324,21,30,Wednesday,10,36,,2023,14,0.8,True,False,False,False,False,5200.2836879432625,3,0.4,0.6363636363636364
-Male,39,Finance,Auditor,3,USA,163576,12,10,Friday,10,76,,2016,13,5.93,True,False,False,False,False,12486.717557251908,10,2.965,0.3333333333333333
-Male,22,Sales,Account Manager,2,USA,49953,14,0,Thursday,10,78,9.0,2019,9,7.2,False,False,False,False,False,5489.34065934066,7,8.1,0.4090909090909091
-Female,41,Marketing,Content Lead,2,Germany,108906,8,7,Thursday,7,56,,2024,6,7.23,True,False,False,False,False,17853.44262295082,2,3.615,0.14634146341463414
-Male,23,Marketing,Content Lead,5,Canada,78457,7,24,Monday,6,62,,2022,15,4.6,True,False,False,False,False,5195.827814569537,4,2.3,0.6521739130434783
-Female,55,IT,Engineer,5,Canada,37533,22,30,Wednesday,4,61,,2015,14,0.6,True,False,False,False,False,2661.9148936170213,11,0.3,0.2545454545454545
-Female,33,Finance,Accountant,5,UK,171225,23,29,Friday,8,53,,2024,7,0.57,True,False,False,False,False,24116.197183098593,2,0.285,0.21212121212121213
-Male,21,IT,Developer,3,India,101051,34,15,Sunday,7,49,,2019,9,0.7,True,False,False,False,False,11104.505494505494,7,0.35,0.42857142857142855
-Other,33,Sales,Account Manager,2,France,50654,38,30,Saturday,1,26,7.0,2018,7,-2.6,False,False,False,False,False,7134.366197183099,8,2.2,0.21212121212121213
-Other,22,Sales,Sales Executive,5,UK,71622,27,26,Monday,12,20,8.0,2023,7,0.27,False,False,False,False,False,10087.605633802817,3,4.135,0.3181818181818182
-Male,23,Support,Helpdesk,5,USA,132390,14,16,Saturday,14,45,2.0,2023,4,4.53,False,False,False,False,False,32290.243902439026,3,3.265,0.17391304347826086
-Female,54,IT,Tester,5,UK,179351,40,23,Friday,14,18,,2023,2,-1.83,True,False,False,False,False,85405.23809523809,3,-0.915,0.037037037037037035
-Female,57,Sales,Sales Executive,3,Canada,50691,27,13,Friday,10,21,3.0,2022,10,2.43,False,False,False,False,False,5018.910891089109,4,2.715,0.17543859649122806
-Other,52,Support,Support Engineer,2,Germany,163863,37,23,Monday,3,50,1.0,2016,14,-1.23,False,False,False,False,False,11621.489361702128,10,-0.11499999999999999,0.2692307692307692
-Male,36,Marketing,SEO Analyst,1,France,134280,2,3,Saturday,14,35,,2024,4,9.1,True,False,False,False,False,32751.219512195126,2,4.55,0.1111111111111111
-Female,52,Finance,Auditor,2,UK,38519,6,14,Sunday,12,64,,2024,14,6.47,True,False,False,False,False,2731.843971631206,2,3.235,0.2692307692307692
-Female,35,Finance,Accountant,2,USA,153394,34,12,Monday,12,5,,2023,4,1.2,True,False,False,False,False,37413.17073170732,3,0.6,0.11428571428571428
-Male,48,IT,Developer,1,UK,42964,1,13,Sunday,5,22,,2018,7,7.63,True,False,False,False,False,6051.267605633803,8,3.815,0.14583333333333334
-Other,30,IT,Developer,3,France,52745,16,14,Wednesday,7,41,,2023,6,4.47,True,False,False,False,False,8646.72131147541,3,2.235,0.2
-Other,34,Support,Helpdesk,5,Canada,37431,4,8,Saturday,2,60,9.0,2021,13,7.87,False,False,False,False,False,2857.328244274809,5,8.435,0.38235294117647056
-Male,22,Marketing,SEO Analyst,1,UK,124008,28,29,Wednesday,6,51,,2022,3,-0.43,True,False,False,False,False,40002.58064516129,4,-0.215,0.13636363636363635
-Male,48,HR,HR Executive,2,India,128442,18,1,Friday,10,36,,2021,8,6.23,True,False,False,False,False,15857.037037037038,5,3.115,0.16666666666666666
-Other,57,HR,HR Manager,3,USA,137226,36,1,Thursday,15,58,,2021,10,2.63,True,False,False,False,False,13586.732673267326,5,1.315,0.17543859649122806
-Female,48,IT,Tester,5,France,150377,18,19,Tuesday,8,19,,2022,5,3.23,True,False,False,False,False,29485.686274509804,4,1.615,0.10416666666666667
-Female,27,HR,HR Manager,2,Canada,161874,2,7,Monday,11,53,,2015,13,8.43,True,False,False,False,False,12356.793893129772,11,4.215,0.48148148148148145
-Female,32,Support,Helpdesk,5,UK,39558,19,19,Saturday,15,50,3.0,2022,6,3.03,False,False,False,False,False,6484.918032786885,4,3.0149999999999997,0.1875
-Male,60,Sales,Account Manager,1,France,49620,29,4,Thursday,5,76,4.0,2013,12,3.53,False,False,False,False,False,4100.826446280992,13,3.7649999999999997,0.2
-Female,34,Marketing,Content Lead,3,Canada,86861,30,0,Saturday,1,25,,2024,4,4.0,True,False,False,False,False,21185.60975609756,2,2.0,0.11764705882352941
-Female,22,Sales,Sales Executive,3,India,155851,1,30,Friday,12,44,1.0,2024,2,4.8,False,False,False,False,False,74214.76190476191,2,2.9,0.09090909090909091
-Female,21,Sales,Sales Executive,1,UK,72637,31,27,Wednesday,7,70,6.0,2021,14,-0.7,False,False,False,False,False,5151.560283687943,5,2.65,0.6666666666666666
-Female,26,Sales,Account Manager,1,UK,151643,1,1,Wednesday,5,35,1.0,2024,13,9.63,False,False,False,False,False,11575.801526717558,2,5.315,0.5
-Female,37,Finance,Accountant,3,Canada,155727,26,30,Sunday,3,46,,2020,10,-0.2,True,False,False,False,False,15418.51485148515,6,-0.1,0.2702702702702703
-Female,55,HR,HR Executive,1,Canada,71487,9,12,Tuesday,7,39,,2023,7,6.2,True,False,False,False,False,10068.591549295776,3,3.1,0.12727272727272726
-Female,23,Marketing,Content Lead,3,Canada,169631,0,9,Monday,7,23,,2012,14,8.5,True,False,False,False,False,12030.567375886525,14,4.25,0.6086956521739131
-Male,29,IT,Developer,5,India,56935,36,29,Thursday,6,50,,2024,4,-2.03,True,False,False,False,False,13886.58536585366,2,-1.015,0.13793103448275862
-Female,32,Sales,Sales Executive,3,UK,68664,21,9,Saturday,14,79,4.0,2023,2,4.3,False,False,False,False,False,32697.142857142855,3,4.15,0.0625
-Other,31,IT,Developer,2,Germany,129732,29,2,Wednesday,11,58,,2016,11,3.87,True,False,False,False,False,11687.567567567568,10,1.935,0.3548387096774194
-Female,21,HR,HR Manager,2,India,36008,11,6,Saturday,5,55,,2016,11,6.8,True,False,False,False,False,3243.963963963964,10,3.4,0.5238095238095238
-Other,25,Sales,Sales Executive,2,UK,163071,15,7,Friday,8,60,5.0,2016,12,5.83,False,False,False,False,False,13476.94214876033,10,5.415,0.48
-Other,26,Sales,Sales Executive,1,Germany,44713,21,27,Saturday,2,48,5.0,2024,3,1.3,False,False,False,False,False,14423.548387096775,2,3.15,0.11538461538461539
-Male,46,Marketing,Content Lead,3,USA,73718,10,4,Friday,9,34,,2022,4,7.33,True,False,False,False,False,17980.0,4,3.665,0.08695652173913043
-Other,47,HR,HR Manager,4,India,142815,21,13,Tuesday,15,22,,2023,11,3.63,True,False,False,False,False,12866.216216216217,3,1.815,0.23404255319148937
-Male,43,Support,Helpdesk,4,Canada,82938,18,17,Wednesday,7,16,4.0,2015,11,3.57,False,False,False,False,False,7471.891891891893,11,3.785,0.2558139534883721
-Female,22,IT,Engineer,3,UK,32356,15,4,Friday,12,74,,2020,5,6.33,True,False,False,False,False,6344.313725490197,6,3.165,0.22727272727272727
-Other,28,IT,Developer,5,Germany,150136,31,14,Wednesday,2,71,,2023,5,1.47,True,False,False,False,False,29438.43137254902,3,0.735,0.17857142857142858
-Female,51,Finance,Auditor,5,Canada,103550,13,23,Friday,9,53,,2024,4,3.57,True,False,False,False,False,25256.097560975613,2,1.785,0.0784313725490196
-Other,31,Sales,Sales Executive,3,Canada,145121,23,22,Monday,13,34,4.0,2024,5,1.73,False,False,False,False,False,28455.09803921569,2,2.865,0.16129032258064516
-Male,54,Sales,Sales Executive,4,Germany,152976,8,19,Saturday,9,45,4.0,2024,8,5.23,False,False,False,False,False,18885.925925925927,2,4.615,0.14814814814814814
-Male,44,Support,Support Engineer,4,France,43063,5,9,Thursday,13,46,4.0,2022,5,7.5,False,False,False,False,False,8443.725490196079,4,5.75,0.11363636363636363
-Male,30,Marketing,Content Lead,2,Canada,33987,21,16,Sunday,9,57,,2014,12,3.13,True,False,False,False,False,2808.8429752066118,12,1.565,0.4
-Female,44,Marketing,SEO Analyst,3,India,145588,26,22,Tuesday,7,31,,2020,11,1.13,True,False,False,False,False,13116.036036036037,6,0.565,0.25
-Other,32,Finance,Auditor,4,France,43235,38,12,Monday,6,23,,2023,2,0.4,True,False,False,False,False,20588.095238095237,3,0.2,0.0625
-Other,60,IT,Tester,4,Germany,56904,31,7,Monday,15,37,,2021,4,2.63,True,False,False,False,False,13879.024390243903,5,1.315,0.06666666666666667
-Female,26,Finance,Accountant,1,USA,62833,10,3,Friday,5,63,,2024,2,7.5,True,False,False,False,False,29920.47619047619,2,3.75,0.07692307692307693
-Other,22,Sales,Account Manager,5,France,133108,16,2,Friday,11,47,5.0,2022,4,6.47,False,False,False,False,False,32465.36585365854,4,5.734999999999999,0.18181818181818182
-Male,35,Support,Helpdesk,1,USA,65954,17,22,Wednesday,3,41,5.0,2024,5,2.93,False,False,False,False,False,12932.1568627451,2,3.965,0.14285714285714285
-Female,58,Support,Support Engineer,4,India,99805,6,23,Saturday,15,6,10.0,2020,7,4.97,False,False,False,False,False,14057.042253521127,6,7.484999999999999,0.1206896551724138
-Female,43,Marketing,Content Lead,1,Canada,156104,2,0,Friday,12,20,,2011,14,9.6,True,False,False,False,False,11071.205673758866,15,4.8,0.32558139534883723
-Female,34,HR,HR Manager,4,France,115105,29,12,Wednesday,15,19,,2022,3,2.2,True,False,False,False,False,37130.64516129032,4,1.1,0.08823529411764706
-Female,52,Marketing,Content Lead,5,France,77462,22,18,Friday,14,65,,2021,10,2.6,True,False,False,False,False,7669.504950495049,5,1.3,0.19230769230769232
-Female,58,HR,HR Executive,3,USA,136059,1,18,Thursday,12,69,,2024,12,6.8,True,False,False,False,False,11244.545454545454,2,3.4,0.20689655172413793
-Male,29,Sales,Account Manager,5,India,152981,14,9,Saturday,15,9,7.0,2019,6,5.7,False,False,False,False,False,25078.852459016394,7,6.35,0.20689655172413793
-Other,43,HR,HR Manager,2,USA,107081,31,29,Thursday,15,80,,2014,11,-1.03,True,False,False,False,False,9646.936936936938,12,-0.515,0.2558139534883721
-Female,30,HR,HR Executive,2,India,172259,38,22,Tuesday,2,62,,2012,14,-1.27,True,False,False,False,False,12216.95035460993,14,-0.635,0.4666666666666667
-Female,51,Sales,Account Manager,2,USA,50979,31,25,Tuesday,13,52,2.0,2019,11,-0.37,False,False,False,False,False,4592.7027027027025,7,0.815,0.21568627450980393
-Female,27,Support,Support Engineer,5,Canada,98130,12,20,Thursday,10,19,7.0,2020,9,4.27,False,False,False,False,False,10783.516483516483,6,5.635,0.3333333333333333
-Other,59,Marketing,SEO Analyst,4,Canada,117953,34,7,Tuesday,15,8,,2019,7,2.03,True,False,False,False,False,16613.098591549297,7,1.015,0.11864406779661017
-Female,31,Finance,Accountant,4,USA,149459,23,24,Thursday,3,66,,2020,7,1.4,True,False,False,False,False,21050.563380281692,6,0.7,0.22580645161290322
-Other,33,IT,Developer,5,India,68241,16,6,Thursday,6,41,,2020,13,5.8,True,False,False,False,False,5209.236641221374,6,2.9,0.3939393939393939
-Female,51,HR,HR Executive,4,USA,47360,13,17,Thursday,4,69,,2023,7,4.57,True,False,False,False,False,6670.422535211268,3,2.285,0.13725490196078433
-Other,49,Support,Support Engineer,5,USA,126122,5,20,Tuesday,13,67,5.0,2018,7,5.67,False,False,False,False,False,17763.66197183099,8,5.335,0.14285714285714285
-Other,33,IT,Developer,2,France,77857,7,13,Wednesday,9,61,,2016,13,6.43,True,False,False,False,False,5943.282442748092,10,3.215,0.3939393939393939
-Male,53,Support,Helpdesk,4,Canada,50520,33,17,Saturday,3,50,4.0,2021,4,0.57,False,False,False,False,False,12321.951219512197,5,2.285,0.07547169811320754
-Male,49,IT,Engineer,2,Germany,113247,34,9,Tuesday,4,30,,2010,15,1.7,True,False,False,False,False,7499.801324503312,16,0.85,0.30612244897959184
-Male,39,IT,Developer,5,Canada,74074,17,30,Friday,7,45,,2014,11,1.6,True,False,False,False,False,6673.333333333334,12,0.8,0.28205128205128205
-Male,59,Support,Helpdesk,2,Germany,152599,27,5,Monday,7,64,2.0,2023,2,3.77,False,False,False,False,False,72666.19047619047,3,2.885,0.03389830508474576
-Male,33,Sales,Account Manager,5,Canada,156093,0,1,Thursday,6,37,4.0,2022,3,9.83,False,False,False,False,False,50352.58064516129,4,6.915,0.09090909090909091
-Other,22,Support,Helpdesk,4,Germany,153900,16,3,Tuesday,2,8,7.0,2022,15,6.3,False,False,False,False,False,10192.05298013245,4,6.65,0.6818181818181818
-Other,43,Marketing,SEO Analyst,4,USA,168316,29,1,Friday,14,74,,2023,13,4.03,True,False,False,False,False,12848.54961832061,3,2.015,0.3023255813953488
-Female,52,HR,HR Executive,4,UK,31840,29,30,Wednesday,4,59,,2017,12,-0.8,True,False,False,False,False,2631.404958677686,9,-0.4,0.23076923076923078
-Female,31,Finance,Auditor,3,France,44728,6,7,Tuesday,4,33,,2023,3,7.63,True,False,False,False,False,14428.387096774193,3,3.815,0.0967741935483871
-Other,59,Sales,Sales Executive,1,France,144337,30,28,Saturday,2,6,1.0,2024,15,-0.67,False,False,False,False,False,9558.741721854305,2,0.16499999999999998,0.2542372881355932
-Male,45,IT,Developer,3,USA,78575,39,22,Monday,10,60,,2022,12,-1.47,True,False,False,False,False,6493.801652892562,4,-0.735,0.26666666666666666
-Male,59,Support,Support Engineer,4,UK,121058,19,6,Saturday,4,35,10.0,2019,11,5.2,False,False,False,False,False,10906.126126126126,7,7.6,0.1864406779661017
-Female,49,Finance,Auditor,4,India,151344,12,22,Saturday,15,51,,2021,7,3.93,True,False,False,False,False,21316.05633802817,5,1.965,0.14285714285714285
-Female,44,IT,Engineer,5,USA,67225,15,3,Wednesday,4,42,,2024,3,6.5,True,False,False,False,False,21685.483870967742,2,3.25,0.06818181818181818
-Female,22,Finance,Accountant,2,USA,172135,0,13,Friday,6,21,,2023,10,7.83,True,False,False,False,False,17043.069306930694,3,3.915,0.45454545454545453
-Male,60,IT,Developer,2,Canada,91931,18,1,Friday,6,49,,2023,8,6.23,True,False,False,False,False,11349.506172839507,3,3.115,0.13333333333333333
-Female,25,Sales,Sales Executive,1,Germany,89066,4,5,Wednesday,7,73,5.0,2015,14,8.37,False,False,False,False,False,6316.737588652482,11,6.685,0.56
-Other,47,HR,HR Executive,2,Germany,72561,22,19,Thursday,14,66,,2024,5,2.43,True,False,False,False,False,14227.64705882353,2,1.215,0.10638297872340426
-Female,56,Support,Support Engineer,3,India,68809,29,17,Friday,13,12,1.0,2017,8,1.37,False,False,False,False,False,8494.938271604939,9,1.185,0.14285714285714285
-Female,35,IT,Tester,5,France,93279,2,14,Saturday,13,35,,2022,7,7.27,True,False,False,False,False,13137.887323943663,4,3.635,0.2
-Female,27,Support,Helpdesk,3,USA,55650,9,4,Sunday,14,18,1.0,2019,10,7.53,False,False,False,False,False,5509.90099009901,7,4.265000000000001,0.37037037037037035
-Other,59,HR,HR Executive,1,USA,74552,11,5,Thursday,11,8,,2021,7,6.97,True,False,False,False,False,10500.281690140846,5,3.485,0.11864406779661017
-Other,55,Finance,Auditor,5,UK,145869,22,5,Friday,3,29,,2020,6,4.77,True,False,False,False,False,23912.950819672133,6,2.385,0.10909090909090909
-Male,45,HR,HR Manager,4,USA,148129,9,19,Tuesday,14,8,,2022,11,5.03,True,False,False,False,False,13344.954954954956,4,2.515,0.24444444444444444
-Female,38,Marketing,Content Lead,3,USA,44652,9,18,Thursday,12,50,,2012,14,5.2,True,False,False,False,False,3166.808510638298,14,2.6,0.3684210526315789
-Male,39,Marketing,SEO Analyst,2,UK,178756,27,12,Sunday,13,76,,2024,2,2.6,True,False,False,False,False,85121.90476190476,2,1.3,0.05128205128205128
-Female,56,Finance,Auditor,5,USA,110538,32,3,Saturday,4,38,,2018,9,3.1,True,False,False,False,False,12147.032967032968,8,1.55,0.16071428571428573
-Female,40,IT,Engineer,5,USA,39286,12,25,Thursday,11,52,,2019,12,3.43,True,False,False,False,False,3246.7768595041325,7,1.715,0.3
-Male,30,IT,Developer,4,France,55595,4,13,Saturday,6,36,,2021,4,7.03,True,False,False,False,False,13559.756097560978,5,3.515,0.13333333333333333
-Other,56,Sales,Account Manager,5,India,168010,32,17,Saturday,14,65,1.0,2022,3,0.77,False,False,False,False,False,54196.77419354839,4,0.885,0.05357142857142857
-Other,50,IT,Tester,3,France,71526,24,7,Friday,3,10,,2022,10,4.03,True,False,False,False,False,7081.782178217822,4,2.015,0.2
-Male,23,Sales,Account Manager,1,UK,152981,3,8,Monday,14,56,9.0,2020,7,8.07,False,False,False,False,False,21546.61971830986,6,8.535,0.30434782608695654
-Other,51,Support,Helpdesk,5,India,60483,16,23,Friday,8,38,6.0,2021,6,2.97,False,False,False,False,False,9915.245901639344,5,4.485,0.11764705882352941
-Other,53,Sales,Account Manager,2,Germany,37564,10,0,Monday,2,41,10.0,2021,4,8.0,False,False,False,False,False,9161.951219512195,5,9.0,0.07547169811320754
-Male,52,Support,Support Engineer,2,USA,103473,11,0,Thursday,5,80,5.0,2023,4,7.8,False,False,False,False,False,25237.317073170732,3,6.4,0.07692307692307693
-Male,43,HR,HR Manager,5,UK,98618,6,1,Friday,8,42,,2021,14,8.63,True,False,False,False,False,6994.184397163121,5,4.315,0.32558139534883723
-Other,28,Sales,Account Manager,2,France,69768,21,8,Sunday,4,13,1.0,2019,10,4.47,False,False,False,False,False,6907.722772277228,7,2.735,0.35714285714285715
-Other,32,Sales,Account Manager,4,USA,124262,16,27,Friday,1,76,8.0,2022,11,2.3,False,False,False,False,False,11194.774774774774,4,5.15,0.34375
-Female,48,Support,Support Engineer,1,USA,31181,32,1,Sunday,10,15,10.0,2015,11,3.43,False,False,False,False,False,2809.099099099099,11,6.715,0.22916666666666666
-Male,48,Marketing,Content Lead,2,UK,139956,35,0,Saturday,10,10,,2019,10,3.0,True,False,False,False,False,13857.029702970298,7,1.5,0.20833333333333334
-Other,34,HR,HR Executive,2,Germany,53489,23,27,Monday,3,51,,2019,6,0.9,True,False,False,False,False,8768.688524590165,7,0.45,0.17647058823529413
-Other,34,Sales,Account Manager,1,Canada,123313,12,21,Saturday,5,25,7.0,2020,5,4.1,False,False,False,False,False,24179.01960784314,6,5.55,0.14705882352941177
-Other,52,IT,Tester,5,USA,34410,3,8,Sunday,3,26,,2022,4,8.07,True,False,False,False,False,8392.68292682927,4,4.035,0.07692307692307693
-Male,54,Marketing,SEO Analyst,2,France,35504,30,20,Sunday,9,8,,2018,9,0.67,True,False,False,False,False,3901.538461538462,8,0.335,0.16666666666666666
-Other,41,HR,HR Executive,4,USA,47809,37,20,Saturday,2,71,,2023,8,-0.73,True,False,False,False,False,5902.3456790123455,3,-0.365,0.1951219512195122
-Male,33,IT,Developer,1,Germany,152793,30,14,Monday,11,51,,2023,2,1.67,True,False,False,False,False,72758.57142857142,3,0.835,0.06060606060606061
-Male,51,HR,HR Executive,2,UK,144222,23,16,Saturday,15,75,,2023,8,2.73,True,False,False,False,False,17805.185185185186,3,1.365,0.1568627450980392
-Female,55,Marketing,Content Lead,5,Canada,122095,15,0,Friday,13,32,,2020,7,7.0,True,False,False,False,False,17196.478873239437,6,3.5,0.12727272727272726
-Other,60,Support,Support Engineer,3,UK,176852,18,9,Tuesday,2,62,3.0,2014,13,4.9,False,False,False,False,False,13500.152671755726,12,3.95,0.21666666666666667
-Male,51,Sales,Sales Executive,4,USA,138076,2,15,Thursday,7,47,3.0,2022,15,7.1,False,False,False,False,False,9144.1059602649,4,5.05,0.29411764705882354
-Male,53,Support,Helpdesk,1,Germany,166057,33,17,Friday,2,77,1.0,2024,2,0.57,False,False,False,False,False,79074.76190476191,2,0.7849999999999999,0.03773584905660377
-Female,35,Finance,Accountant,3,France,81547,37,9,Monday,3,30,,2021,4,1.1,True,False,False,False,False,19889.51219512195,5,0.55,0.11428571428571428
-Female,47,HR,HR Executive,4,Canada,78148,5,10,Saturday,4,22,,2024,8,7.33,True,False,False,False,False,9647.901234567902,2,3.665,0.1702127659574468
-Female,25,HR,HR Manager,2,India,57534,39,3,Saturday,15,14,,2022,5,1.7,True,False,False,False,False,11281.176470588236,4,0.85,0.2
-Other,60,IT,Tester,3,Canada,77413,27,0,Saturday,6,50,,2020,15,4.6,True,False,False,False,False,5126.688741721854,6,2.3,0.25
-Female,31,IT,Tester,1,Germany,143831,17,0,Thursday,13,72,,2023,2,6.6,True,False,False,False,False,68490.95238095238,3,3.3,0.06451612903225806
-Female,28,HR,HR Manager,2,France,126163,6,10,Saturday,11,15,,2022,3,7.13,True,False,False,False,False,40697.74193548387,4,3.565,0.10714285714285714
-Other,34,HR,HR Executive,1,Germany,151729,35,0,Friday,14,46,,2020,5,3.0,True,False,False,False,False,29750.784313725493,6,1.5,0.14705882352941177
-Other,33,Support,Support Engineer,1,India,44773,6,7,Monday,5,57,8.0,2020,10,7.63,False,False,False,False,False,4432.970297029703,6,7.8149999999999995,0.30303030303030304
-Female,60,Sales,Account Manager,1,Canada,115425,40,25,Thursday,5,78,1.0,2024,5,-2.17,False,False,False,False,False,22632.352941176472,2,-0.585,0.08333333333333333
-Other,60,Marketing,SEO Analyst,3,France,52297,39,1,Saturday,12,72,,2017,13,2.03,True,False,False,False,False,3992.1374045801526,9,1.015,0.21666666666666667
-Female,22,HR,HR Manager,3,UK,166881,6,1,Sunday,13,77,,2020,12,8.63,True,False,False,False,False,13791.818181818182,6,4.315,0.5454545454545454
-Female,39,Support,Support Engineer,2,UK,38986,8,13,Wednesday,12,53,10.0,2015,13,6.23,False,False,False,False,False,2976.030534351145,11,8.115,0.3333333333333333
-Other,43,Marketing,Content Lead,5,India,172355,27,11,Friday,13,43,,2024,13,2.77,True,False,False,False,False,13156.870229007634,2,1.385,0.3023255813953488
-Other,51,Marketing,SEO Analyst,1,India,43852,39,14,Wednesday,11,73,,2024,2,-0.13,True,False,False,False,False,20881.90476190476,2,-0.065,0.0392156862745098
-Male,24,Support,Helpdesk,2,Germany,134669,28,24,Thursday,11,45,4.0,2024,9,0.4,False,False,False,False,False,14798.79120879121,2,2.2,0.375
-Male,59,Support,Helpdesk,4,Germany,126177,10,15,Tuesday,10,78,3.0,2023,2,5.5,False,False,False,False,False,60084.28571428571,3,4.25,0.03389830508474576
-Male,49,Sales,Account Manager,5,UK,47221,12,4,Wednesday,3,56,6.0,2018,15,6.93,False,False,False,False,False,3127.218543046358,8,6.465,0.30612244897959184
-Other,34,Marketing,SEO Analyst,5,UK,88315,22,17,Sunday,12,24,,2017,9,2.77,True,False,False,False,False,9704.945054945056,9,1.385,0.2647058823529412
-Male,49,Support,Helpdesk,1,France,139006,23,26,Saturday,3,79,8.0,2015,14,1.07,False,False,False,False,False,9858.581560283688,11,4.535,0.2857142857142857
-Other,30,Support,Helpdesk,3,UK,124984,12,6,Wednesday,5,75,3.0,2021,4,6.6,False,False,False,False,False,30483.902439024394,5,4.8,0.13333333333333333
-Other,51,Support,Support Engineer,2,Germany,48033,8,2,Saturday,7,70,4.0,2022,11,8.07,False,False,False,False,False,4327.2972972972975,4,6.035,0.21568627450980393
-Female,28,Sales,Account Manager,4,USA,176131,18,16,Tuesday,1,27,4.0,2017,8,3.73,False,False,False,False,False,21744.567901234568,9,3.865,0.2857142857142857
-Other,58,Finance,Auditor,5,India,83089,4,26,Sunday,3,45,,2014,11,4.87,True,False,False,False,False,7485.495495495496,12,2.435,0.1896551724137931
-Female,33,Sales,Sales Executive,2,Canada,65067,31,9,Tuesday,7,25,1.0,2022,3,2.3,False,False,False,False,False,20989.354838709678,4,1.65,0.09090909090909091
-Other,29,IT,Developer,3,Germany,35093,37,13,Sunday,5,35,,2024,11,0.43,True,False,False,False,False,3161.5315315315315,2,0.215,0.3793103448275862
-Female,33,Support,Support Engineer,2,India,161083,16,15,Wednesday,12,58,6.0,2024,4,4.3,False,False,False,False,False,39288.53658536586,2,5.15,0.12121212121212122
-Male,26,Support,Support Engineer,2,India,142521,23,5,Friday,15,79,4.0,2012,14,4.57,False,False,False,False,False,10107.872340425532,14,4.285,0.5384615384615384
-Other,55,Finance,Accountant,3,India,98836,40,6,Saturday,7,26,,2021,4,1.0,True,False,False,False,False,24106.341463414636,5,0.5,0.07272727272727272
-Other,23,Finance,Auditor,5,France,36596,20,22,Friday,8,7,,2020,9,2.33,True,False,False,False,False,4021.538461538462,6,1.165,0.391304347826087
-Male,25,HR,HR Executive,3,UK,79311,9,20,Saturday,1,7,,2023,3,4.87,True,False,False,False,False,25584.193548387095,3,2.435,0.12
-Other,51,IT,Engineer,3,India,177547,39,16,Monday,13,11,,2023,6,-0.47,True,False,False,False,False,29106.065573770495,3,-0.235,0.11764705882352941
-Male,51,Support,Support Engineer,1,UK,139711,39,28,Monday,6,17,7.0,2020,6,-2.47,False,False,False,False,False,22903.44262295082,6,2.2649999999999997,0.11764705882352941
-Female,23,Finance,Auditor,2,Canada,133661,25,11,Friday,13,36,,2021,14,3.17,True,False,False,False,False,9479.503546099291,5,1.585,0.6086956521739131
-Other,55,Support,Helpdesk,2,USA,119959,26,4,Tuesday,6,6,3.0,2023,8,4.13,False,False,False,False,False,14809.753086419754,3,3.565,0.14545454545454545
-Male,29,HR,HR Manager,3,UK,41236,37,17,Friday,6,26,,2024,13,-0.23,True,False,False,False,False,3147.7862595419847,2,-0.115,0.4482758620689655
-Male,36,HR,HR Executive,1,UK,60667,4,11,Wednesday,7,12,,2020,5,7.37,True,False,False,False,False,11895.490196078432,6,3.685,0.1388888888888889
-Male,57,Finance,Accountant,3,India,85219,20,5,Thursday,12,73,,2020,11,5.17,True,False,False,False,False,7677.387387387387,6,2.585,0.19298245614035087
-Male,22,IT,Tester,5,Canada,113299,13,7,Sunday,11,69,,2022,8,6.23,True,False,False,False,False,13987.530864197532,4,3.115,0.36363636363636365
-Other,35,IT,Engineer,4,Germany,73218,39,2,Friday,2,15,,2024,4,1.87,True,False,False,False,False,17858.048780487807,2,0.935,0.11428571428571428
-Other,51,Finance,Accountant,4,USA,166935,17,29,Wednesday,2,13,,2020,10,1.77,True,False,False,False,False,16528.21782178218,6,0.885,0.19607843137254902
-Female,21,Finance,Accountant,1,France,149268,25,4,Monday,2,42,,2019,10,4.33,True,False,False,False,False,14779.009900990099,7,2.165,0.47619047619047616
-Female,24,Marketing,SEO Analyst,5,UK,167109,22,15,Monday,15,21,,2023,2,3.1,True,False,False,False,False,79575.71428571428,3,1.55,0.08333333333333333
-Female,23,HR,HR Executive,3,India,44615,10,20,Thursday,1,67,,2024,5,4.67,True,False,False,False,False,8748.039215686274,2,2.335,0.21739130434782608
-Female,40,Marketing,Content Lead,2,UK,174938,33,26,Monday,3,7,,2021,6,-0.93,True,False,False,False,False,28678.360655737706,5,-0.465,0.15
-Male,55,Sales,Sales Executive,2,Canada,141609,8,22,Saturday,7,14,8.0,2019,9,4.73,False,False,False,False,False,15561.428571428572,7,6.365,0.16363636363636364
-Male,48,Support,Helpdesk,1,USA,143395,26,30,Tuesday,15,61,10.0,2023,2,-0.2,False,False,False,False,False,68283.33333333333,3,4.9,0.041666666666666664
-Male,48,Support,Support Engineer,5,Germany,91560,32,28,Sunday,6,54,7.0,2024,6,-1.07,False,False,False,False,False,15009.83606557377,2,2.965,0.125
-Female,42,Sales,Account Manager,4,UK,178594,4,1,Friday,10,8,3.0,2024,2,9.03,False,False,False,False,False,85044.76190476191,2,6.015,0.047619047619047616
-Other,49,Sales,Sales Executive,1,India,136861,6,27,Friday,11,34,2.0,2017,12,4.3,False,False,False,False,False,11310.826446280993,9,3.15,0.24489795918367346
-Female,48,Finance,Auditor,3,Germany,70640,13,16,Wednesday,13,64,,2023,7,4.73,True,False,False,False,False,9949.295774647888,3,2.365,0.14583333333333334
-Male,60,Sales,Account Manager,1,Canada,86918,35,25,Friday,10,14,7.0,2018,15,-1.17,False,False,False,False,False,5756.158940397351,8,2.915,0.25
-Female,27,Sales,Sales Executive,3,Canada,87099,9,24,Saturday,3,30,4.0,2023,7,4.2,False,False,False,False,False,12267.464788732395,3,4.1,0.25925925925925924
-Other,52,Sales,Account Manager,2,Canada,33037,18,6,Tuesday,7,46,8.0,2021,8,5.4,False,False,False,False,False,4078.641975308642,5,6.7,0.15384615384615385
-Female,38,HR,HR Manager,4,USA,143214,36,28,Monday,11,30,,2021,8,-1.87,True,False,False,False,False,17680.74074074074,5,-0.935,0.21052631578947367
-Female,30,Marketing,SEO Analyst,2,India,168202,17,14,Monday,1,80,,2023,3,4.27,True,False,False,False,False,54258.709677419356,3,2.135,0.1
-Other,25,IT,Engineer,3,UK,151301,31,30,Friday,12,46,,2018,15,-1.2,True,False,False,False,False,10019.933774834437,8,-0.6,0.6
-Male,35,IT,Developer,5,Germany,32158,10,18,Monday,6,48,,2024,3,5.0,True,False,False,False,False,10373.548387096775,2,2.5,0.08571428571428572
-Other,42,Finance,Auditor,5,Canada,122405,16,16,Monday,12,21,,2023,2,4.13,True,False,False,False,False,58288.09523809524,3,2.065,0.047619047619047616
-Female,39,Support,Support Engineer,1,India,33150,3,20,Wednesday,14,28,3.0,2023,2,6.07,False,False,False,False,False,15785.714285714284,3,4.535,0.05128205128205128
-Other,55,Sales,Sales Executive,4,France,70445,25,11,Friday,14,33,5.0,2024,13,3.17,False,False,False,False,False,5377.480916030535,2,4.085,0.23636363636363636
-Female,24,Marketing,Content Lead,4,India,173731,28,25,Friday,4,23,,2019,6,0.23,True,False,False,False,False,28480.49180327869,7,0.115,0.25
-Female,26,HR,HR Executive,3,India,35989,16,6,Tuesday,6,72,,2016,9,5.8,True,False,False,False,False,3954.835164835165,10,2.9,0.34615384615384615
-Other,26,Sales,Account Manager,1,India,87882,32,6,Tuesday,2,21,4.0,2015,14,2.6,False,False,False,False,False,6232.765957446809,11,3.3,0.5384615384615384
-Other,44,Sales,Sales Executive,3,UK,125274,38,8,Sunday,4,77,3.0,2021,9,1.07,False,False,False,False,False,13766.373626373626,5,2.035,0.20454545454545456
-Female,32,Finance,Auditor,1,France,69596,8,25,Tuesday,1,51,,2019,6,4.23,True,False,False,False,False,11409.180327868853,7,2.115,0.1875
-Male,21,Support,Helpdesk,5,Germany,150477,30,11,Monday,7,37,2.0,2021,4,2.17,False,False,False,False,False,36701.707317073175,5,2.085,0.19047619047619047
-Other,39,Support,Support Engineer,2,USA,147300,26,12,Sunday,12,62,3.0,2024,2,2.8,False,False,False,False,False,70142.85714285714,2,2.9,0.05128205128205128
-Male,28,HR,HR Manager,2,USA,137113,9,6,Thursday,5,69,,2020,6,7.2,True,False,False,False,False,22477.54098360656,6,3.6,0.21428571428571427
-Other,54,Finance,Auditor,3,Canada,43249,4,20,Saturday,2,62,,2022,9,5.87,True,False,False,False,False,4752.6373626373625,4,2.935,0.16666666666666666
-Female,27,Finance,Accountant,4,India,35448,40,20,Saturday,4,41,,2020,11,-1.33,True,False,False,False,False,3193.5135135135138,6,-0.665,0.4074074074074074
-Other,56,HR,HR Manager,1,France,122891,14,25,Friday,6,45,,2017,12,3.03,True,False,False,False,False,10156.280991735537,9,1.515,0.21428571428571427
-Female,24,IT,Developer,1,UK,42837,34,5,Wednesday,10,14,,2020,6,2.37,True,False,False,False,False,7022.459016393443,6,1.185,0.25
-Female,29,Finance,Accountant,2,USA,74702,15,11,Monday,3,54,,2014,13,5.17,True,False,False,False,False,5702.442748091603,12,2.585,0.4482758620689655
-Female,38,HR,HR Executive,2,Canada,112040,37,3,Sunday,9,54,,2012,14,2.1,True,False,False,False,False,7946.099290780142,14,1.05,0.3684210526315789
-Female,35,Finance,Accountant,3,Canada,170493,17,6,Thursday,15,57,,2020,11,5.6,True,False,False,False,False,15359.72972972973,6,2.8,0.3142857142857143
-Male,42,Sales,Account Manager,3,Canada,44817,9,25,Tuesday,14,60,6.0,2023,2,4.03,False,False,False,False,False,21341.42857142857,3,5.015000000000001,0.047619047619047616
-Female,56,Support,Support Engineer,1,Germany,39070,7,20,Tuesday,12,54,7.0,2023,2,5.27,False,False,False,False,False,18604.761904761905,3,6.135,0.03571428571428571
-Female,32,Finance,Auditor,5,France,107827,15,29,Sunday,2,35,,2024,3,2.17,True,False,False,False,False,34782.90322580645,2,1.085,0.09375
-Female,44,IT,Developer,5,India,170873,14,17,Monday,3,72,,2022,5,4.37,True,False,False,False,False,33504.50980392157,4,2.185,0.11363636363636363
-Other,55,Support,Helpdesk,3,Germany,162151,9,14,Wednesday,15,69,9.0,2022,10,5.87,False,False,False,False,False,16054.554455445545,4,7.4350000000000005,0.18181818181818182
-Female,42,Marketing,Content Lead,4,Germany,170095,2,2,Saturday,11,42,,2015,12,9.27,True,False,False,False,False,14057.438016528926,11,4.635,0.2857142857142857
-Female,50,Support,Support Engineer,4,USA,155425,8,13,Friday,8,44,7.0,2015,13,6.23,False,False,False,False,False,11864.503816793893,11,6.615,0.26
-Other,56,Support,Helpdesk,5,UK,75142,5,24,Thursday,1,14,3.0,2023,2,5.0,False,False,False,False,False,35781.90476190476,3,4.0,0.03571428571428571
-Other,25,Sales,Sales Executive,2,Germany,156837,40,5,Thursday,9,9,1.0,2019,8,1.17,False,False,False,False,False,19362.592592592595,7,1.085,0.32
-Female,26,Finance,Accountant,4,Germany,32981,40,25,Sunday,14,16,,2019,6,-2.17,True,False,False,False,False,5406.72131147541,7,-1.085,0.23076923076923078
-Male,39,IT,Engineer,2,Canada,171542,35,18,Friday,10,45,,2016,13,0.0,True,False,False,False,False,13094.809160305344,10,0.0,0.3333333333333333
-Female,23,IT,Engineer,1,UK,164893,21,13,Thursday,3,44,,2021,12,3.63,True,False,False,False,False,13627.520661157025,5,1.815,0.5217391304347826
-Other,49,HR,HR Executive,4,France,123450,20,9,Sunday,11,25,,2020,13,4.5,True,False,False,False,False,9423.664122137405,6,2.25,0.2653061224489796
-Male,24,IT,Developer,2,France,99973,5,0,Wednesday,5,21,,2021,6,9.0,True,False,False,False,False,16389.016393442624,5,4.5,0.25
-Other,22,Finance,Accountant,2,Canada,71184,29,17,Thursday,1,41,,2016,11,1.37,True,False,False,False,False,6412.972972972973,10,0.685,0.5
-Male,56,Support,Helpdesk,5,France,169664,33,24,Tuesday,14,70,1.0,2024,4,-0.6,False,False,False,False,False,41381.46341463415,2,0.2,0.07142857142857142
-Female,50,Marketing,SEO Analyst,3,India,102015,8,11,Friday,2,19,,2023,6,6.57,True,False,False,False,False,16723.77049180328,3,3.285,0.12
-Female,42,IT,Engineer,2,USA,83883,16,13,Thursday,2,24,,2019,11,4.63,True,False,False,False,False,7557.0270270270275,7,2.315,0.2619047619047619
-Male,44,Sales,Sales Executive,5,USA,59968,32,16,Thursday,1,9,7.0,2024,11,0.93,False,False,False,False,False,5402.522522522523,2,3.965,0.25
-Male,56,HR,HR Manager,2,UK,146542,39,6,Wednesday,9,12,,2011,15,1.2,True,False,False,False,False,9704.76821192053,15,0.6,0.26785714285714285
-Other,54,Finance,Accountant,1,India,91897,39,29,Friday,14,75,,2024,6,-2.63,True,False,False,False,False,15065.081967213117,2,-1.315,0.1111111111111111
-Female,58,HR,HR Executive,5,Canada,178781,22,23,Thursday,2,11,,2022,9,1.77,True,False,False,False,False,19646.263736263736,4,0.885,0.15517241379310345
-Female,26,Finance,Auditor,4,Canada,109535,15,7,Saturday,6,55,,2024,5,5.83,True,False,False,False,False,21477.450980392157,2,2.915,0.19230769230769232
-Female,37,HR,HR Manager,3,Canada,165808,24,9,Sunday,5,17,,2023,4,3.7,True,False,False,False,False,40440.975609756104,3,1.85,0.10810810810810811
-Male,32,Marketing,SEO Analyst,4,Germany,84858,17,8,Thursday,14,70,,2024,3,5.27,True,False,False,False,False,27373.548387096773,2,2.635,0.09375
-Female,60,IT,Tester,3,UK,77093,39,9,Sunday,15,61,,2024,2,0.7,True,False,False,False,False,36710.95238095238,2,0.35,0.03333333333333333
-Female,55,IT,Engineer,5,India,131743,26,3,Saturday,9,79,,2018,7,4.3,True,False,False,False,False,18555.352112676057,8,2.15,0.12727272727272726
-Male,55,Finance,Auditor,5,France,134434,28,11,Sunday,13,54,,2017,11,2.57,True,False,False,False,False,12111.171171171172,9,1.285,0.2
-Male,24,HR,HR Executive,1,USA,136945,28,15,Thursday,8,25,,2022,9,1.9,True,False,False,False,False,15048.9010989011,4,0.95,0.375
-Female,43,Marketing,Content Lead,3,Germany,135916,2,17,Thursday,6,58,,2024,7,6.77,True,False,False,False,False,19143.098591549297,2,3.385,0.16279069767441862
-Male,57,Support,Support Engineer,2,Canada,93082,12,30,Sunday,13,42,8.0,2020,12,2.6,False,False,False,False,False,7692.727272727273,6,5.3,0.21052631578947367
-Male,29,Marketing,Content Lead,1,France,65014,6,4,Monday,5,33,,2024,2,8.13,True,False,False,False,False,30959.04761904762,2,4.065,0.06896551724137931
-Other,30,HR,HR Executive,1,India,112960,11,10,Saturday,9,67,,2023,4,6.13,True,False,False,False,False,27551.219512195123,3,3.065,0.13333333333333333
-Other,52,HR,HR Executive,4,UK,132414,15,19,Tuesday,6,64,,2021,8,3.83,True,False,False,False,False,16347.407407407409,5,1.915,0.15384615384615385
-Other,35,Finance,Accountant,1,Germany,143004,6,3,Monday,11,50,,2020,5,8.3,True,False,False,False,False,28040.000000000004,6,4.15,0.14285714285714285
-Male,56,Marketing,Content Lead,3,India,54712,10,28,Wednesday,2,13,,2020,6,3.33,True,False,False,False,False,8969.180327868853,6,1.665,0.10714285714285714
-Male,30,Sales,Account Manager,1,UK,153348,31,1,Monday,13,74,3.0,2018,7,3.63,False,False,False,False,False,21598.30985915493,8,3.315,0.23333333333333334
-Male,55,IT,Tester,5,UK,174508,20,4,Saturday,1,49,,2021,10,5.33,True,False,False,False,False,17278.019801980197,5,2.665,0.18181818181818182
-Female,26,HR,HR Manager,2,France,144116,31,2,Friday,2,64,,2023,6,3.47,True,False,False,False,False,23625.573770491803,3,1.735,0.23076923076923078
-Male,56,IT,Engineer,2,Germany,159885,3,16,Wednesday,7,65,,2019,6,6.73,True,False,False,False,False,26210.65573770492,7,3.365,0.10714285714285714
-Female,27,Sales,Account Manager,1,Germany,169508,17,3,Sunday,1,48,8.0,2011,15,6.1,False,False,False,False,False,11225.69536423841,15,7.05,0.5555555555555556
-Male,38,Sales,Sales Executive,2,Germany,177664,39,3,Friday,12,70,3.0,2023,2,1.7,False,False,False,False,False,84601.90476190476,3,2.35,0.05263157894736842
-Male,21,Sales,Account Manager,5,India,47481,15,12,Saturday,2,69,8.0,2016,10,5.0,False,False,False,False,False,4701.089108910891,10,6.5,0.47619047619047616
-Other,46,Finance,Auditor,4,Canada,30120,8,27,Sunday,15,9,,2023,3,3.9,True,False,False,False,False,9716.129032258064,3,1.95,0.06521739130434782
-Other,50,Sales,Account Manager,3,India,142858,15,24,Thursday,15,76,2.0,2019,7,3.0,False,False,False,False,False,20120.845070422536,7,2.5,0.14
-Female,31,Finance,Accountant,1,UK,105734,21,11,Wednesday,9,64,,2016,15,3.97,True,False,False,False,False,7002.251655629139,10,1.985,0.4838709677419355
-Other,51,HR,HR Manager,4,India,162145,33,22,Saturday,2,58,,2013,13,-0.27,True,False,False,False,False,12377.480916030534,13,-0.135,0.2549019607843137
-Other,24,Support,Helpdesk,3,India,46636,28,8,Sunday,10,56,1.0,2020,13,3.07,False,False,False,False,False,3560.0,6,2.035,0.5416666666666666
-Male,32,Support,Helpdesk,3,Germany,170728,37,1,Tuesday,10,8,1.0,2021,15,2.43,False,False,False,False,False,11306.490066225166,5,1.715,0.46875
-Female,27,Sales,Sales Executive,1,France,133923,13,30,Monday,7,60,6.0,2022,11,2.4,False,False,False,False,False,12065.135135135135,4,4.2,0.4074074074074074
-Other,57,IT,Developer,3,UK,79891,16,29,Friday,11,44,,2024,4,1.97,True,False,False,False,False,19485.60975609756,2,0.985,0.07017543859649122
-Female,21,Marketing,SEO Analyst,2,Canada,58705,37,22,Sunday,15,55,,2024,13,-1.07,True,False,False,False,False,4481.297709923664,2,-0.535,0.6190476190476191
-Male,22,Marketing,Content Lead,3,Germany,119161,12,13,Thursday,8,48,,2021,10,5.43,True,False,False,False,False,11798.118811881188,5,2.715,0.45454545454545453
-Female,38,Sales,Sales Executive,3,Germany,122362,22,5,Monday,14,33,10.0,2022,3,4.77,False,False,False,False,False,39471.6129032258,4,7.385,0.07894736842105263
-Other,57,IT,Developer,5,Canada,122097,21,5,Tuesday,12,16,,2021,8,4.97,True,False,False,False,False,15073.703703703704,5,2.485,0.14035087719298245
-Other,53,Sales,Sales Executive,4,Germany,99804,21,9,Monday,9,57,1.0,2017,9,4.3,False,False,False,False,False,10967.472527472528,9,2.65,0.16981132075471697
-Female,21,HR,HR Manager,4,Germany,68709,33,21,Tuesday,9,14,,2024,8,-0.1,True,False,False,False,False,8482.592592592593,2,-0.05,0.38095238095238093
-Female,29,HR,HR Manager,1,France,73431,25,27,Saturday,1,15,,2019,8,0.5,True,False,False,False,False,9065.555555555557,7,0.25,0.27586206896551724
-Male,45,Support,Helpdesk,3,France,152937,27,0,Wednesday,13,79,6.0,2024,2,4.6,False,False,False,False,False,72827.14285714286,2,5.3,0.044444444444444446
-Male,24,Support,Support Engineer,2,France,50829,25,15,Tuesday,9,52,4.0,2020,8,2.5,False,False,False,False,False,6275.185185185185,6,3.25,0.3333333333333333
-Female,22,Support,Helpdesk,2,Germany,91538,6,19,Friday,4,52,1.0,2014,14,5.63,False,False,False,False,False,6492.056737588653,12,3.315,0.6363636363636364
-Other,53,Sales,Account Manager,4,India,72612,15,8,Friday,4,28,8.0,2021,10,5.67,False,False,False,False,False,7189.306930693069,5,6.835,0.18867924528301888
-Male,26,HR,HR Manager,4,Germany,113808,7,5,Tuesday,2,26,,2021,10,7.77,True,False,False,False,False,11268.118811881188,5,3.885,0.38461538461538464
-Female,30,Finance,Accountant,1,Canada,78248,39,16,Saturday,6,51,,2017,8,-0.47,True,False,False,False,False,9660.246913580248,9,-0.235,0.26666666666666666
-Male,22,Marketing,Content Lead,1,France,36366,20,0,Thursday,14,37,,2022,6,6.0,True,False,False,False,False,5961.639344262296,4,3.0,0.2727272727272727
-Other,34,Finance,Auditor,3,USA,124118,5,30,Friday,4,67,,2022,4,4.0,True,False,False,False,False,30272.68292682927,4,2.0,0.11764705882352941
-Other,42,Sales,Account Manager,4,UK,173076,35,30,Friday,12,51,3.0,2021,4,-2.0,False,False,False,False,False,42213.65853658537,5,0.5,0.09523809523809523
-Male,30,Sales,Sales Executive,5,UK,60148,5,8,Sunday,9,50,5.0,2020,6,7.67,False,False,False,False,False,9860.327868852459,6,6.335,0.2
-Female,48,IT,Developer,3,India,179876,17,0,Tuesday,10,8,,2024,3,6.6,True,False,False,False,False,58024.51612903226,2,3.3,0.0625
-Female,50,IT,Engineer,5,UK,71648,11,12,Saturday,2,49,,2016,12,5.8,True,False,False,False,False,5921.322314049587,10,2.9,0.24
-Female,50,Finance,Auditor,4,India,129341,40,7,Monday,15,71,,2015,15,0.83,True,False,False,False,False,8565.629139072847,11,0.415,0.3
-Male,32,HR,HR Manager,1,France,154022,11,14,Thursday,2,14,,2017,8,5.47,True,False,False,False,False,19015.061728395063,9,2.735,0.25
-Male,49,IT,Developer,1,Germany,38841,20,17,Thursday,10,53,,2022,10,3.17,True,False,False,False,False,3845.643564356436,4,1.585,0.20408163265306123
-Other,28,HR,HR Manager,4,USA,54740,24,26,Thursday,12,13,,2014,15,0.87,True,False,False,False,False,3625.1655629139073,12,0.435,0.5357142857142857
-Female,59,HR,HR Executive,4,Canada,53573,2,5,Thursday,9,43,,2019,14,8.77,True,False,False,False,False,3799.503546099291,7,4.385,0.23728813559322035
-Male,37,Support,Helpdesk,3,UK,176277,9,2,Monday,6,10,1.0,2020,14,7.87,False,False,False,False,False,12501.914893617022,6,4.4350000000000005,0.3783783783783784
-Other,27,Support,Support Engineer,5,France,107565,23,7,Friday,4,33,9.0,2023,12,4.23,False,False,False,False,False,8889.669421487604,3,6.615,0.4444444444444444
-Other,47,HR,HR Manager,5,USA,46944,31,15,Thursday,9,45,,2023,3,1.3,True,False,False,False,False,15143.225806451612,3,0.65,0.06382978723404255
-Male,35,Sales,Sales Executive,4,Germany,45633,37,11,Saturday,7,43,9.0,2023,15,0.77,False,False,False,False,False,3022.0529801324506,3,4.885,0.42857142857142855
-Male,35,Finance,Accountant,2,Canada,167197,10,4,Saturday,5,45,,2018,14,7.33,True,False,False,False,False,11857.943262411347,8,3.665,0.4
-Male,55,Sales,Account Manager,1,Germany,112507,13,10,Sunday,5,75,8.0,2019,7,5.73,False,False,False,False,False,15846.05633802817,7,6.865,0.12727272727272726
-Female,33,Sales,Account Manager,2,USA,90509,36,14,Sunday,9,16,5.0,2023,2,0.47,False,False,False,False,False,43099.52380952381,3,2.735,0.06060606060606061
-Female,45,HR,HR Executive,5,Germany,150675,40,18,Friday,14,76,,2017,12,-1.0,True,False,False,False,False,12452.479338842975,9,-0.5,0.26666666666666666
-Female,46,Marketing,SEO Analyst,1,Germany,71300,24,11,Sunday,1,64,,2016,10,3.37,True,False,False,False,False,7059.40594059406,10,1.685,0.21739130434782608
-Male,60,Marketing,SEO Analyst,4,Canada,77783,5,5,Saturday,8,39,,2022,9,8.17,True,False,False,False,False,8547.582417582418,4,4.085,0.15
-Other,58,IT,Tester,2,Canada,109972,24,13,Saturday,5,32,,2017,10,3.03,True,False,False,False,False,10888.316831683169,9,1.515,0.1724137931034483
-Male,37,Marketing,Content Lead,4,India,148267,34,0,Thursday,7,10,,2023,5,3.2,True,False,False,False,False,29071.960784313727,3,1.6,0.13513513513513514
-Other,56,IT,Tester,1,Germany,131748,37,28,Wednesday,8,61,,2019,7,-2.07,True,False,False,False,False,18556.05633802817,7,-1.035,0.125
-Male,51,IT,Engineer,2,UK,145326,6,24,Saturday,9,75,,2018,12,4.8,True,False,False,False,False,12010.413223140496,8,2.4,0.23529411764705882
-Male,32,Marketing,Content Lead,4,Germany,145172,24,19,Thursday,8,28,,2022,3,2.03,True,False,False,False,False,46829.67741935484,4,1.015,0.09375
-Other,25,Sales,Sales Executive,5,USA,140663,27,0,Saturday,6,62,1.0,2019,13,4.6,False,False,False,False,False,10737.63358778626,7,2.8,0.52
-Male,25,Finance,Accountant,5,UK,122261,39,23,Thursday,14,28,,2021,4,-1.63,True,False,False,False,False,29819.756097560978,5,-0.815,0.16
-Female,31,HR,HR Manager,4,USA,35923,15,30,Tuesday,7,25,,2021,12,2.0,True,False,False,False,False,2968.8429752066118,5,1.0,0.3870967741935484
-Female,47,IT,Developer,5,Canada,121204,34,24,Monday,13,22,,2013,14,-0.8,True,False,False,False,False,8596.028368794327,13,-0.4,0.2978723404255319
-Other,56,Sales,Account Manager,2,Germany,48764,7,14,Saturday,9,53,9.0,2023,5,6.27,False,False,False,False,False,9561.56862745098,3,7.635,0.08928571428571429
-Female,43,Sales,Sales Executive,5,UK,111995,10,7,Sunday,1,64,8.0,2022,5,6.83,False,False,False,False,False,21959.80392156863,4,7.415,0.11627906976744186
-Female,23,HR,HR Manager,1,France,146939,16,13,Wednesday,11,26,,2020,7,4.63,True,False,False,False,False,20695.6338028169,6,2.315,0.30434782608695654
-Male,38,Sales,Account Manager,2,India,131509,26,26,Friday,12,28,9.0,2024,3,0.47,False,False,False,False,False,42422.25806451613,2,4.735,0.07894736842105263
-Other,36,Support,Support Engineer,5,USA,49565,38,26,Sunday,12,10,8.0,2022,9,-1.93,False,False,False,False,False,5446.7032967032965,4,3.035,0.25
-Female,35,HR,HR Executive,5,France,85186,33,12,Sunday,5,79,,2022,10,1.4,True,False,False,False,False,8434.257425742575,4,0.7,0.2857142857142857
-Female,37,Marketing,SEO Analyst,3,UK,170101,12,26,Thursday,11,56,,2024,11,3.27,True,False,False,False,False,15324.414414414416,2,1.635,0.2972972972972973
-Female,42,Marketing,SEO Analyst,1,India,166547,29,25,Wednesday,7,7,,2021,6,0.03,True,False,False,False,False,27302.786885245903,5,0.015,0.14285714285714285
-Male,46,Marketing,Content Lead,5,USA,136830,0,12,Wednesday,4,30,,2021,4,8.0,True,False,False,False,False,33373.17073170732,5,4.0,0.08695652173913043
-Other,36,Marketing,Content Lead,2,USA,89473,15,20,Tuesday,3,5,,2016,13,3.67,True,False,False,False,False,6830.0,10,1.835,0.3611111111111111
-Female,28,Finance,Auditor,3,UK,80131,28,19,Thursday,2,29,,2023,2,1.23,True,False,False,False,False,38157.619047619046,3,0.615,0.07142857142857142
-Female,36,IT,Tester,4,India,60436,27,29,Thursday,15,57,,2023,8,-0.23,True,False,False,False,False,7461.234567901235,3,-0.115,0.2222222222222222
-Female,42,HR,HR Executive,5,India,167857,3,23,Thursday,4,48,,2024,4,5.57,True,False,False,False,False,40940.73170731708,2,2.785,0.09523809523809523
-Female,33,Finance,Auditor,2,Canada,153228,30,13,Wednesday,8,14,,2021,4,1.83,True,False,False,False,False,37372.68292682927,5,0.915,0.12121212121212122
-Male,47,Finance,Accountant,5,India,109066,22,1,Friday,5,30,,2021,4,5.43,True,False,False,False,False,26601.46341463415,5,2.715,0.0851063829787234
-Male,55,HR,HR Manager,1,France,136921,33,13,Tuesday,1,67,,2021,9,1.23,True,False,False,False,False,15046.263736263736,5,0.615,0.16363636363636364
-Male,32,HR,HR Executive,2,India,99855,9,16,Thursday,3,40,,2021,4,5.53,True,False,False,False,False,24354.87804878049,5,2.765,0.125
-Male,36,IT,Developer,4,France,40969,34,21,Friday,15,53,,2013,15,-0.3,True,False,False,False,False,2713.17880794702,13,-0.15,0.4166666666666667
-Other,21,Sales,Sales Executive,1,Germany,88812,7,19,Sunday,3,40,9.0,2018,10,5.43,False,False,False,False,False,8793.267326732674,8,7.215,0.47619047619047616
-Female,33,Marketing,Content Lead,2,France,96146,10,11,Saturday,6,38,,2023,13,6.17,True,False,False,False,False,7339.3893129770995,3,3.085,0.3939393939393939
-Male,33,HR,HR Manager,5,USA,76013,11,3,Friday,4,51,,2015,10,7.3,True,False,False,False,False,7526.039603960397,11,3.65,0.30303030303030304
-Male,53,Support,Helpdesk,2,France,86146,31,7,Sunday,7,5,3.0,2024,7,2.63,False,False,False,False,False,12133.239436619719,2,2.815,0.1320754716981132
-Female,36,IT,Tester,1,Canada,133790,2,26,Saturday,10,74,,2023,5,5.27,True,False,False,False,False,26233.333333333336,3,2.635,0.1388888888888889
-Female,47,Support,Helpdesk,2,USA,82116,17,15,Wednesday,3,21,6.0,2020,5,4.1,False,False,False,False,False,16101.176470588236,6,5.05,0.10638297872340426
-Female,36,Sales,Account Manager,2,Canada,174515,6,6,Friday,2,55,1.0,2022,5,7.8,False,False,False,False,False,34218.62745098039,4,4.4,0.1388888888888889
-Female,51,IT,Tester,2,USA,32394,38,9,Saturday,6,9,,2014,11,0.9,True,False,False,False,False,2918.3783783783783,12,0.45,0.21568627450980393
-Other,28,HR,HR Executive,2,Canada,167537,5,14,Monday,12,43,,2021,10,6.67,True,False,False,False,False,16587.82178217822,5,3.335,0.35714285714285715
-Male,55,IT,Engineer,3,USA,172995,23,3,Friday,2,55,,2018,14,4.9,True,False,False,False,False,12269.148936170213,8,2.45,0.2545454545454545
-Male,32,HR,HR Executive,1,France,92794,4,22,Monday,5,17,,2022,12,5.53,True,False,False,False,False,7668.925619834711,4,2.765,0.375
-Other,48,HR,HR Manager,2,France,137935,35,17,Sunday,8,66,,2024,3,0.17,True,False,False,False,False,44495.161290322576,2,0.085,0.0625
-Female,44,Marketing,SEO Analyst,2,Canada,115462,19,16,Wednesday,13,78,,2021,7,3.53,True,False,False,False,False,16262.253521126762,5,1.765,0.1590909090909091
-Other,27,Support,Helpdesk,3,India,87597,5,14,Friday,1,30,6.0,2019,8,6.67,False,False,False,False,False,10814.444444444445,7,6.335,0.2962962962962963
-Female,58,Support,Helpdesk,3,UK,55055,26,3,Saturday,13,26,3.0,2024,5,4.3,False,False,False,False,False,10795.098039215687,2,3.65,0.08620689655172414
-Male,43,IT,Tester,1,France,137797,9,6,Thursday,10,17,,2018,13,7.2,True,False,False,False,False,10518.854961832061,8,3.6,0.3023255813953488
-Female,43,Sales,Sales Executive,1,France,53127,30,18,Monday,15,7,3.0,2024,12,1.0,False,False,False,False,False,4390.661157024793,2,2.0,0.27906976744186046
-Male,34,Support,Helpdesk,4,UK,140036,27,16,Sunday,5,80,3.0,2023,8,1.93,False,False,False,False,False,17288.395061728395,3,2.465,0.23529411764705882
-Other,40,Finance,Accountant,4,France,124811,15,6,Monday,9,75,,2018,14,6.0,True,False,False,False,False,8851.843971631206,8,3.0,0.35
-Other,39,IT,Developer,5,Canada,155312,25,4,Tuesday,12,10,,2024,5,4.33,True,False,False,False,False,30453.333333333336,2,2.165,0.1282051282051282
-Male,49,Sales,Account Manager,3,Canada,105484,32,30,Friday,4,10,7.0,2023,3,-1.4,False,False,False,False,False,34027.096774193546,3,2.8,0.061224489795918366
-Female,25,HR,HR Executive,1,India,104217,10,0,Sunday,11,24,,2024,2,8.0,True,False,False,False,False,49627.142857142855,2,4.0,0.08
-Male,46,Finance,Accountant,1,France,167454,15,5,Monday,10,67,,2024,4,6.17,True,False,False,False,False,40842.439024390245,2,3.085,0.08695652173913043
-Other,33,IT,Developer,5,Germany,68529,40,0,Friday,10,69,,2021,9,2.0,True,False,False,False,False,7530.659340659341,5,1.0,0.2727272727272727
-Female,31,Finance,Auditor,4,USA,53142,28,1,Tuesday,5,48,,2018,15,4.23,True,False,False,False,False,3519.337748344371,8,2.115,0.4838709677419355
-Male,58,Finance,Accountant,5,Canada,40979,18,25,Tuesday,15,46,,2023,9,2.23,True,False,False,False,False,4503.186813186813,3,1.115,0.15517241379310345
-Female,46,Marketing,SEO Analyst,4,India,161498,23,3,Sunday,11,65,,2018,9,4.9,True,False,False,False,False,17747.032967032967,8,2.45,0.1956521739130435
-Female,21,IT,Engineer,4,USA,147713,23,24,Monday,13,43,,2020,14,1.4,True,False,False,False,False,10476.099290780143,6,0.7,0.6666666666666666
-Other,22,Sales,Sales Executive,1,France,93080,30,15,Thursday,10,66,8.0,2024,2,1.5,False,False,False,False,False,44323.80952380952,2,4.75,0.09090909090909091
-Male,56,Sales,Sales Executive,1,Canada,129210,39,8,Monday,8,31,5.0,2015,14,0.87,False,False,False,False,False,9163.829787234043,11,2.935,0.25
-Other,51,Support,Support Engineer,1,Germany,37689,15,3,Friday,4,19,8.0,2024,13,6.5,False,False,False,False,False,2877.022900763359,2,7.25,0.2549019607843137
-Female,30,Marketing,SEO Analyst,5,France,173685,20,23,Tuesday,6,37,,2013,14,2.17,True,False,False,False,False,12318.08510638298,13,1.085,0.4666666666666667
-Female,46,IT,Tester,4,USA,68482,3,0,Saturday,1,24,,2020,11,9.4,True,False,False,False,False,6169.54954954955,6,4.7,0.2391304347826087
-Male,37,Support,Support Engineer,1,India,51630,11,28,Friday,2,6,3.0,2023,7,3.13,False,False,False,False,False,7271.830985915493,3,3.065,0.1891891891891892
-Male,31,IT,Engineer,2,India,41134,31,0,Sunday,2,19,,2024,2,3.8,True,False,False,False,False,19587.619047619046,2,1.9,0.06451612903225806
-Male,22,Sales,Sales Executive,5,UK,46137,29,25,Wednesday,11,50,4.0,2021,4,0.03,False,False,False,False,False,11252.926829268294,5,2.015,0.18181818181818182
-Female,54,HR,HR Manager,5,India,38595,12,1,Thursday,14,8,,2017,9,7.43,True,False,False,False,False,4241.208791208792,9,3.715,0.16666666666666666
-Male,52,Sales,Sales Executive,3,France,175777,26,23,Tuesday,6,80,4.0,2014,14,0.97,False,False,False,False,False,12466.45390070922,12,2.485,0.2692307692307692
-Other,32,Sales,Account Manager,4,India,102650,3,2,Monday,13,30,1.0,2020,7,9.07,False,False,False,False,False,14457.74647887324,6,5.035,0.21875
-Female,51,Marketing,Content Lead,1,Canada,107276,13,0,Tuesday,15,6,,2015,13,7.4,True,False,False,False,False,8189.007633587787,11,3.7,0.2549019607843137
-Other,22,Support,Support Engineer,3,India,131037,19,9,Saturday,10,35,9.0,2021,7,4.7,False,False,False,False,False,18455.91549295775,5,6.85,0.3181818181818182
-Female,21,Sales,Account Manager,1,India,131917,20,16,Tuesday,15,70,5.0,2024,5,3.33,False,False,False,False,False,25866.078431372553,2,4.165,0.23809523809523808
-Other,60,Marketing,Content Lead,3,UK,133093,37,8,Thursday,13,50,,2019,12,1.27,True,False,False,False,False,10999.421487603306,7,0.635,0.2
-Female,48,IT,Tester,5,India,72367,25,0,Tuesday,10,60,,2023,2,5.0,True,False,False,False,False,34460.47619047619,3,2.5,0.041666666666666664
-Male,25,Support,Helpdesk,2,Germany,32438,18,29,Tuesday,7,48,9.0,2021,10,1.57,False,False,False,False,False,3211.6831683168316,5,5.285,0.4
-Male,49,Finance,Accountant,1,India,59217,4,22,Monday,13,63,,2023,2,5.53,True,False,False,False,False,28198.571428571428,3,2.765,0.04081632653061224
-Other,59,Sales,Account Manager,1,Germany,175726,35,16,Wednesday,13,70,8.0,2024,12,0.33,False,False,False,False,False,14522.809917355373,2,4.165,0.2033898305084746
-Female,41,Marketing,SEO Analyst,3,France,32496,15,15,Thursday,12,44,,2014,12,4.5,True,False,False,False,False,2685.619834710744,12,2.25,0.2926829268292683
-Female,27,IT,Engineer,4,UK,30860,15,29,Thursday,6,16,,2021,9,2.17,True,False,False,False,False,3391.2087912087914,5,1.085,0.3333333333333333
-Female,48,Sales,Sales Executive,5,India,84698,34,4,Sunday,10,57,4.0,2024,7,2.53,False,False,False,False,False,11929.295774647888,2,3.2649999999999997,0.14583333333333334
-Male,39,Sales,Sales Executive,5,USA,41440,6,7,Saturday,6,55,2.0,2023,3,7.63,False,False,False,False,False,13367.741935483871,3,4.8149999999999995,0.07692307692307693
-Other,41,Finance,Accountant,1,France,69711,22,4,Friday,9,41,,2019,6,4.93,True,False,False,False,False,11428.032786885247,7,2.465,0.14634146341463414
-Other,60,IT,Developer,1,France,112591,32,24,Wednesday,2,57,,2021,12,-0.4,True,False,False,False,False,9305.04132231405,5,-0.2,0.2
-Male,41,Marketing,SEO Analyst,5,Canada,63692,38,21,Thursday,15,60,,2021,4,-1.1,True,False,False,False,False,15534.634146341465,5,-0.55,0.0975609756097561
-Female,47,Sales,Account Manager,5,UK,34950,30,13,Tuesday,13,73,1.0,2017,11,1.83,False,False,False,False,False,3148.6486486486488,9,1.415,0.23404255319148937
-Male,55,IT,Developer,1,India,162717,10,30,Friday,6,68,,2022,12,3.0,True,False,False,False,False,13447.685950413224,4,1.5,0.21818181818181817
-Male,49,IT,Tester,4,Canada,104563,20,24,Friday,5,20,,2014,14,2.0,True,False,False,False,False,7415.815602836879,12,1.0,0.2857142857142857
-Male,29,Sales,Sales Executive,2,France,83355,31,13,Sunday,7,80,1.0,2024,2,1.63,False,False,False,False,False,39692.85714285714,2,1.315,0.06896551724137931
-Female,43,IT,Tester,2,USA,98962,2,21,Friday,7,16,,2024,11,6.1,True,False,False,False,False,8915.495495495496,2,3.05,0.2558139534883721
-Male,37,Support,Support Engineer,3,France,53289,22,11,Sunday,2,17,4.0,2022,4,3.77,False,False,False,False,False,12997.317073170732,4,3.885,0.10810810810810811
-Male,29,HR,HR Manager,4,UK,67267,38,2,Wednesday,6,45,,2019,8,2.07,True,False,False,False,False,8304.567901234568,7,1.035,0.27586206896551724
-Male,23,Marketing,Content Lead,4,UK,64955,8,5,Thursday,3,35,,2021,10,7.57,True,False,False,False,False,6431.188118811881,5,3.785,0.43478260869565216
-Other,47,Marketing,SEO Analyst,3,USA,32693,37,12,Friday,3,52,,2024,2,0.6,True,False,False,False,False,15568.095238095237,2,0.3,0.0425531914893617
-Other,48,Support,Support Engineer,1,USA,168715,9,10,Thursday,11,9,2.0,2011,15,6.53,False,False,False,False,False,11173.17880794702,15,4.265000000000001,0.3125
-Other,60,Finance,Auditor,5,Canada,69898,37,29,Sunday,6,41,,2022,5,-2.23,True,False,False,False,False,13705.490196078432,4,-1.115,0.08333333333333333
-Female,44,Finance,Auditor,4,Canada,76888,22,2,Friday,15,72,,2022,13,5.27,True,False,False,False,False,5869.312977099236,4,2.635,0.29545454545454547
-Female,23,IT,Engineer,4,Canada,77513,11,22,Wednesday,11,17,,2024,5,4.13,True,False,False,False,False,15198.627450980393,2,2.065,0.21739130434782608
-Female,31,Finance,Auditor,2,Canada,144517,40,29,Thursday,13,73,,2022,4,-2.83,True,False,False,False,False,35248.04878048781,4,-1.415,0.12903225806451613
-Male,56,Finance,Auditor,3,UK,125280,19,1,Wednesday,15,62,,2020,9,6.03,True,False,False,False,False,13767.032967032968,6,3.015,0.16071428571428573
-Other,42,Sales,Account Manager,5,Canada,127848,26,25,Saturday,10,7,1.0,2023,2,0.63,False,False,False,False,False,60880.0,3,0.815,0.047619047619047616
-Female,42,Marketing,Content Lead,5,France,41729,7,7,Tuesday,8,9,,2023,3,7.43,True,False,False,False,False,13460.967741935483,3,3.715,0.07142857142857142
-Female,60,Sales,Account Manager,2,Germany,115766,31,11,Friday,13,76,6.0,2020,5,1.97,False,False,False,False,False,22699.21568627451,6,3.985,0.08333333333333333
-Male,45,Finance,Auditor,5,Canada,123401,22,17,Sunday,5,44,,2022,8,2.77,True,False,False,False,False,15234.691358024693,4,1.385,0.17777777777777778
-Female,60,Marketing,Content Lead,1,India,155850,0,13,Sunday,13,72,,2023,6,7.83,True,False,False,False,False,25549.180327868853,3,3.915,0.1
-Female,33,Sales,Account Manager,3,India,127997,39,3,Sunday,1,55,7.0,2022,4,1.7,False,False,False,False,False,31218.78048780488,4,4.35,0.12121212121212122
-Male,27,Marketing,Content Lead,5,UK,156714,2,23,Tuesday,10,64,,2018,9,5.77,True,False,False,False,False,17221.31868131868,8,2.885,0.3333333333333333
-Other,58,Marketing,SEO Analyst,1,India,149436,17,15,Tuesday,12,6,,2016,15,4.1,True,False,False,False,False,9896.423841059603,10,2.05,0.25862068965517243
-Male,30,Sales,Account Manager,3,India,36058,26,6,Sunday,13,76,5.0,2023,3,3.8,False,False,False,False,False,11631.612903225807,3,4.4,0.1
-Other,46,Finance,Accountant,4,UK,159792,8,0,Thursday,8,50,,2022,3,8.4,True,False,False,False,False,51545.8064516129,4,4.2,0.06521739130434782
-Female,47,Sales,Account Manager,3,Germany,74415,25,27,Sunday,3,29,5.0,2020,5,0.5,False,False,False,False,False,14591.176470588236,6,2.75,0.10638297872340426
-Other,33,Finance,Auditor,2,Canada,43491,2,10,Sunday,8,79,,2024,8,7.93,True,False,False,False,False,5369.259259259259,2,3.965,0.24242424242424243
-Male,29,Sales,Sales Executive,4,Germany,46600,29,7,Thursday,4,53,10.0,2017,15,3.03,False,False,False,False,False,3086.092715231788,9,6.515,0.5172413793103449
-Female,40,IT,Developer,3,India,57166,4,4,Thursday,15,72,,2016,10,8.53,True,False,False,False,False,5660.0,10,4.265,0.25
-Male,40,Support,Support Engineer,5,Germany,159746,2,1,Saturday,13,19,3.0,2022,3,9.43,False,False,False,False,False,51530.967741935485,4,6.215,0.075
-Female,53,Sales,Sales Executive,4,France,175837,27,18,Tuesday,8,31,3.0,2022,4,1.6,False,False,False,False,False,42887.07317073171,4,2.3,0.07547169811320754
-Female,52,Support,Support Engineer,1,France,80388,19,23,Tuesday,2,11,4.0,2023,8,2.37,False,False,False,False,False,9924.444444444445,3,3.185,0.15384615384615385
-Other,52,Support,Support Engineer,5,UK,171878,17,29,Monday,7,26,4.0,2016,9,1.77,False,False,False,False,False,18887.69230769231,10,2.885,0.17307692307692307
-Male,59,Marketing,SEO Analyst,4,USA,85221,17,15,Wednesday,8,61,,2022,4,4.1,True,False,False,False,False,20785.60975609756,4,2.05,0.06779661016949153
-Other,48,HR,HR Executive,1,France,59266,16,6,Thursday,15,60,,2021,5,5.8,True,False,False,False,False,11620.784313725491,5,2.9,0.10416666666666667
-Other,37,Marketing,SEO Analyst,2,Germany,169877,7,0,Wednesday,2,5,,2023,2,8.6,True,False,False,False,False,80893.80952380953,3,4.3,0.05405405405405406
-Female,55,Marketing,SEO Analyst,3,France,78917,28,20,Tuesday,8,17,,2018,9,1.07,True,False,False,False,False,8672.197802197803,8,0.535,0.16363636363636364
-Male,54,Sales,Sales Executive,1,France,135185,36,2,Thursday,3,24,5.0,2023,3,2.47,False,False,False,False,False,43608.06451612903,3,3.7350000000000003,0.05555555555555555
-Female,25,Sales,Sales Executive,4,India,110287,12,26,Thursday,11,43,9.0,2017,14,3.27,False,False,False,False,False,7821.7730496453905,9,6.135,0.56
-Other,27,Support,Helpdesk,2,Germany,50125,27,1,Friday,10,45,4.0,2017,11,4.43,False,False,False,False,False,4515.7657657657655,9,4.215,0.4074074074074074
-Female,25,HR,HR Manager,3,India,110690,7,17,Wednesday,11,43,,2017,9,5.77,True,False,False,False,False,12163.736263736264,9,2.885,0.36
-Other,49,IT,Tester,1,UK,47150,5,18,Sunday,15,66,,2021,4,6.0,True,False,False,False,False,11500.000000000002,5,3.0,0.08163265306122448
-Female,34,Sales,Account Manager,5,Canada,121514,22,2,Monday,9,22,9.0,2019,12,5.27,False,False,False,False,False,10042.479338842975,7,7.135,0.35294117647058826
-Female,30,Support,Helpdesk,5,France,179581,24,13,Friday,15,47,2.0,2024,14,3.03,False,False,False,False,False,12736.241134751774,2,2.5149999999999997,0.4666666666666667
-Female,29,Sales,Sales Executive,1,Canada,161650,31,27,Friday,7,70,10.0,2020,9,-0.7,False,False,False,False,False,17763.736263736264,6,4.65,0.3103448275862069
-Male,58,IT,Tester,5,India,94497,33,29,Tuesday,15,42,,2022,5,-1.43,True,False,False,False,False,18528.823529411766,4,-0.715,0.08620689655172414
-Female,57,Finance,Accountant,3,France,42163,5,1,Thursday,9,48,,2022,3,8.83,True,False,False,False,False,13600.967741935483,4,4.415,0.05263157894736842
-Male,60,IT,Developer,4,USA,46869,23,15,Thursday,12,71,,2022,5,2.9,True,False,False,False,False,9190.0,4,1.45,0.08333333333333333
-Female,45,Support,Helpdesk,5,India,77555,40,13,Sunday,12,38,10.0,2020,9,-0.17,False,False,False,False,False,8522.527472527472,6,4.915,0.2
-Male,34,Support,Support Engineer,2,India,33685,33,17,Tuesday,7,20,6.0,2023,2,0.57,False,False,False,False,False,16040.476190476189,3,3.285,0.058823529411764705
-Male,53,IT,Engineer,4,Germany,152409,3,25,Sunday,4,57,,2023,3,5.23,True,False,False,False,False,49164.1935483871,3,2.615,0.05660377358490566
-Other,43,IT,Engineer,4,UK,110233,4,19,Thursday,10,30,,2022,4,6.03,True,False,False,False,False,26886.097560975613,4,3.015,0.09302325581395349
-Female,43,IT,Developer,3,Germany,111332,13,8,Wednesday,8,75,,2021,4,6.07,True,False,False,False,False,27154.146341463416,5,3.035,0.09302325581395349
-Male,46,Marketing,Content Lead,5,UK,141468,24,26,Friday,3,73,,2023,3,0.87,True,False,False,False,False,45634.83870967742,3,0.435,0.06521739130434782
-Male,48,Support,Helpdesk,4,UK,88349,32,15,Friday,5,27,6.0,2019,7,1.1,False,False,False,False,False,12443.521126760565,7,3.55,0.14583333333333334
-Female,47,HR,HR Executive,3,France,119643,1,19,Saturday,5,54,,2016,11,6.63,True,False,False,False,False,10778.648648648648,10,3.315,0.23404255319148937
-Other,32,Sales,Account Manager,1,Canada,161632,1,23,Thursday,14,79,8.0,2023,3,5.97,False,False,False,False,False,52139.354838709674,3,6.984999999999999,0.09375
-Male,34,Marketing,SEO Analyst,4,India,53266,13,28,Friday,3,19,,2024,2,2.73,True,False,False,False,False,25364.761904761905,2,1.365,0.058823529411764705
-Other,60,Finance,Accountant,4,USA,67827,23,29,Monday,11,38,,2015,15,0.57,True,False,False,False,False,4491.854304635762,11,0.285,0.25
-Female,27,Support,Support Engineer,2,France,116235,17,10,Monday,3,22,2.0,2021,4,4.93,False,False,False,False,False,28350.000000000004,5,3.465,0.14814814814814814
-Female,58,Finance,Accountant,2,Canada,35093,5,17,Friday,1,20,,2018,13,6.17,True,False,False,False,False,2678.8549618320612,8,3.085,0.22413793103448276
-Female,60,Sales,Account Manager,3,UK,155870,6,19,Saturday,3,24,4.0,2016,14,5.63,False,False,False,False,False,11054.609929078015,10,4.8149999999999995,0.23333333333333334
-Other,32,Support,Helpdesk,3,UK,140627,34,18,Monday,12,23,10.0,2024,2,0.2,False,False,False,False,False,66965.23809523809,2,5.1,0.0625
-Female,28,IT,Developer,5,France,93057,15,3,Wednesday,3,52,,2024,2,6.5,True,False,False,False,False,44312.85714285714,2,3.25,0.07142857142857142
-Female,25,Finance,Auditor,2,India,107898,8,14,Wednesday,12,74,,2017,11,6.07,True,False,False,False,False,9720.54054054054,9,3.035,0.44
-Male,59,HR,HR Executive,3,USA,169457,34,18,Thursday,13,51,,2019,9,0.2,True,False,False,False,False,18621.648351648353,7,0.1,0.15254237288135594
-Female,40,Finance,Auditor,3,UK,173633,38,3,Saturday,6,37,,2021,5,1.9,True,False,False,False,False,34045.686274509804,5,0.95,0.125
-Male,60,HR,HR Executive,4,UK,92312,39,17,Friday,1,20,,2013,14,-0.63,True,False,False,False,False,6546.9503546099295,13,-0.315,0.23333333333333334
-Female,22,HR,HR Manager,2,Canada,35152,11,0,Tuesday,5,30,,2024,8,7.8,True,False,False,False,False,4339.753086419753,2,3.9,0.36363636363636365
-Male,37,Finance,Accountant,4,Germany,162437,37,12,Monday,10,20,,2023,5,0.6,True,False,False,False,False,31850.39215686275,3,0.3,0.13513513513513514
-Other,44,IT,Engineer,4,Germany,129971,38,17,Sunday,7,43,,2019,13,-0.43,True,False,False,False,False,9921.45038167939,7,-0.215,0.29545454545454547
-Male,54,Finance,Auditor,3,India,175948,40,17,Friday,13,39,,2023,9,-0.83,True,False,False,False,False,19334.945054945056,3,-0.415,0.16666666666666666
-Male,35,Sales,Account Manager,4,France,162702,12,14,Saturday,2,25,4.0,2024,4,5.27,False,False,False,False,False,39683.41463414634,2,4.635,0.11428571428571428
-Male,24,HR,HR Manager,3,UK,76735,12,25,Friday,14,9,,2022,5,3.43,True,False,False,False,False,15046.07843137255,4,1.715,0.20833333333333334
-Other,49,Sales,Sales Executive,3,USA,64651,17,4,Thursday,12,22,6.0,2022,14,5.93,False,False,False,False,False,4585.177304964539,4,5.965,0.2857142857142857
-Other,55,Marketing,Content Lead,5,UK,94382,2,3,Sunday,5,67,,2011,15,9.1,True,False,False,False,False,6250.463576158941,15,4.55,0.2727272727272727
-Other,56,IT,Tester,3,France,140237,21,1,Wednesday,3,61,,2021,5,5.63,True,False,False,False,False,27497.450980392157,5,2.815,0.08928571428571429
-Other,51,Support,Helpdesk,4,France,77476,9,6,Sunday,3,14,3.0,2012,14,7.2,False,False,False,False,False,5494.751773049646,14,5.1,0.27450980392156865
-Female,21,IT,Developer,4,Germany,36213,5,25,Saturday,8,79,,2023,2,4.83,True,False,False,False,False,17244.285714285714,3,2.415,0.09523809523809523
-Other,43,Support,Support Engineer,1,France,60868,33,6,Wednesday,9,26,6.0,2018,8,2.4,False,False,False,False,False,7514.567901234568,8,4.2,0.18604651162790697
-Other,52,IT,Tester,4,Germany,42425,39,19,Monday,8,52,,2024,6,-0.97,True,False,False,False,False,6954.918032786885,2,-0.485,0.11538461538461539
-Other,31,Sales,Sales Executive,1,Germany,171672,7,14,Wednesday,2,35,9.0,2022,4,6.27,False,False,False,False,False,41871.21951219512,4,7.635,0.12903225806451613
-Female,47,Sales,Sales Executive,5,Germany,64927,37,15,Thursday,4,73,3.0,2019,7,0.1,False,False,False,False,False,9144.647887323945,7,1.55,0.14893617021276595
-Female,59,Sales,Sales Executive,2,USA,51461,19,20,Monday,13,79,10.0,2023,7,2.87,False,False,False,False,False,7248.028169014085,3,6.4350000000000005,0.11864406779661017
-Male,33,IT,Developer,3,India,31689,5,11,Tuesday,9,45,,2023,11,7.17,True,False,False,False,False,2854.864864864865,3,3.585,0.3333333333333333
-Other,39,Finance,Auditor,4,UK,151142,29,14,Saturday,5,71,,2018,15,1.87,True,False,False,False,False,10009.403973509934,8,0.935,0.38461538461538464
-Male,47,Finance,Accountant,1,France,44069,22,7,Tuesday,5,24,,2015,15,4.43,True,False,False,False,False,2918.476821192053,11,2.215,0.3191489361702128
-Other,57,HR,HR Manager,2,UK,178046,30,2,Saturday,6,70,,2021,7,3.67,True,False,False,False,False,25076.901408450707,5,1.835,0.12280701754385964
-Female,51,Sales,Account Manager,4,Canada,109973,1,18,Friday,8,51,5.0,2023,4,6.8,False,False,False,False,False,26822.68292682927,3,5.9,0.0784313725490196
-Male,34,Marketing,SEO Analyst,5,India,56917,16,5,Saturday,9,66,,2024,3,5.97,True,False,False,False,False,18360.32258064516,2,2.985,0.08823529411764706
-Other,59,IT,Tester,5,France,89449,14,0,Sunday,6,57,,2021,10,7.2,True,False,False,False,False,8856.336633663366,5,3.6,0.1694915254237288
-Female,53,HR,HR Manager,2,UK,152708,23,23,Friday,12,16,,2021,6,1.57,True,False,False,False,False,25034.09836065574,5,0.785,0.11320754716981132
-Male,38,IT,Developer,4,Canada,56333,20,10,Sunday,6,25,,2023,4,4.33,True,False,False,False,False,13739.756097560978,3,2.165,0.10526315789473684
-Other,25,IT,Developer,3,Canada,127673,2,16,Monday,8,53,,2014,12,6.93,True,False,False,False,False,10551.487603305786,12,3.465,0.48
-Other,47,Finance,Auditor,5,Canada,107623,6,9,Saturday,1,37,,2019,6,7.3,True,False,False,False,False,17643.114754098362,7,3.65,0.1276595744680851
-Male,44,Finance,Accountant,1,India,90850,23,14,Saturday,1,64,,2024,4,3.07,True,False,False,False,False,22158.536585365855,2,1.535,0.09090909090909091
-Other,52,Sales,Account Manager,5,India,138568,25,3,Friday,9,28,10.0,2023,7,4.5,False,False,False,False,False,19516.61971830986,3,7.25,0.1346153846153846
-Male,40,Marketing,Content Lead,1,India,77261,7,27,Friday,5,42,,2020,8,4.1,True,False,False,False,False,9538.395061728395,6,2.05,0.2
+Age,MonthlySalary,OvertimeHoursPerMonth,LeavesTaken,ProjectsHandled,TrainingHours,CustomerSatisfaction,YearsAtCompany,WorkLifeBalanceScore,PerformanceRating,Income_per_year,Gap_since_promotion,Satisfaction_score,Experience_ratio,Gender,Department,JobRole,EducationLevel,Country
+57,93531.0,33,9,13,16,,9,1.9,4,1122372.0,6,,0.15789473684210525,Other,Finance,Auditor,2,India
+26,53706.0,24,1,15,44,8.0,11,5.03,1,644472.0,12,6.515000000000001,0.4230769230769231,Female,Sales,Sales Executive,2,Canada
+59,105756.0,20,7,7,62,7.0,15,4.83,4,1269072.0,14,5.915,0.2542372881355932,Other,Support,Helpdesk,1,Canada
+43,176377.0,22,6,15,8,,10,4.6,4,2116524.0,10,,0.23255813953488372,Female,HR,HR Executive,3,Germany
+52,154782.0,18,16,10,57,8.0,6,3.73,4,1857384.0,4,5.865,0.11538461538461539,Male,Sales,Account Manager,3,Germany
+33,58647.0,34,5,6,5,6.0,7,2.37,3,703764.0,6,4.1850000000000005,0.21212121212121213,Other,Support,Helpdesk,2,Canada
+55,70273.0,1,20,8,66,,7,6.47,1,843276.0,2,,0.12727272727272726,Male,IT,Engineer,2,France
+51,178909.0,33,22,3,78,,9,-0.27,3,2146908.0,7,,0.17647058823529413,Female,HR,HR Executive,5,Germany
+32,51014.0,40,11,6,10,,15,0.17,3,612168.0,3,,0.46875,Male,HR,HR Executive,2,USA
+54,63726.0,21,19,1,25,,14,2.63,2,764712.0,2,,0.25925925925925924,Female,Finance,Accountant,3,Canada
+52,64215.0,2,13,6,21,,10,7.43,3,770580.0,5,,0.19230769230769232,Other,HR,HR Executive,4,USA
+55,76960.0,14,2,11,56,6.0,14,6.87,5,923520.0,9,6.4350000000000005,0.2545454545454545,Male,Support,Helpdesk,5,India
+47,151391.0,8,20,12,7,,5,5.07,4,1816692.0,4,,0.10638297872340426,Male,Finance,Accountant,3,USA
+50,170862.0,7,1,8,60,,13,8.43,4,2050344.0,4,,0.26,Female,HR,HR Manager,1,Canada
+26,161974.0,6,3,15,76,,7,8.3,3,1943688.0,2,,0.2692307692307692,Male,IT,Developer,3,Canada
+43,164012.0,1,19,10,10,,5,6.63,3,1968144.0,6,,0.11627906976744186,Female,Marketing,SEO Analyst,3,UK
+41,70403.0,10,14,6,42,9.0,11,5.67,3,844836.0,7,7.335,0.2682926829268293,Other,Support,Support Engineer,3,USA
+39,173689.0,21,11,3,76,,15,3.97,3,2084268.0,6,,0.38461538461538464,Female,IT,Tester,4,USA
+47,122403.0,9,17,4,20,9.0,15,5.37,1,1468836.0,11,7.1850000000000005,0.3191489361702128,Male,Support,Helpdesk,2,India
+23,65010.0,2,29,11,12,8.0,10,4.77,3,780120.0,11,6.385,0.43478260869565216,Other,Support,Support Engineer,1,Canada
+54,75646.0,20,7,4,50,8.0,2,4.83,3,907752.0,2,6.415,0.037037037037037035,Female,Support,Support Engineer,2,India
+60,130906.0,18,28,8,23,10.0,14,1.73,4,1570872.0,13,5.865,0.23333333333333334,Other,Sales,Sales Executive,1,Germany
+42,176048.0,19,17,3,34,,6,3.37,3,2112576.0,4,,0.14285714285714285,Male,IT,Tester,5,USA
+57,68060.0,31,30,12,15,,3,-1.2,2,816720.0,3,,0.05263157894736842,Female,IT,Tester,2,France
+59,62282.0,35,5,15,63,,5,2.17,4,747384.0,5,,0.0847457627118644,Other,Marketing,Content Lead,4,USA
+28,89567.0,29,13,15,65,,2,2.03,3,1074804.0,2,,0.07142857142857142,Other,Marketing,SEO Analyst,4,Canada
+33,82449.0,31,19,9,36,1.0,11,0.63,4,989388.0,12,0.815,0.3333333333333333,Other,Sales,Sales Executive,4,UK
+52,41883.0,20,11,1,28,,4,4.17,2,502596.0,4,,0.07692307692307693,Female,Marketing,Content Lead,4,India
+46,74577.0,37,11,6,73,,15,0.77,3,894924.0,14,,0.32608695652173914,Male,Finance,Accountant,1,USA
+23,104549.0,38,30,6,80,4.0,12,-2.6,4,1254588.0,4,0.7,0.5217391304347826,Male,Support,Support Engineer,2,UK
+60,74638.0,39,4,7,12,,4,1.53,4,895656.0,2,,0.06666666666666667,Other,IT,Developer,5,UK
+50,103189.0,8,18,4,44,,5,5.4,3,1238268.0,3,,0.1,Male,Marketing,Content Lead,5,Canada
+43,41254.0,9,23,13,33,,12,4.37,1,495048.0,6,,0.27906976744186046,Male,IT,Tester,2,India
+33,152027.0,24,2,11,7,,8,4.87,3,1824324.0,8,,0.24242424242424243,Male,IT,Engineer,4,Germany
+27,109614.0,21,0,5,56,,4,5.8,4,1315368.0,5,,0.14814814814814814,Male,Marketing,SEO Analyst,5,Canada
+32,38475.0,25,24,7,79,,7,1.0,3,461700.0,2,,0.21875,Male,Finance,Auditor,4,UK
+43,72671.0,32,16,5,80,,6,0.93,3,872052.0,3,,0.13953488372093023,Male,Marketing,Content Lead,2,Canada
+58,34306.0,28,14,8,61,,15,2.07,4,411672.0,3,,0.25862068965517243,Male,Finance,Accountant,4,Canada
+22,73324.0,21,30,10,36,,14,0.8,3,879888.0,3,,0.6363636363636364,Other,Finance,Auditor,1,UK
+39,163576.0,12,10,10,76,,13,5.93,3,1962912.0,10,,0.3333333333333333,Male,Finance,Auditor,3,USA
+22,49953.0,14,0,10,78,9.0,9,7.2,3,599436.0,7,8.1,0.4090909090909091,Male,Sales,Account Manager,2,USA
+41,108906.0,8,7,7,56,,6,7.23,3,1306872.0,2,,0.14634146341463414,Female,Marketing,Content Lead,2,Germany
+23,78457.0,7,24,6,62,,15,4.6,5,941484.0,4,,0.6521739130434783,Male,Marketing,Content Lead,5,Canada
+55,37533.0,22,30,4,61,,14,0.6,4,450396.0,11,,0.2545454545454545,Female,IT,Engineer,5,Canada
+33,171225.0,23,29,8,53,,7,0.57,4,2054700.0,2,,0.21212121212121213,Female,Finance,Accountant,5,UK
+21,101051.0,34,15,7,49,,9,0.7,1,1212612.0,7,,0.42857142857142855,Male,IT,Developer,3,India
+33,50654.0,38,30,1,26,7.0,7,-2.6,4,607848.0,8,2.2,0.21212121212121213,Other,Sales,Account Manager,2,France
+22,71622.0,27,26,12,20,8.0,7,0.27,4,859464.0,3,4.135,0.3181818181818182,Other,Sales,Sales Executive,5,UK
+23,132390.0,14,16,14,45,2.0,4,4.53,4,1588680.0,3,3.265,0.17391304347826086,Male,Support,Helpdesk,5,USA
+54,179351.0,40,23,14,18,,2,-1.83,3,2152212.0,3,,0.037037037037037035,Female,IT,Tester,5,UK
+57,50691.0,27,13,10,21,3.0,10,2.43,4,608292.0,4,2.715,0.17543859649122806,Female,Sales,Sales Executive,3,Canada
+52,163863.0,37,23,3,50,1.0,14,-1.23,4,1966356.0,10,-0.11499999999999999,0.2692307692307692,Other,Support,Support Engineer,2,Germany
+36,134280.0,2,3,14,35,,4,9.1,5,1611360.0,2,,0.1111111111111111,Male,Marketing,SEO Analyst,1,France
+52,38519.0,6,14,12,64,,14,6.47,2,462228.0,2,,0.2692307692307692,Female,Finance,Auditor,2,UK
+35,153394.0,34,12,12,5,,4,1.2,3,1840728.0,3,,0.11428571428571428,Female,Finance,Accountant,2,USA
+48,42964.0,1,13,5,22,,7,7.63,2,515568.0,8,,0.14583333333333334,Male,IT,Developer,1,UK
+30,52745.0,16,14,7,41,,6,4.47,1,632940.0,3,,0.2,Other,IT,Developer,3,France
+34,37431.0,4,8,2,60,9.0,13,7.87,3,449172.0,5,8.435,0.38235294117647056,Other,Support,Helpdesk,5,Canada
+22,124008.0,28,29,6,51,,3,-0.43,4,1488096.0,4,,0.13636363636363635,Male,Marketing,SEO Analyst,1,UK
+48,128442.0,18,1,10,36,,8,6.23,4,1541304.0,5,,0.16666666666666666,Male,HR,HR Executive,2,India
+57,137226.0,36,1,15,58,,10,2.63,2,1646712.0,5,,0.17543859649122806,Other,HR,HR Manager,3,USA
+48,150377.0,18,19,8,19,,5,3.23,4,1804524.0,4,,0.10416666666666667,Female,IT,Tester,5,France
+27,161874.0,2,7,11,53,,13,8.43,5,1942488.0,11,,0.48148148148148145,Female,HR,HR Manager,2,Canada
+32,39558.0,19,19,15,50,3.0,6,3.03,3,474696.0,4,3.0149999999999997,0.1875,Female,Support,Helpdesk,5,UK
+60,49620.0,29,4,5,76,4.0,12,3.53,3,595440.0,13,3.7649999999999997,0.2,Male,Sales,Account Manager,1,France
+34,86861.0,30,0,1,25,,4,4.0,3,1042332.0,2,,0.11764705882352941,Female,Marketing,Content Lead,3,Canada
+22,155851.0,1,30,12,44,1.0,2,4.8,4,1870212.0,2,2.9,0.09090909090909091,Female,Sales,Sales Executive,3,India
+21,72637.0,31,27,7,70,6.0,14,-0.7,2,871644.0,5,2.65,0.6666666666666666,Female,Sales,Sales Executive,1,UK
+26,151643.0,1,1,5,35,1.0,13,9.63,4,1819716.0,2,5.315,0.5,Female,Sales,Account Manager,1,UK
+37,155727.0,26,30,3,46,,10,-0.2,2,1868724.0,6,,0.2702702702702703,Female,Finance,Accountant,3,Canada
+55,71487.0,9,12,7,39,,7,6.2,5,857844.0,3,,0.12727272727272726,Female,HR,HR Executive,1,Canada
+23,169631.0,0,9,7,23,,14,8.5,4,2035572.0,14,,0.6086956521739131,Female,Marketing,Content Lead,3,Canada
+29,56935.0,36,29,6,50,,4,-2.03,4,683220.0,2,,0.13793103448275862,Male,IT,Developer,5,India
+32,68664.0,21,9,14,79,4.0,2,4.3,3,823968.0,3,4.15,0.0625,Female,Sales,Sales Executive,3,UK
+31,129732.0,29,2,11,58,,11,3.87,4,1556784.0,10,,0.3548387096774194,Other,IT,Developer,2,Germany
+21,36008.0,11,6,5,55,,11,6.8,2,432096.0,10,,0.5238095238095238,Female,HR,HR Manager,2,India
+25,163071.0,15,7,8,60,5.0,12,5.83,4,1956852.0,10,5.415,0.48,Other,Sales,Sales Executive,2,UK
+26,44713.0,21,27,2,48,5.0,3,1.3,3,536556.0,2,3.15,0.11538461538461539,Other,Sales,Sales Executive,1,Germany
+46,73718.0,10,4,9,34,,4,7.33,4,884616.0,4,,0.08695652173913043,Male,Marketing,Content Lead,3,USA
+47,142815.0,21,13,15,22,,11,3.63,2,1713780.0,3,,0.23404255319148937,Other,HR,HR Manager,4,India
+43,82938.0,18,17,7,16,4.0,11,3.57,4,995256.0,11,3.785,0.2558139534883721,Male,Support,Helpdesk,4,Canada
+22,32356.0,15,4,12,74,,5,6.33,2,388272.0,6,,0.22727272727272727,Female,IT,Engineer,3,UK
+28,150136.0,31,14,2,71,,5,1.47,4,1801632.0,3,,0.17857142857142858,Other,IT,Developer,5,Germany
+51,103550.0,13,23,9,53,,4,3.57,3,1242600.0,2,,0.0784313725490196,Female,Finance,Auditor,5,Canada
+31,145121.0,23,22,13,34,4.0,5,1.73,2,1741452.0,2,2.865,0.16129032258064516,Other,Sales,Sales Executive,3,Canada
+54,152976.0,8,19,9,45,4.0,8,5.23,3,1835712.0,2,4.615,0.14814814814814814,Male,Sales,Sales Executive,4,Germany
+44,43063.0,5,9,13,46,4.0,5,7.5,3,516756.0,4,5.75,0.11363636363636363,Male,Support,Support Engineer,4,France
+30,33987.0,21,16,9,57,,12,3.13,4,407844.0,12,,0.4,Male,Marketing,Content Lead,2,Canada
+44,145588.0,26,22,7,31,,11,1.13,3,1747056.0,6,,0.25,Female,Marketing,SEO Analyst,3,India
+32,43235.0,38,12,6,23,,2,0.4,3,518820.0,3,,0.0625,Other,Finance,Auditor,4,France
+60,56904.0,31,7,15,37,,4,2.63,3,682848.0,5,,0.06666666666666667,Other,IT,Tester,4,Germany
+26,62833.0,10,3,5,63,,2,7.5,5,753996.0,2,,0.07692307692307693,Female,Finance,Accountant,1,USA
+22,133108.0,16,2,11,47,5.0,4,6.47,3,1597296.0,4,5.734999999999999,0.18181818181818182,Other,Sales,Account Manager,5,France
+35,65954.0,17,22,3,41,5.0,5,2.93,3,791448.0,2,3.965,0.14285714285714285,Male,Support,Helpdesk,1,USA
+58,99805.0,6,23,15,6,10.0,7,4.97,4,1197660.0,6,7.484999999999999,0.1206896551724138,Female,Support,Support Engineer,4,India
+43,156104.0,2,0,12,20,,14,9.6,3,1873248.0,15,,0.32558139534883723,Female,Marketing,Content Lead,1,Canada
+34,115105.0,29,12,15,19,,3,2.2,3,1381260.0,4,,0.08823529411764706,Female,HR,HR Manager,4,France
+52,77462.0,22,18,14,65,,10,2.6,3,929544.0,5,,0.19230769230769232,Female,Marketing,Content Lead,5,France
+58,136059.0,1,18,12,69,,12,6.8,4,1632708.0,2,,0.20689655172413793,Female,HR,HR Executive,3,USA
+29,152981.0,14,9,15,9,7.0,6,5.7,3,1835772.0,7,6.35,0.20689655172413793,Male,Sales,Account Manager,5,India
+43,107081.0,31,29,15,80,,11,-1.03,3,1284972.0,12,,0.2558139534883721,Other,HR,HR Manager,2,USA
+30,172259.0,38,22,2,62,,14,-1.27,5,2067108.0,14,,0.4666666666666667,Female,HR,HR Executive,2,India
+51,50979.0,31,25,13,52,2.0,11,-0.37,4,611748.0,7,0.815,0.21568627450980393,Female,Sales,Account Manager,2,USA
+27,98130.0,12,20,10,19,7.0,9,4.27,4,1177560.0,6,5.635,0.3333333333333333,Female,Support,Support Engineer,5,Canada
+59,117953.0,34,7,15,8,,7,2.03,3,1415436.0,7,,0.11864406779661017,Other,Marketing,SEO Analyst,4,Canada
+31,149459.0,23,24,3,66,,7,1.4,2,1793508.0,6,,0.22580645161290322,Female,Finance,Accountant,4,USA
+33,68241.0,16,6,6,41,,13,5.8,5,818892.0,6,,0.3939393939393939,Other,IT,Developer,5,India
+51,47360.0,13,17,4,69,,7,4.57,4,568320.0,3,,0.13725490196078433,Female,HR,HR Executive,4,USA
+49,126122.0,5,20,13,67,5.0,7,5.67,4,1513464.0,8,5.335,0.14285714285714285,Other,Support,Support Engineer,5,USA
+33,77857.0,7,13,9,61,,13,6.43,4,934284.0,10,,0.3939393939393939,Other,IT,Developer,2,France
+53,50520.0,33,17,3,50,4.0,4,0.57,3,606240.0,5,2.285,0.07547169811320754,Male,Support,Helpdesk,4,Canada
+49,113247.0,34,9,4,30,,15,1.7,1,1358964.0,16,,0.30612244897959184,Male,IT,Engineer,2,Germany
+39,74074.0,17,30,7,45,,11,1.6,3,888888.0,12,,0.28205128205128205,Male,IT,Developer,5,Canada
+59,152599.0,27,5,7,64,2.0,2,3.77,4,1831188.0,3,2.885,0.03389830508474576,Male,Support,Helpdesk,2,Germany
+33,156093.0,0,1,6,37,4.0,3,9.83,3,1873116.0,4,6.915,0.09090909090909091,Male,Sales,Account Manager,5,Canada
+22,153900.0,16,3,2,8,7.0,15,6.3,3,1846800.0,4,6.65,0.6818181818181818,Other,Support,Helpdesk,4,Germany
+43,168316.0,29,1,14,74,,13,4.03,2,2019792.0,3,,0.3023255813953488,Other,Marketing,SEO Analyst,4,USA
+52,31840.0,29,30,4,59,,12,-0.8,2,382080.0,9,,0.23076923076923078,Female,HR,HR Executive,4,UK
+31,44728.0,6,7,4,33,,3,7.63,3,536736.0,3,,0.0967741935483871,Female,Finance,Auditor,3,France
+59,144337.0,30,28,2,6,1.0,15,-0.67,3,1732044.0,2,0.16499999999999998,0.2542372881355932,Other,Sales,Sales Executive,1,France
+45,78575.0,39,22,10,60,,12,-1.47,2,942900.0,4,,0.26666666666666666,Male,IT,Developer,3,USA
+59,121058.0,19,6,4,35,10.0,11,5.2,3,1452696.0,7,7.6,0.1864406779661017,Male,Support,Support Engineer,4,UK
+49,151344.0,12,22,15,51,,7,3.93,4,1816128.0,5,,0.14285714285714285,Female,Finance,Auditor,4,India
+44,67225.0,15,3,4,42,,3,6.5,3,806700.0,2,,0.06818181818181818,Female,IT,Engineer,5,USA
+22,172135.0,0,13,6,21,,10,7.83,4,2065620.0,3,,0.45454545454545453,Female,Finance,Accountant,2,USA
+60,91931.0,18,1,6,49,,8,6.23,3,1103172.0,3,,0.13333333333333333,Male,IT,Developer,2,Canada
+25,89066.0,4,5,7,73,5.0,14,8.37,3,1068792.0,11,6.685,0.56,Female,Sales,Sales Executive,1,Germany
+47,72561.0,22,19,14,66,,5,2.43,3,870732.0,2,,0.10638297872340426,Other,HR,HR Executive,2,Germany
+56,68809.0,29,17,13,12,1.0,8,1.37,4,825708.0,9,1.185,0.14285714285714285,Female,Support,Support Engineer,3,India
+35,93279.0,2,14,13,35,,7,7.27,5,1119348.0,4,,0.2,Female,IT,Tester,5,France
+27,55650.0,9,4,14,18,1.0,10,7.53,3,667800.0,7,4.265000000000001,0.37037037037037035,Female,Support,Helpdesk,3,USA
+59,74552.0,11,5,11,8,,7,6.97,5,894624.0,5,,0.11864406779661017,Other,HR,HR Executive,1,USA
+55,145869.0,22,5,3,29,,6,4.77,5,1750428.0,6,,0.10909090909090909,Other,Finance,Auditor,5,UK
+45,148129.0,9,19,14,8,,11,5.03,3,1777548.0,4,,0.24444444444444444,Male,HR,HR Manager,4,USA
+38,44652.0,9,18,12,50,,14,5.2,3,535824.0,14,,0.3684210526315789,Female,Marketing,Content Lead,3,USA
+39,178756.0,27,12,13,76,,2,2.6,5,2145072.0,2,,0.05128205128205128,Male,Marketing,SEO Analyst,2,UK
+56,110538.0,32,3,4,38,,9,3.1,3,1326456.0,8,,0.16071428571428573,Female,Finance,Auditor,5,USA
+40,39286.0,12,25,11,52,,12,3.43,4,471432.0,7,,0.3,Female,IT,Engineer,5,USA
+30,55595.0,4,13,6,36,,4,7.03,4,667140.0,5,,0.13333333333333333,Male,IT,Developer,4,France
+56,168010.0,32,17,14,65,1.0,3,0.77,5,2016120.0,4,0.885,0.05357142857142857,Other,Sales,Account Manager,5,India
+50,71526.0,24,7,3,10,,10,4.03,2,858312.0,4,,0.2,Other,IT,Tester,3,France
+23,152981.0,3,8,14,56,9.0,7,8.07,4,1835772.0,6,8.535,0.30434782608695654,Male,Sales,Account Manager,1,UK
+51,60483.0,16,23,8,38,6.0,6,2.97,3,725796.0,5,4.485,0.11764705882352941,Other,Support,Helpdesk,5,India
+53,37564.0,10,0,2,41,10.0,4,8.0,3,450768.0,5,9.0,0.07547169811320754,Other,Sales,Account Manager,2,Germany
+52,103473.0,11,0,5,80,5.0,4,7.8,3,1241676.0,3,6.4,0.07692307692307693,Male,Support,Support Engineer,2,USA
+43,98618.0,6,1,8,42,,14,8.63,3,1183416.0,5,,0.32558139534883723,Male,HR,HR Manager,5,UK
+28,69768.0,21,8,4,13,1.0,10,4.47,4,837216.0,7,2.735,0.35714285714285715,Other,Sales,Account Manager,2,France
+32,124262.0,16,27,1,76,8.0,11,2.3,4,1491144.0,4,5.15,0.34375,Other,Sales,Account Manager,4,USA
+48,31181.0,32,1,10,15,10.0,11,3.43,3,374172.0,11,6.715,0.22916666666666666,Female,Support,Support Engineer,1,USA
+48,139956.0,35,0,10,10,,10,3.0,3,1679472.0,7,,0.20833333333333334,Male,Marketing,Content Lead,2,UK
+34,53489.0,23,27,3,51,,6,0.9,3,641868.0,7,,0.17647058823529413,Other,HR,HR Executive,2,Germany
+34,123313.0,12,21,5,25,7.0,5,4.1,4,1479756.0,6,5.55,0.14705882352941177,Other,Sales,Account Manager,1,Canada
+52,34410.0,3,8,3,26,,4,8.07,4,412920.0,4,,0.07692307692307693,Other,IT,Tester,5,USA
+54,35504.0,30,20,9,8,,9,0.67,4,426048.0,8,,0.16666666666666666,Male,Marketing,SEO Analyst,2,France
+41,47809.0,37,20,2,71,,8,-0.73,4,573708.0,3,,0.1951219512195122,Other,HR,HR Executive,4,USA
+33,152793.0,30,14,11,51,,2,1.67,3,1833516.0,3,,0.06060606060606061,Male,IT,Developer,1,Germany
+51,144222.0,23,16,15,75,,8,2.73,4,1730664.0,3,,0.1568627450980392,Male,HR,HR Executive,2,UK
+55,122095.0,15,0,13,32,,7,7.0,4,1465140.0,6,,0.12727272727272726,Female,Marketing,Content Lead,5,Canada
+60,176852.0,18,9,2,62,3.0,13,4.9,5,2122224.0,12,3.95,0.21666666666666667,Other,Support,Support Engineer,3,UK
+51,138076.0,2,15,7,47,3.0,15,7.1,3,1656912.0,4,5.05,0.29411764705882354,Male,Sales,Sales Executive,4,USA
+53,166057.0,33,17,2,77,1.0,2,0.57,3,1992684.0,2,0.7849999999999999,0.03773584905660377,Male,Support,Helpdesk,1,Germany
+35,81547.0,37,9,3,30,,4,1.1,4,978564.0,5,,0.11428571428571428,Female,Finance,Accountant,3,France
+47,78148.0,5,10,4,22,,8,7.33,5,937776.0,2,,0.1702127659574468,Female,HR,HR Executive,4,Canada
+25,57534.0,39,3,15,14,,5,1.7,3,690408.0,4,,0.2,Female,HR,HR Manager,2,India
+60,77413.0,27,0,6,50,,15,4.6,2,928956.0,6,,0.25,Other,IT,Tester,3,Canada
+31,143831.0,17,0,13,72,,2,6.6,3,1725972.0,3,,0.06451612903225806,Female,IT,Tester,1,Germany
+28,126163.0,6,10,11,15,,3,7.13,3,1513956.0,4,,0.10714285714285714,Female,HR,HR Manager,2,France
+34,151729.0,35,0,14,46,,5,3.0,3,1820748.0,6,,0.14705882352941177,Other,HR,HR Executive,1,Germany
+33,44773.0,6,7,5,57,8.0,10,7.63,3,537276.0,6,7.8149999999999995,0.30303030303030304,Other,Support,Support Engineer,1,India
+60,115425.0,40,25,5,78,1.0,5,-2.17,1,1385100.0,2,-0.585,0.08333333333333333,Female,Sales,Account Manager,1,Canada
+60,52297.0,39,1,12,72,,13,2.03,5,627564.0,9,,0.21666666666666667,Other,Marketing,SEO Analyst,3,France
+22,166881.0,6,1,13,77,,12,8.63,3,2002572.0,6,,0.5454545454545454,Female,HR,HR Manager,3,UK
+39,38986.0,8,13,12,53,10.0,13,6.23,1,467832.0,11,8.115,0.3333333333333333,Female,Support,Support Engineer,2,UK
+43,172355.0,27,11,13,43,,13,2.77,4,2068260.0,2,,0.3023255813953488,Other,Marketing,Content Lead,5,India
+51,43852.0,39,14,11,73,,2,-0.13,4,526224.0,2,,0.0392156862745098,Other,Marketing,SEO Analyst,1,India
+24,134669.0,28,24,11,45,4.0,9,0.4,3,1616028.0,2,2.2,0.375,Male,Support,Helpdesk,2,Germany
+59,126177.0,10,15,10,78,3.0,2,5.5,1,1514124.0,3,4.25,0.03389830508474576,Male,Support,Helpdesk,4,Germany
+49,47221.0,12,4,3,56,6.0,15,6.93,4,566652.0,8,6.465,0.30612244897959184,Male,Sales,Account Manager,5,UK
+34,88315.0,22,17,12,24,,9,2.77,2,1059780.0,9,,0.2647058823529412,Other,Marketing,SEO Analyst,5,UK
+49,139006.0,23,26,3,79,8.0,14,1.07,2,1668072.0,11,4.535,0.2857142857142857,Male,Support,Helpdesk,1,France
+30,124984.0,12,6,5,75,3.0,4,6.6,3,1499808.0,5,4.8,0.13333333333333333,Other,Support,Helpdesk,3,UK
+51,48033.0,8,2,7,70,4.0,11,8.07,3,576396.0,4,6.035,0.21568627450980393,Other,Support,Support Engineer,2,Germany
+28,176131.0,18,16,1,27,4.0,8,3.73,3,2113572.0,9,3.865,0.2857142857142857,Female,Sales,Account Manager,4,USA
+58,83089.0,4,26,3,45,,11,4.87,2,997068.0,12,,0.1896551724137931,Other,Finance,Auditor,5,India
+33,65067.0,31,9,7,25,1.0,3,2.3,4,780804.0,4,1.65,0.09090909090909091,Female,Sales,Sales Executive,2,Canada
+29,35093.0,37,13,5,35,,11,0.43,4,421116.0,2,,0.3793103448275862,Other,IT,Developer,3,Germany
+33,161083.0,16,15,12,58,6.0,4,4.3,3,1932996.0,2,5.15,0.12121212121212122,Female,Support,Support Engineer,2,India
+26,142521.0,23,5,15,79,4.0,14,4.57,4,1710252.0,14,4.285,0.5384615384615384,Male,Support,Support Engineer,2,India
+55,98836.0,40,6,7,26,,4,1.0,2,1186032.0,5,,0.07272727272727272,Other,Finance,Accountant,3,India
+23,36596.0,20,22,8,7,,9,2.33,5,439152.0,6,,0.391304347826087,Other,Finance,Auditor,5,France
+25,79311.0,9,20,1,7,,3,4.87,4,951732.0,3,,0.12,Male,HR,HR Executive,3,UK
+51,177547.0,39,16,13,11,,6,-0.47,3,2130564.0,3,,0.11764705882352941,Other,IT,Engineer,3,India
+51,139711.0,39,28,6,17,7.0,6,-2.47,5,1676532.0,6,2.2649999999999997,0.11764705882352941,Male,Support,Support Engineer,1,UK
+23,133661.0,25,11,13,36,,14,3.17,4,1603932.0,5,,0.6086956521739131,Female,Finance,Auditor,2,Canada
+55,119959.0,26,4,6,6,3.0,8,4.13,3,1439508.0,3,3.565,0.14545454545454545,Other,Support,Helpdesk,2,USA
+29,41236.0,37,17,6,26,,13,-0.23,4,494832.0,2,,0.4482758620689655,Male,HR,HR Manager,3,UK
+36,60667.0,4,11,7,12,,5,7.37,4,728004.0,6,,0.1388888888888889,Male,HR,HR Executive,1,UK
+57,85219.0,20,5,12,73,,11,5.17,4,1022628.0,6,,0.19298245614035087,Male,Finance,Accountant,3,India
+22,113299.0,13,7,11,69,,8,6.23,2,1359588.0,4,,0.36363636363636365,Male,IT,Tester,5,Canada
+35,73218.0,39,2,2,15,,4,1.87,2,878616.0,2,,0.11428571428571428,Other,IT,Engineer,4,Germany
+51,166935.0,17,29,2,13,,10,1.77,5,2003220.0,6,,0.19607843137254902,Other,Finance,Accountant,4,USA
+21,149268.0,25,4,2,42,,10,4.33,5,1791216.0,7,,0.47619047619047616,Female,Finance,Accountant,1,France
+24,167109.0,22,15,15,21,,2,3.1,3,2005308.0,3,,0.08333333333333333,Female,Marketing,SEO Analyst,5,UK
+23,44615.0,10,20,1,67,,5,4.67,5,535380.0,2,,0.21739130434782608,Female,HR,HR Executive,3,India
+40,174938.0,33,26,3,7,,6,-0.93,3,2099256.0,5,,0.15,Female,Marketing,Content Lead,2,UK
+55,141609.0,8,22,7,14,8.0,9,4.73,4,1699308.0,7,6.365,0.16363636363636364,Male,Sales,Sales Executive,2,Canada
+48,143395.0,26,30,15,61,10.0,2,-0.2,2,1720740.0,3,4.9,0.041666666666666664,Male,Support,Helpdesk,1,USA
+48,91560.0,32,28,6,54,7.0,6,-1.07,4,1098720.0,2,2.965,0.125,Male,Support,Support Engineer,5,Germany
+42,178594.0,4,1,10,8,3.0,2,9.03,3,2143128.0,2,6.015,0.047619047619047616,Female,Sales,Account Manager,4,UK
+49,136861.0,6,27,11,34,2.0,12,4.3,3,1642332.0,9,3.15,0.24489795918367346,Other,Sales,Sales Executive,1,India
+48,70640.0,13,16,13,64,,7,4.73,2,847680.0,3,,0.14583333333333334,Female,Finance,Auditor,3,Germany
+60,86918.0,35,25,10,14,7.0,15,-1.17,5,1043016.0,8,2.915,0.25,Male,Sales,Account Manager,1,Canada
+27,87099.0,9,24,3,30,4.0,7,4.2,3,1045188.0,3,4.1,0.25925925925925924,Female,Sales,Sales Executive,3,Canada
+52,33037.0,18,6,7,46,8.0,8,5.4,3,396444.0,5,6.7,0.15384615384615385,Other,Sales,Account Manager,2,Canada
+38,143214.0,36,28,11,30,,8,-1.87,5,1718568.0,5,,0.21052631578947367,Female,HR,HR Manager,4,USA
+30,168202.0,17,14,1,80,,3,4.27,5,2018424.0,3,,0.1,Female,Marketing,SEO Analyst,2,India
+25,151301.0,31,30,12,46,,15,-1.2,4,1815612.0,8,,0.6,Other,IT,Engineer,3,UK
+35,32158.0,10,18,6,48,,3,5.0,4,385896.0,2,,0.08571428571428572,Male,IT,Developer,5,Germany
+42,122405.0,16,16,12,21,,2,4.13,3,1468860.0,3,,0.047619047619047616,Other,Finance,Auditor,5,Canada
+39,33150.0,3,20,14,28,3.0,2,6.07,4,397800.0,3,4.535,0.05128205128205128,Female,Support,Support Engineer,1,India
+55,70445.0,25,11,14,33,5.0,13,3.17,2,845340.0,2,4.085,0.23636363636363636,Other,Sales,Sales Executive,4,France
+24,173731.0,28,25,4,23,,6,0.23,4,2084772.0,7,,0.25,Female,Marketing,Content Lead,4,India
+26,35989.0,16,6,6,72,,9,5.8,3,431868.0,10,,0.34615384615384615,Female,HR,HR Executive,3,India
+26,87882.0,32,6,2,21,4.0,14,2.6,3,1054584.0,11,3.3,0.5384615384615384,Other,Sales,Account Manager,1,India
+44,125274.0,38,8,4,77,3.0,9,1.07,1,1503288.0,5,2.035,0.20454545454545456,Other,Sales,Sales Executive,3,UK
+32,69596.0,8,25,1,51,,6,4.23,3,835152.0,7,,0.1875,Female,Finance,Auditor,1,France
+21,150477.0,30,11,7,37,2.0,4,2.17,3,1805724.0,5,2.085,0.19047619047619047,Male,Support,Helpdesk,5,Germany
+39,147300.0,26,12,12,62,3.0,2,2.8,3,1767600.0,2,2.9,0.05128205128205128,Other,Support,Support Engineer,2,USA
+28,137113.0,9,6,5,69,,6,7.2,3,1645356.0,6,,0.21428571428571427,Male,HR,HR Manager,2,USA
+54,43249.0,4,20,2,62,,9,5.87,4,518988.0,4,,0.16666666666666666,Other,Finance,Auditor,3,Canada
+27,35448.0,40,20,4,41,,11,-1.33,4,425376.0,6,,0.4074074074074074,Female,Finance,Accountant,4,India
+56,122891.0,14,25,6,45,,12,3.03,4,1474692.0,9,,0.21428571428571427,Other,HR,HR Manager,1,France
+24,42837.0,34,5,10,14,,6,2.37,4,514044.0,6,,0.25,Female,IT,Developer,1,UK
+29,74702.0,15,11,3,54,,13,5.17,3,896424.0,12,,0.4482758620689655,Female,Finance,Accountant,2,USA
+38,112040.0,37,3,9,54,,14,2.1,3,1344480.0,14,,0.3684210526315789,Female,HR,HR Executive,2,Canada
+35,170493.0,17,6,15,57,,11,5.6,3,2045916.0,6,,0.3142857142857143,Female,Finance,Accountant,3,Canada
+42,44817.0,9,25,14,60,6.0,2,4.03,3,537804.0,3,5.015000000000001,0.047619047619047616,Male,Sales,Account Manager,3,Canada
+56,39070.0,7,20,12,54,7.0,2,5.27,3,468840.0,3,6.135,0.03571428571428571,Female,Support,Support Engineer,1,Germany
+32,107827.0,15,29,2,35,,3,2.17,3,1293924.0,2,,0.09375,Female,Finance,Auditor,5,France
+44,170873.0,14,17,3,72,,5,4.37,2,2050476.0,4,,0.11363636363636363,Female,IT,Developer,5,India
+55,162151.0,9,14,15,69,9.0,10,5.87,3,1945812.0,4,7.4350000000000005,0.18181818181818182,Other,Support,Helpdesk,3,Germany
+42,170095.0,2,2,11,42,,12,9.27,5,2041140.0,11,,0.2857142857142857,Female,Marketing,Content Lead,4,Germany
+50,155425.0,8,13,8,44,7.0,13,6.23,3,1865100.0,11,6.615,0.26,Female,Support,Support Engineer,4,USA
+56,75142.0,5,24,1,14,3.0,2,5.0,3,901704.0,3,4.0,0.03571428571428571,Other,Support,Helpdesk,5,UK
+25,156837.0,40,5,9,9,1.0,8,1.17,2,1882044.0,7,1.085,0.32,Other,Sales,Sales Executive,2,Germany
+26,32981.0,40,25,14,16,,6,-2.17,3,395772.0,7,,0.23076923076923078,Female,Finance,Accountant,4,Germany
+39,171542.0,35,18,10,45,,13,0.0,3,2058504.0,10,,0.3333333333333333,Male,IT,Engineer,2,Canada
+23,164893.0,21,13,3,44,,12,3.63,2,1978716.0,5,,0.5217391304347826,Female,IT,Engineer,1,UK
+49,123450.0,20,9,11,25,,13,4.5,3,1481400.0,6,,0.2653061224489796,Other,HR,HR Executive,4,France
+24,99973.0,5,0,5,21,,6,9.0,5,1199676.0,5,,0.25,Male,IT,Developer,2,France
+22,71184.0,29,17,1,41,,11,1.37,3,854208.0,10,,0.5,Other,Finance,Accountant,2,Canada
+56,169664.0,33,24,14,70,1.0,4,-0.6,4,2035968.0,2,0.2,0.07142857142857142,Male,Support,Helpdesk,5,France
+50,102015.0,8,11,2,19,,6,6.57,3,1224180.0,3,,0.12,Female,Marketing,SEO Analyst,3,India
+42,83883.0,16,13,2,24,,11,4.63,2,1006596.0,7,,0.2619047619047619,Female,IT,Engineer,2,USA
+44,59968.0,32,16,1,9,7.0,11,0.93,4,719616.0,2,3.965,0.25,Male,Sales,Sales Executive,5,USA
+56,146542.0,39,6,9,12,,15,1.2,4,1758504.0,15,,0.26785714285714285,Male,HR,HR Manager,2,UK
+54,91897.0,39,29,14,75,,6,-2.63,1,1102764.0,2,,0.1111111111111111,Other,Finance,Accountant,1,India
+58,178781.0,22,23,2,11,,9,1.77,4,2145372.0,4,,0.15517241379310345,Female,HR,HR Executive,5,Canada
+26,109535.0,15,7,6,55,,5,5.83,3,1314420.0,2,,0.19230769230769232,Female,Finance,Auditor,4,Canada
+37,165808.0,24,9,5,17,,4,3.7,4,1989696.0,3,,0.10810810810810811,Female,HR,HR Manager,3,Canada
+32,84858.0,17,8,14,70,,3,5.27,3,1018296.0,2,,0.09375,Male,Marketing,SEO Analyst,4,Germany
+60,77093.0,39,9,15,61,,2,0.7,2,925116.0,2,,0.03333333333333333,Female,IT,Tester,3,UK
+55,131743.0,26,3,9,79,,7,4.3,2,1580916.0,8,,0.12727272727272726,Female,IT,Engineer,5,India
+55,134434.0,28,11,13,54,,11,2.57,3,1613208.0,9,,0.2,Male,Finance,Auditor,5,France
+24,136945.0,28,15,8,25,,9,1.9,4,1643340.0,4,,0.375,Male,HR,HR Executive,1,USA
+43,135916.0,2,17,6,58,,7,6.77,3,1630992.0,2,,0.16279069767441862,Female,Marketing,Content Lead,3,Germany
+57,93082.0,12,30,13,42,8.0,12,2.6,3,1116984.0,6,5.3,0.21052631578947367,Male,Support,Support Engineer,2,Canada
+29,65014.0,6,4,5,33,,2,8.13,3,780168.0,2,,0.06896551724137931,Male,Marketing,Content Lead,1,France
+30,112960.0,11,10,9,67,,4,6.13,2,1355520.0,3,,0.13333333333333333,Other,HR,HR Executive,1,India
+52,132414.0,15,19,6,64,,8,3.83,3,1588968.0,5,,0.15384615384615385,Other,HR,HR Executive,4,UK
+35,143004.0,6,3,11,50,,5,8.3,3,1716048.0,6,,0.14285714285714285,Other,Finance,Accountant,1,Germany
+56,54712.0,10,28,2,13,,6,3.33,1,656544.0,6,,0.10714285714285714,Male,Marketing,Content Lead,3,India
+30,153348.0,31,1,13,74,3.0,7,3.63,5,1840176.0,8,3.315,0.23333333333333334,Male,Sales,Account Manager,1,UK
+55,174508.0,20,4,1,49,,10,5.33,3,2094096.0,5,,0.18181818181818182,Male,IT,Tester,5,UK
+26,144116.0,31,2,2,64,,6,3.47,4,1729392.0,3,,0.23076923076923078,Female,HR,HR Manager,2,France
+56,159885.0,3,16,7,65,,6,6.73,1,1918620.0,7,,0.10714285714285714,Male,IT,Engineer,2,Germany
+27,169508.0,17,3,1,48,8.0,15,6.1,4,2034096.0,15,7.05,0.5555555555555556,Female,Sales,Account Manager,1,Germany
+38,177664.0,39,3,12,70,3.0,2,1.7,2,2131968.0,3,2.35,0.05263157894736842,Male,Sales,Sales Executive,2,Germany
+21,47481.0,15,12,2,69,8.0,10,5.0,3,569772.0,10,6.5,0.47619047619047616,Male,Sales,Account Manager,5,India
+46,30120.0,8,27,15,9,,3,3.9,4,361440.0,3,,0.06521739130434782,Other,Finance,Auditor,4,Canada
+50,142858.0,15,24,15,76,2.0,7,3.0,4,1714296.0,7,2.5,0.14,Other,Sales,Account Manager,3,India
+31,105734.0,21,11,9,64,,15,3.97,3,1268808.0,10,,0.4838709677419355,Female,Finance,Accountant,1,UK
+51,162145.0,33,22,2,58,,13,-0.27,2,1945740.0,13,,0.2549019607843137,Other,HR,HR Manager,4,India
+24,46636.0,28,8,10,56,1.0,13,3.07,2,559632.0,6,2.035,0.5416666666666666,Other,Support,Helpdesk,3,India
+32,170728.0,37,1,10,8,1.0,15,2.43,3,2048736.0,5,1.715,0.46875,Male,Support,Helpdesk,3,Germany
+27,133923.0,13,30,7,60,6.0,11,2.4,4,1607076.0,4,4.2,0.4074074074074074,Female,Sales,Sales Executive,1,France
+57,79891.0,16,29,11,44,,4,1.97,5,958692.0,2,,0.07017543859649122,Other,IT,Developer,3,UK
+21,58705.0,37,22,15,55,,13,-1.07,3,704460.0,2,,0.6190476190476191,Female,Marketing,SEO Analyst,2,Canada
+22,119161.0,12,13,8,48,,10,5.43,4,1429932.0,5,,0.45454545454545453,Male,Marketing,Content Lead,3,Germany
+38,122362.0,22,5,14,33,10.0,3,4.77,3,1468344.0,4,7.385,0.07894736842105263,Female,Sales,Sales Executive,3,Germany
+57,122097.0,21,5,12,16,,8,4.97,3,1465164.0,5,,0.14035087719298245,Other,IT,Developer,5,Canada
+53,99804.0,21,9,9,57,1.0,9,4.3,3,1197648.0,9,2.65,0.16981132075471697,Other,Sales,Sales Executive,4,Germany
+21,68709.0,33,21,9,14,,8,-0.1,4,824508.0,2,,0.38095238095238093,Female,HR,HR Manager,4,Germany
+29,73431.0,25,27,1,15,,8,0.5,5,881172.0,7,,0.27586206896551724,Female,HR,HR Manager,1,France
+45,152937.0,27,0,13,79,6.0,2,4.6,5,1835244.0,2,5.3,0.044444444444444446,Male,Support,Helpdesk,3,France
+24,50829.0,25,15,9,52,4.0,8,2.5,3,609948.0,6,3.25,0.3333333333333333,Male,Support,Support Engineer,2,France
+22,91538.0,6,19,4,52,1.0,14,5.63,3,1098456.0,12,3.315,0.6363636363636364,Female,Support,Helpdesk,2,Germany
+53,72612.0,15,8,4,28,8.0,10,5.67,4,871344.0,5,6.835,0.18867924528301888,Other,Sales,Account Manager,4,India
+26,113808.0,7,5,2,26,,10,7.77,3,1365696.0,5,,0.38461538461538464,Male,HR,HR Manager,4,Germany
+30,78248.0,39,16,6,51,,8,-0.47,4,938976.0,9,,0.26666666666666666,Female,Finance,Accountant,1,Canada
+22,36366.0,20,0,14,37,,6,6.0,4,436392.0,4,,0.2727272727272727,Male,Marketing,Content Lead,1,France
+34,124118.0,5,30,4,67,,4,4.0,3,1489416.0,4,,0.11764705882352941,Other,Finance,Auditor,3,USA
+42,173076.0,35,30,12,51,3.0,4,-2.0,4,2076912.0,5,0.5,0.09523809523809523,Other,Sales,Account Manager,4,UK
+30,60148.0,5,8,9,50,5.0,6,7.67,3,721776.0,6,6.335,0.2,Male,Sales,Sales Executive,5,UK
+48,179876.0,17,0,10,8,,3,6.6,3,2158512.0,2,,0.0625,Female,IT,Developer,3,India
+50,71648.0,11,12,2,49,,12,5.8,3,859776.0,10,,0.24,Female,IT,Engineer,5,UK
+50,129341.0,40,7,15,71,,15,0.83,4,1552092.0,11,,0.3,Female,Finance,Auditor,4,India
+32,154022.0,11,14,2,14,,8,5.47,3,1848264.0,9,,0.25,Male,HR,HR Manager,1,France
+49,38841.0,20,17,10,53,,10,3.17,3,466092.0,4,,0.20408163265306123,Male,IT,Developer,1,Germany
+28,54740.0,24,26,12,13,,15,0.87,4,656880.0,12,,0.5357142857142857,Other,HR,HR Manager,4,USA
+59,53573.0,2,5,9,43,,14,8.77,2,642876.0,7,,0.23728813559322035,Female,HR,HR Executive,4,Canada
+37,176277.0,9,2,6,10,1.0,14,7.87,4,2115324.0,6,4.4350000000000005,0.3783783783783784,Male,Support,Helpdesk,3,UK
+27,107565.0,23,7,4,33,9.0,12,4.23,2,1290780.0,3,6.615,0.4444444444444444,Other,Support,Support Engineer,5,France
+47,46944.0,31,15,9,45,,3,1.3,2,563328.0,3,,0.06382978723404255,Other,HR,HR Manager,5,USA
+35,45633.0,37,11,7,43,9.0,15,0.77,3,547596.0,3,4.885,0.42857142857142855,Male,Sales,Sales Executive,4,Germany
+35,167197.0,10,4,5,45,,14,7.33,3,2006364.0,8,,0.4,Male,Finance,Accountant,2,Canada
+55,112507.0,13,10,5,75,8.0,7,5.73,5,1350084.0,7,6.865,0.12727272727272726,Male,Sales,Account Manager,1,Germany
+33,90509.0,36,14,9,16,5.0,2,0.47,3,1086108.0,3,2.735,0.06060606060606061,Female,Sales,Account Manager,2,USA
+45,150675.0,40,18,14,76,,12,-1.0,1,1808100.0,9,,0.26666666666666666,Female,HR,HR Executive,5,Germany
+46,71300.0,24,11,1,64,,10,3.37,3,855600.0,10,,0.21739130434782608,Female,Marketing,SEO Analyst,1,Germany
+60,77783.0,5,5,8,39,,9,8.17,3,933396.0,4,,0.15,Male,Marketing,SEO Analyst,4,Canada
+58,109972.0,24,13,5,32,,10,3.03,4,1319664.0,9,,0.1724137931034483,Other,IT,Tester,2,Canada
+37,148267.0,34,0,7,10,,5,3.2,4,1779204.0,3,,0.13513513513513514,Male,Marketing,Content Lead,4,India
+56,131748.0,37,28,8,61,,7,-2.07,3,1580976.0,7,,0.125,Other,IT,Tester,1,Germany
+51,145326.0,6,24,9,75,,12,4.8,3,1743912.0,8,,0.23529411764705882,Male,IT,Engineer,2,UK
+32,145172.0,24,19,8,28,,3,2.03,5,1742064.0,4,,0.09375,Male,Marketing,Content Lead,4,Germany
+25,140663.0,27,0,6,62,1.0,13,4.6,3,1687956.0,7,2.8,0.52,Other,Sales,Sales Executive,5,USA
+25,122261.0,39,23,14,28,,4,-1.63,1,1467132.0,5,,0.16,Male,Finance,Accountant,5,UK
+31,35923.0,15,30,7,25,,12,2.0,4,431076.0,5,,0.3870967741935484,Female,HR,HR Manager,4,USA
+47,121204.0,34,24,13,22,,14,-0.8,4,1454448.0,13,,0.2978723404255319,Female,IT,Developer,5,Canada
+56,48764.0,7,14,9,53,9.0,5,6.27,3,585168.0,3,7.635,0.08928571428571429,Other,Sales,Account Manager,2,Germany
+43,111995.0,10,7,1,64,8.0,5,6.83,4,1343940.0,4,7.415,0.11627906976744186,Female,Sales,Sales Executive,5,UK
+23,146939.0,16,13,11,26,,7,4.63,3,1763268.0,6,,0.30434782608695654,Female,HR,HR Manager,1,France
+38,131509.0,26,26,12,28,9.0,3,0.47,5,1578108.0,2,4.735,0.07894736842105263,Male,Sales,Account Manager,2,India
+36,49565.0,38,26,12,10,8.0,9,-1.93,2,594780.0,4,3.035,0.25,Other,Support,Support Engineer,5,USA
+35,85186.0,33,12,5,79,,10,1.4,3,1022232.0,4,,0.2857142857142857,Female,HR,HR Executive,5,France
+37,170101.0,12,26,11,56,,11,3.27,3,2041212.0,2,,0.2972972972972973,Female,Marketing,SEO Analyst,3,UK
+42,166547.0,29,25,7,7,,6,0.03,3,1998564.0,5,,0.14285714285714285,Female,Marketing,SEO Analyst,1,India
+46,136830.0,0,12,4,30,,4,8.0,3,1641960.0,5,,0.08695652173913043,Male,Marketing,Content Lead,5,USA
+36,89473.0,15,20,3,5,,13,3.67,3,1073676.0,10,,0.3611111111111111,Other,Marketing,Content Lead,2,USA
+28,80131.0,28,19,2,29,,2,1.23,3,961572.0,3,,0.07142857142857142,Female,Finance,Auditor,3,UK
+36,60436.0,27,29,15,57,,8,-0.23,4,725232.0,3,,0.2222222222222222,Female,IT,Tester,4,India
+42,167857.0,3,23,4,48,,4,5.57,3,2014284.0,2,,0.09523809523809523,Female,HR,HR Executive,5,India
+33,153228.0,30,13,8,14,,4,1.83,4,1838736.0,5,,0.12121212121212122,Female,Finance,Auditor,2,Canada
+47,109066.0,22,1,5,30,,4,5.43,3,1308792.0,5,,0.0851063829787234,Male,Finance,Accountant,5,India
+55,136921.0,33,13,1,67,,9,1.23,3,1643052.0,5,,0.16363636363636364,Male,HR,HR Manager,1,France
+32,99855.0,9,16,3,40,,4,5.53,4,1198260.0,5,,0.125,Male,HR,HR Executive,2,India
+36,40969.0,34,21,15,53,,15,-0.3,2,491628.0,13,,0.4166666666666667,Male,IT,Developer,4,France
+21,88812.0,7,19,3,40,9.0,10,5.43,5,1065744.0,8,7.215,0.47619047619047616,Other,Sales,Sales Executive,1,Germany
+33,96146.0,10,11,6,38,,13,6.17,3,1153752.0,3,,0.3939393939393939,Female,Marketing,Content Lead,2,France
+33,76013.0,11,3,4,51,,10,7.3,3,912156.0,11,,0.30303030303030304,Male,HR,HR Manager,5,USA
+53,86146.0,31,7,7,5,3.0,7,2.63,2,1033752.0,2,2.815,0.1320754716981132,Male,Support,Helpdesk,2,France
+36,133790.0,2,26,10,74,,5,5.27,4,1605480.0,3,,0.1388888888888889,Female,IT,Tester,1,Canada
+47,82116.0,17,15,3,21,6.0,5,4.1,4,985392.0,6,5.05,0.10638297872340426,Female,Support,Helpdesk,2,USA
+36,174515.0,6,6,2,55,1.0,5,7.8,4,2094180.0,4,4.4,0.1388888888888889,Female,Sales,Account Manager,2,Canada
+51,32394.0,38,9,6,9,,11,0.9,3,388728.0,12,,0.21568627450980393,Female,IT,Tester,2,USA
+28,167537.0,5,14,12,43,,10,6.67,3,2010444.0,5,,0.35714285714285715,Other,HR,HR Executive,2,Canada
+55,172995.0,23,3,2,55,,14,4.9,3,2075940.0,8,,0.2545454545454545,Male,IT,Engineer,3,USA
+32,92794.0,4,22,5,17,,12,5.53,3,1113528.0,4,,0.375,Male,HR,HR Executive,1,France
+48,137935.0,35,17,8,66,,3,0.17,3,1655220.0,2,,0.0625,Other,HR,HR Manager,2,France
+44,115462.0,19,16,13,78,,7,3.53,4,1385544.0,5,,0.1590909090909091,Female,Marketing,SEO Analyst,2,Canada
+27,87597.0,5,14,1,30,6.0,8,6.67,2,1051164.0,7,6.335,0.2962962962962963,Other,Support,Helpdesk,3,India
+58,55055.0,26,3,13,26,3.0,5,4.3,4,660660.0,2,3.65,0.08620689655172414,Female,Support,Helpdesk,3,UK
+43,137797.0,9,6,10,17,,13,7.2,2,1653564.0,8,,0.3023255813953488,Male,IT,Tester,1,France
+43,53127.0,30,18,15,7,3.0,12,1.0,3,637524.0,2,2.0,0.27906976744186046,Female,Sales,Sales Executive,1,France
+34,140036.0,27,16,5,80,3.0,8,1.93,3,1680432.0,3,2.465,0.23529411764705882,Male,Support,Helpdesk,4,UK
+40,124811.0,15,6,9,75,,14,6.0,3,1497732.0,8,,0.35,Other,Finance,Accountant,4,France
+39,155312.0,25,4,12,10,,5,4.33,2,1863744.0,2,,0.1282051282051282,Other,IT,Developer,5,Canada
+49,105484.0,32,30,4,10,7.0,3,-1.4,3,1265808.0,3,2.8,0.061224489795918366,Male,Sales,Account Manager,3,Canada
+25,104217.0,10,0,11,24,,2,8.0,5,1250604.0,2,,0.08,Female,HR,HR Executive,1,India
+46,167454.0,15,5,10,67,,4,6.17,3,2009448.0,2,,0.08695652173913043,Male,Finance,Accountant,1,France
+33,68529.0,40,0,10,69,,9,2.0,2,822348.0,5,,0.2727272727272727,Other,IT,Developer,5,Germany
+31,53142.0,28,1,5,48,,15,4.23,3,637704.0,8,,0.4838709677419355,Female,Finance,Auditor,4,USA
+58,40979.0,18,25,15,46,,9,2.23,3,491748.0,3,,0.15517241379310345,Male,Finance,Accountant,5,Canada
+46,161498.0,23,3,11,65,,9,4.9,4,1937976.0,8,,0.1956521739130435,Female,Marketing,SEO Analyst,4,India
+21,147713.0,23,24,13,43,,14,1.4,3,1772556.0,6,,0.6666666666666666,Female,IT,Engineer,4,USA
+22,93080.0,30,15,10,66,8.0,2,1.5,3,1116960.0,2,4.75,0.09090909090909091,Other,Sales,Sales Executive,1,France
+56,129210.0,39,8,8,31,5.0,14,0.87,1,1550520.0,11,2.935,0.25,Male,Sales,Sales Executive,1,Canada
+51,37689.0,15,3,4,19,8.0,13,6.5,2,452268.0,2,7.25,0.2549019607843137,Other,Support,Support Engineer,1,Germany
+30,173685.0,20,23,6,37,,14,2.17,3,2084220.0,13,,0.4666666666666667,Female,Marketing,SEO Analyst,5,France
+46,68482.0,3,0,1,24,,11,9.4,2,821784.0,6,,0.2391304347826087,Female,IT,Tester,4,USA
+37,51630.0,11,28,2,6,3.0,7,3.13,3,619560.0,3,3.065,0.1891891891891892,Male,Support,Support Engineer,1,India
+31,41134.0,31,0,2,19,,2,3.8,4,493608.0,2,,0.06451612903225806,Male,IT,Engineer,2,India
+22,46137.0,29,25,11,50,4.0,4,0.03,3,553644.0,5,2.015,0.18181818181818182,Male,Sales,Sales Executive,5,UK
+54,38595.0,12,1,14,8,,9,7.43,3,463140.0,9,,0.16666666666666666,Female,HR,HR Manager,5,India
+52,175777.0,26,23,6,80,4.0,14,0.97,3,2109324.0,12,2.485,0.2692307692307692,Male,Sales,Sales Executive,3,France
+32,102650.0,3,2,13,30,1.0,7,9.07,5,1231800.0,6,5.035,0.21875,Other,Sales,Account Manager,4,India
+51,107276.0,13,0,15,6,,13,7.4,5,1287312.0,11,,0.2549019607843137,Female,Marketing,Content Lead,1,Canada
+22,131037.0,19,9,10,35,9.0,7,4.7,4,1572444.0,5,6.85,0.3181818181818182,Other,Support,Support Engineer,3,India
+21,131917.0,20,16,15,70,5.0,5,3.33,2,1583004.0,2,4.165,0.23809523809523808,Female,Sales,Account Manager,1,India
+60,133093.0,37,8,13,50,,12,1.27,4,1597116.0,7,,0.2,Other,Marketing,Content Lead,3,UK
+48,72367.0,25,0,10,60,,2,5.0,4,868404.0,3,,0.041666666666666664,Female,IT,Tester,5,India
+25,32438.0,18,29,7,48,9.0,10,1.57,3,389256.0,5,5.285,0.4,Male,Support,Helpdesk,2,Germany
+49,59217.0,4,22,13,63,,2,5.53,3,710604.0,3,,0.04081632653061224,Male,Finance,Accountant,1,India
+59,175726.0,35,16,13,70,8.0,12,0.33,4,2108712.0,2,4.165,0.2033898305084746,Other,Sales,Account Manager,1,Germany
+41,32496.0,15,15,12,44,,12,4.5,3,389952.0,12,,0.2926829268292683,Female,Marketing,SEO Analyst,3,France
+27,30860.0,15,29,6,16,,9,2.17,3,370320.0,5,,0.3333333333333333,Female,IT,Engineer,4,UK
+48,84698.0,34,4,10,57,4.0,7,2.53,4,1016376.0,2,3.2649999999999997,0.14583333333333334,Female,Sales,Sales Executive,5,India
+39,41440.0,6,7,6,55,2.0,3,7.63,3,497280.0,3,4.8149999999999995,0.07692307692307693,Male,Sales,Sales Executive,5,USA
+41,69711.0,22,4,9,41,,6,4.93,3,836532.0,7,,0.14634146341463414,Other,Finance,Accountant,1,France
+60,112591.0,32,24,2,57,,12,-0.4,1,1351092.0,5,,0.2,Other,IT,Developer,1,France
+41,63692.0,38,21,15,60,,4,-1.1,2,764304.0,5,,0.0975609756097561,Male,Marketing,SEO Analyst,5,Canada
+47,34950.0,30,13,13,73,1.0,11,1.83,3,419400.0,9,1.415,0.23404255319148937,Female,Sales,Account Manager,5,UK
+55,162717.0,10,30,6,68,,12,3.0,5,1952604.0,4,,0.21818181818181817,Male,IT,Developer,1,India
+49,104563.0,20,24,5,20,,14,2.0,3,1254756.0,12,,0.2857142857142857,Male,IT,Tester,4,Canada
+29,83355.0,31,13,7,80,1.0,2,1.63,2,1000260.0,2,1.315,0.06896551724137931,Male,Sales,Sales Executive,2,France
+43,98962.0,2,21,7,16,,11,6.1,4,1187544.0,2,,0.2558139534883721,Female,IT,Tester,2,USA
+37,53289.0,22,11,2,17,4.0,4,3.77,5,639468.0,4,3.885,0.10810810810810811,Male,Support,Support Engineer,3,France
+29,67267.0,38,2,6,45,,8,2.07,3,807204.0,7,,0.27586206896551724,Male,HR,HR Manager,4,UK
+23,64955.0,8,5,3,35,,10,7.57,2,779460.0,5,,0.43478260869565216,Male,Marketing,Content Lead,4,UK
+47,32693.0,37,12,3,52,,2,0.6,4,392316.0,2,,0.0425531914893617,Other,Marketing,SEO Analyst,3,USA
+48,168715.0,9,10,11,9,2.0,15,6.53,2,2024580.0,15,4.265000000000001,0.3125,Other,Support,Support Engineer,1,USA
+60,69898.0,37,29,6,41,,5,-2.23,2,838776.0,4,,0.08333333333333333,Other,Finance,Auditor,5,Canada
+44,76888.0,22,2,15,72,,13,5.27,4,922656.0,4,,0.29545454545454547,Female,Finance,Auditor,4,Canada
+23,77513.0,11,22,11,17,,5,4.13,1,930156.0,2,,0.21739130434782608,Female,IT,Engineer,4,Canada
+31,144517.0,40,29,13,73,,4,-2.83,4,1734204.0,4,,0.12903225806451613,Female,Finance,Auditor,2,Canada
+56,125280.0,19,1,15,62,,9,6.03,3,1503360.0,6,,0.16071428571428573,Male,Finance,Auditor,3,UK
+42,127848.0,26,25,10,7,1.0,2,0.63,3,1534176.0,3,0.815,0.047619047619047616,Other,Sales,Account Manager,5,Canada
+42,41729.0,7,7,8,9,,3,7.43,3,500748.0,3,,0.07142857142857142,Female,Marketing,Content Lead,5,France
+60,115766.0,31,11,13,76,6.0,5,1.97,4,1389192.0,6,3.985,0.08333333333333333,Female,Sales,Account Manager,2,Germany
+45,123401.0,22,17,5,44,,8,2.77,4,1480812.0,4,,0.17777777777777778,Male,Finance,Auditor,5,Canada
+60,155850.0,0,13,13,72,,6,7.83,3,1870200.0,3,,0.1,Female,Marketing,Content Lead,1,India
+33,127997.0,39,3,1,55,7.0,4,1.7,4,1535964.0,4,4.35,0.12121212121212122,Female,Sales,Account Manager,3,India
+27,156714.0,2,23,10,64,,9,5.77,4,1880568.0,8,,0.3333333333333333,Male,Marketing,Content Lead,5,UK
+58,149436.0,17,15,12,6,,15,4.1,3,1793232.0,10,,0.25862068965517243,Other,Marketing,SEO Analyst,1,India
+30,36058.0,26,6,13,76,5.0,3,3.8,3,432696.0,3,4.4,0.1,Male,Sales,Account Manager,3,India
+46,159792.0,8,0,8,50,,3,8.4,3,1917504.0,4,,0.06521739130434782,Other,Finance,Accountant,4,UK
+47,74415.0,25,27,3,29,5.0,5,0.5,3,892980.0,6,2.75,0.10638297872340426,Female,Sales,Account Manager,3,Germany
+33,43491.0,2,10,8,79,,8,7.93,4,521892.0,2,,0.24242424242424243,Other,Finance,Auditor,2,Canada
+29,46600.0,29,7,4,53,10.0,15,3.03,5,559200.0,9,6.515,0.5172413793103449,Male,Sales,Sales Executive,4,Germany
+40,57166.0,4,4,15,72,,10,8.53,3,685992.0,10,,0.25,Female,IT,Developer,3,India
+40,159746.0,2,1,13,19,3.0,3,9.43,4,1916952.0,4,6.215,0.075,Male,Support,Support Engineer,5,Germany
+53,175837.0,27,18,8,31,3.0,4,1.6,2,2110044.0,4,2.3,0.07547169811320754,Female,Sales,Sales Executive,4,France
+52,80388.0,19,23,2,11,4.0,8,2.37,1,964656.0,3,3.185,0.15384615384615385,Female,Support,Support Engineer,1,France
+52,171878.0,17,29,7,26,4.0,9,1.77,4,2062536.0,10,2.885,0.17307692307692307,Other,Support,Support Engineer,5,UK
+59,85221.0,17,15,8,61,,4,4.1,4,1022652.0,4,,0.06779661016949153,Male,Marketing,SEO Analyst,4,USA
+48,59266.0,16,6,15,60,,5,5.8,3,711192.0,5,,0.10416666666666667,Other,HR,HR Executive,1,France
+37,169877.0,7,0,2,5,,2,8.6,3,2038524.0,3,,0.05405405405405406,Other,Marketing,SEO Analyst,2,Germany
+55,78917.0,28,20,8,17,,9,1.07,3,947004.0,8,,0.16363636363636364,Female,Marketing,SEO Analyst,3,France
+54,135185.0,36,2,3,24,5.0,3,2.47,3,1622220.0,3,3.7350000000000003,0.05555555555555555,Male,Sales,Sales Executive,1,France
+25,110287.0,12,26,11,43,9.0,14,3.27,3,1323444.0,9,6.135,0.56,Female,Sales,Sales Executive,4,India
+27,50125.0,27,1,10,45,4.0,11,4.43,4,601500.0,9,4.215,0.4074074074074074,Other,Support,Helpdesk,2,Germany
+25,110690.0,7,17,11,43,,9,5.77,5,1328280.0,9,,0.36,Female,HR,HR Manager,3,India
+49,47150.0,5,18,15,66,,4,6.0,3,565800.0,5,,0.08163265306122448,Other,IT,Tester,1,UK
+34,121514.0,22,2,9,22,9.0,12,5.27,4,1458168.0,7,7.135,0.35294117647058826,Female,Sales,Account Manager,5,Canada
+30,179581.0,24,13,15,47,2.0,14,3.03,4,2154972.0,2,2.5149999999999997,0.4666666666666667,Female,Support,Helpdesk,5,France
+29,161650.0,31,27,7,70,10.0,9,-0.7,3,1939800.0,6,4.65,0.3103448275862069,Female,Sales,Sales Executive,1,Canada
+58,94497.0,33,29,15,42,,5,-1.43,4,1133964.0,4,,0.08620689655172414,Male,IT,Tester,5,India
+57,42163.0,5,1,9,48,,3,8.83,3,505956.0,4,,0.05263157894736842,Female,Finance,Accountant,3,France
+60,46869.0,23,15,12,71,,5,2.9,2,562428.0,4,,0.08333333333333333,Male,IT,Developer,4,USA
+45,77555.0,40,13,12,38,10.0,9,-0.17,4,930660.0,6,4.915,0.2,Female,Support,Helpdesk,5,India
+34,33685.0,33,17,7,20,6.0,2,0.57,3,404220.0,3,3.285,0.058823529411764705,Male,Support,Support Engineer,2,India
+53,152409.0,3,25,4,57,,3,5.23,4,1828908.0,3,,0.05660377358490566,Male,IT,Engineer,4,Germany
+43,110233.0,4,19,10,30,,4,6.03,4,1322796.0,4,,0.09302325581395349,Other,IT,Engineer,4,UK
+43,111332.0,13,8,8,75,,4,6.07,3,1335984.0,5,,0.09302325581395349,Female,IT,Developer,3,Germany
+46,141468.0,24,26,3,73,,3,0.87,3,1697616.0,3,,0.06521739130434782,Male,Marketing,Content Lead,5,UK
+48,88349.0,32,15,5,27,6.0,7,1.1,3,1060188.0,7,3.55,0.14583333333333334,Male,Support,Helpdesk,4,UK
+47,119643.0,1,19,5,54,,11,6.63,4,1435716.0,10,,0.23404255319148937,Female,HR,HR Executive,3,France
+32,161632.0,1,23,14,79,8.0,3,5.97,1,1939584.0,3,6.984999999999999,0.09375,Other,Sales,Account Manager,1,Canada
+34,53266.0,13,28,3,19,,2,2.73,4,639192.0,2,,0.058823529411764705,Male,Marketing,SEO Analyst,4,India
+60,67827.0,23,29,11,38,,15,0.57,2,813924.0,11,,0.25,Other,Finance,Accountant,4,USA
+27,116235.0,17,10,3,22,2.0,4,4.93,3,1394820.0,5,3.465,0.14814814814814814,Female,Support,Support Engineer,2,France
+58,35093.0,5,17,1,20,,13,6.17,4,421116.0,8,,0.22413793103448276,Female,Finance,Accountant,2,Canada
+60,155870.0,6,19,3,24,4.0,14,5.63,3,1870440.0,10,4.8149999999999995,0.23333333333333334,Female,Sales,Account Manager,3,UK
+32,140627.0,34,18,12,23,10.0,2,0.2,4,1687524.0,2,5.1,0.0625,Other,Support,Helpdesk,3,UK
+28,93057.0,15,3,3,52,,2,6.5,4,1116684.0,2,,0.07142857142857142,Female,IT,Developer,5,France
+25,107898.0,8,14,12,74,,11,6.07,3,1294776.0,9,,0.44,Female,Finance,Auditor,2,India
+59,169457.0,34,18,13,51,,9,0.2,2,2033484.0,7,,0.15254237288135594,Male,HR,HR Executive,3,USA
+40,173633.0,38,3,6,37,,5,1.9,3,2083596.0,5,,0.125,Female,Finance,Auditor,3,UK
+60,92312.0,39,17,1,20,,14,-0.63,1,1107744.0,13,,0.23333333333333334,Male,HR,HR Executive,4,UK
+22,35152.0,11,0,5,30,,8,7.8,3,421824.0,2,,0.36363636363636365,Female,HR,HR Manager,2,Canada
+37,162437.0,37,12,10,20,,5,0.6,2,1949244.0,3,,0.13513513513513514,Male,Finance,Accountant,4,Germany
+44,129971.0,38,17,7,43,,13,-0.43,4,1559652.0,7,,0.29545454545454547,Other,IT,Engineer,4,Germany
+54,175948.0,40,17,13,39,,9,-0.83,2,2111376.0,3,,0.16666666666666666,Male,Finance,Auditor,3,India
+35,162702.0,12,14,2,25,4.0,4,5.27,3,1952424.0,2,4.635,0.11428571428571428,Male,Sales,Account Manager,4,France
+24,76735.0,12,25,14,9,,5,3.43,4,920820.0,4,,0.20833333333333334,Male,HR,HR Manager,3,UK
+49,64651.0,17,4,12,22,6.0,14,5.93,4,775812.0,4,5.965,0.2857142857142857,Other,Sales,Sales Executive,3,USA
+55,94382.0,2,3,5,67,,15,9.1,4,1132584.0,15,,0.2727272727272727,Other,Marketing,Content Lead,5,UK
+56,140237.0,21,1,3,61,,5,5.63,3,1682844.0,5,,0.08928571428571429,Other,IT,Tester,3,France
+51,77476.0,9,6,3,14,3.0,14,7.2,4,929712.0,14,5.1,0.27450980392156865,Other,Support,Helpdesk,4,France
+21,36213.0,5,25,8,79,,2,4.83,3,434556.0,3,,0.09523809523809523,Female,IT,Developer,4,Germany
+43,60868.0,33,6,9,26,6.0,8,2.4,3,730416.0,8,4.2,0.18604651162790697,Other,Support,Support Engineer,1,France
+52,42425.0,39,19,8,52,,6,-0.97,2,509100.0,2,,0.11538461538461539,Other,IT,Tester,4,Germany
+31,171672.0,7,14,2,35,9.0,4,6.27,3,2060064.0,4,7.635,0.12903225806451613,Other,Sales,Sales Executive,1,Germany
+47,64927.0,37,15,4,73,3.0,7,0.1,5,779124.0,7,1.55,0.14893617021276595,Female,Sales,Sales Executive,5,Germany
+59,51461.0,19,20,13,79,10.0,7,2.87,3,617532.0,3,6.4350000000000005,0.11864406779661017,Female,Sales,Sales Executive,2,USA
+33,31689.0,5,11,9,45,,11,7.17,4,380268.0,3,,0.3333333333333333,Male,IT,Developer,3,India
+39,151142.0,29,14,5,71,,15,1.87,4,1813704.0,8,,0.38461538461538464,Other,Finance,Auditor,4,UK
+47,44069.0,22,7,5,24,,15,4.43,3,528828.0,11,,0.3191489361702128,Male,Finance,Accountant,1,France
+57,178046.0,30,2,6,70,,7,3.67,4,2136552.0,5,,0.12280701754385964,Other,HR,HR Manager,2,UK
+51,109973.0,1,18,8,51,5.0,4,6.8,3,1319676.0,3,5.9,0.0784313725490196,Female,Sales,Account Manager,4,Canada
+34,56917.0,16,5,9,66,,3,5.97,3,683004.0,2,,0.08823529411764706,Male,Marketing,SEO Analyst,5,India
+59,89449.0,14,0,6,57,,10,7.2,5,1073388.0,5,,0.1694915254237288,Other,IT,Tester,5,France
+53,152708.0,23,23,12,16,,6,1.57,3,1832496.0,5,,0.11320754716981132,Female,HR,HR Manager,2,UK
+38,56333.0,20,10,6,25,,4,4.33,4,675996.0,3,,0.10526315789473684,Male,IT,Developer,4,Canada
+25,127673.0,2,16,8,53,,12,6.93,3,1532076.0,12,,0.48,Other,IT,Developer,3,Canada
+47,107623.0,6,9,1,37,,6,7.3,3,1291476.0,7,,0.1276595744680851,Other,Finance,Auditor,5,Canada
+44,90850.0,23,14,1,64,,4,3.07,2,1090200.0,2,,0.09090909090909091,Male,Finance,Accountant,1,India
+52,138568.0,25,3,9,28,10.0,7,4.5,3,1662816.0,3,7.25,0.1346153846153846,Other,Sales,Account Manager,5,India
+40,77261.0,7,27,5,42,,8,4.1,4,927132.0,6,,0.2,Male,Marketing,Content Lead,1,India
+36,128292.93482703972,22,2,9,22,9.0,12,5.27,4,1539515.2179244766,7,7.135,0.3333333333333333,Female,Sales,Account Manager,5,Canada

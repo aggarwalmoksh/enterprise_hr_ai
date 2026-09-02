@@ -47,7 +47,7 @@ def main():
     org_gaps = get_org_gaps()
     recs = get_recommendations()
 
-    merged = emp[["EmployeeID", "Department", "JobRole", "Age", "Gender"]].merge(preds, on="EmployeeID")
+    merged = emp[["EmployeeID", "Name", "Department", "JobRole", "Age", "Gender"]].merge(preds, on="EmployeeID")
 
     st.title("🧠 AI WORKFORCE INTELLIGENCE PLATFORM")
     st.divider()
@@ -189,6 +189,7 @@ def main():
                 emp_recs = recommendation_service.get_recommendations(gaps)
 
                 st.divider()
+                st.markdown(f"#### Employee: **{emp_data['Name']}** (ID: {emp_data['EmployeeID']})")
                 c1, c2, c3, c4 = st.columns(4)
                 with c1:
                     st.metric("Department", emp_data["Department"])

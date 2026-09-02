@@ -22,7 +22,9 @@ def _engineer_features(df: pd.DataFrame) -> pd.DataFrame:
         result["Income_per_year"] = result["MonthlySalary"] * 12
 
     if "Gap_since_promotion" not in result.columns and "LastPromotionYear" in result.columns:
-        result["Gap_since_promotion"] = 2024 - result["LastPromotionYear"]
+        import datetime
+        current_year = datetime.datetime.now().year
+        result["Gap_since_promotion"] = current_year - result["LastPromotionYear"]
 
     if "Satisfaction_score" not in result.columns:
         if "CustomerSatisfaction" in result.columns and "WorkLifeBalanceScore" in result.columns:
